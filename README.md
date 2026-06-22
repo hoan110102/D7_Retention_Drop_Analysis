@@ -6,9 +6,13 @@
 
 Dự án tập trung bóc tách dữ liệu hành vi, phân khúc người chơi (F2P vs Payer), tỷ lệ crash ứng dụng và thiết kế màn chơi để đưa ra các giải pháp khắc phục cụ thể cho đội ngũ vận hành và phát triển game.
 
+## 🗒️ Bối Cảnh Dự Án
+
+Đây là một tựa game thuộc dòng game Slash Idle RPG ra mắt vào 1/3/2026, sau 1 tuần ra mắt, khi bắt đầu có những người chơi đạt đủ 7 ngày tuổi, chỉ số D7 retention chung của các nhóm người chơi này bắt đầu có dấu hiệu sụt giảm, nghiêm trọng nhất là dưới benchmark của dòng game (20%). Do đó cần có 1 bản phân tích nhằm tìm ra nguyên nhân dẫn đến tình trạng như vậy
+
 ---
 
-## 📂 Cấu Trúc Khối Lượng Công Việc (Repository Structure)
+## 📂 Cấu Trúc Dự Án (Repository Structure)
 
 ```text
 d7_retention_drop_analysis/
@@ -42,7 +46,17 @@ Qua quá trình truy vấn dữ liệu từ hệ thống DB và trực quan hóa
 * **Database:** `DuckDB` (Nhỏ gọn, tối ưu cho phân tích dữ liệu dạng bảng).
 * **Ngôn ngữ truy vấn:** `SQL` (Window Functions, Cohort Aggregation).
 * **Ngôn ngữ phân tích & Trực quan hóa:** `Python` (`Pandas`, `Seaborn`, `Matplotlib`).
-* **Môi trường làm việc:** `Jupyter Notebook`.
+
+---
+
+##  Bảng Dữ Liệu Sử Dụng
+
+* **dim_users:** Quản lý người dùng.
+* **dim_accounts:** Quản lý tài khoản người chơi.
+* **fact_user_sessions:** Ghi lại nhật ký phiên chơi.
+* **fact_stage_attempts:** Ghi lại tiến trình vượt ải.
+* **fact_ad_impressions:** Ghi lại các lượt người chơi xem quảng cáo.
+* **fact_ua_spends:** Theo dõi chi tiêu campaign theo ngày.
 
 ---
 
