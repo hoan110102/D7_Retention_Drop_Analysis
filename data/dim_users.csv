@@ -1,0 +1,1001 @@
+"user_id","install_date","device_model","os_type","os_version","device_tier","country","app_version","campaign_id","channel"
+usr_6c8dff62d7674d82,2026-03-01 00:00:00.000,Samsung Galaxy S24,Android,13.0,High,JP,"1.0.0",core_meta_android_t1,Meta
+usr_a1065ce9cf9d4095,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_18c048baa0ab4e29,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,15.0,Mid,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_21181957f8a8496a,2026-03-01 00:00:00.000,Samsung Galaxy S24,Android,15.0,High,KR,"1.0.0",core_meta_android_t1,Meta
+usr_78af41dda0814875,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_cfd70a7807d445ff,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,15.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_bf96fc486ec74412,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_ba8a819db61d4527,2026-03-01 00:00:00.000,POCO X6,Android,13.0,Mid,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_ea24e37cae77402e,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,18.0,High,CA,"1.0.0",core_applovin_ios_value,AppLovin
+usr_4b25b9c313c54553,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_e6ef91454e7b4f8d,2026-03-01 00:00:00.000,Realme Note 50,Android,13.0,Low,US,"1.0.0",core_tiktok_android_scale,TikTok
+usr_e9204a0eb7e040c8,2026-03-01 00:00:00.000,Samsung Galaxy S24,Android,14.0,High,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_7d301a02dea04366,2026-03-01 00:00:00.000,iPhone 13,iOS,18.0,Mid,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_cabebe0bfee94e0f,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_de1f137182ba4e32,2026-03-01 00:00:00.000,Realme Note 50,Android,15.0,Low,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_efa9824a5ba34d33,2026-03-01 00:00:00.000,iPhone 13,iOS,17.2,Mid,PH,"1.0.0",core_meta_ios_t1,Meta
+usr_d9e601452f854c2b,2026-03-01 00:00:00.000,Realme Note 50,Android,13.0,Low,CA,"1.0.0",core_meta_android_t1,Meta
+usr_0e25c15b1d67419c,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_ffdfb29431db48b1,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.4,Mid,PH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_432cc7306cd54923,2026-03-01 00:00:00.000,iPhone 12,iOS,17.5,Mid,US,"1.0.0",ct_liftoff_01,Liftoff
+usr_abd34e866ea840fc,2026-03-01 00:00:00.000,Samsung Galaxy S24,Android,15.0,High,GB,"1.0.0",core_meta_android_t1,Meta
+usr_f5fa5156aaf84d27,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,TH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_bc60fd9ffc1746ac,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.4,High,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_f1089e8e458c4faf,2026-03-01 00:00:00.000,iPhone 13,iOS,17.4,Mid,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_dabc9641b0bf4c86,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.4,High,TH,"1.0.0",core_meta_ios_t1,Meta
+usr_55071d17210a48ad,2026-03-01 00:00:00.000,OnePlus 12,Android,13.0,High,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_3e736ed2dc314bb1,2026-03-01 00:00:00.000,Oppo Reno 12,Android,15.0,Mid,JP,"1.0.0",core_meta_android_t1,Meta
+usr_555a79faf13940e3,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.5,High,MX,"1.0.0",core_applovin_ios_value,AppLovin
+usr_d4a6fe0f0b7f4dc7,2026-03-01 00:00:00.000,Oppo Reno 12,Android,15.0,Mid,AU,"1.0.0",core_tiktok_android_scale,TikTok
+usr_de4b822cd12f41f4,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,GB,"1.0.0",core_meta_android_t1,Meta
+usr_20a6d6d803c24eb6,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.2,High,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_24cb9ab3a22a4aa2,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,ID,"1.0.0",core_meta_ios_t1,Meta
+usr_365db3bff90d4cc7,2026-03-01 00:00:00.000,Vivo Y18,Android,15.0,Low,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_2086f85936c049a5,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,18.0,Mid,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_c8df3573379642d0,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.2,High,TH,"1.0.0",core_meta_ios_t1,Meta
+usr_74974c3493854463,2026-03-01 00:00:00.000,Realme Note 50,Android,15.0,Low,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_c3a0cef611914847,2026-03-01 00:00:00.000,OnePlus 12,Android,14.0,High,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_52e628a2d4ce41a2,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,15.0,Low,US,"1.0.0",core_meta_android_t1,Meta
+usr_d08298e5e3124352,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.4,Mid,PH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_eb429ce70c8e4755,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_e8781c481cfc4f25,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_63b3252aed0a4d61,2026-03-01 00:00:00.000,Redmi 13C,Android,15.0,Low,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_eaa2e9de8856490e,2026-03-01 00:00:00.000,iPhone 13,iOS,17.5,Mid,DE,"1.0.0",core_meta_ios_t1,Meta
+usr_a409e70d3fa34db1,2026-03-01 00:00:00.000,Samsung Galaxy S24,Android,14.0,High,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_834d21a18ee54db0,2026-03-01 00:00:00.000,OnePlus 12,Android,13.0,High,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_12febea300c94666,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_0a7e535b43b44f8a,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.4,High,TH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_dd0694372e494bba,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.4,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_6beeca5f61fd4d4a,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,US,"1.0.0",core_tiktok_android_scale,TikTok
+usr_f46f1348fba94514,2026-03-01 00:00:00.000,Xiaomi 14,Android,15.0,High,US,"1.0.0",core_meta_android_t1,Meta
+usr_1b29f69b2f4642b6,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,18.0,High,JP,"1.0.0",core_meta_ios_t1,Meta
+usr_a7e4c2fb40534cb3,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_1aad549bc592416d,2026-03-01 00:00:00.000,iPhone 13,iOS,17.5,Mid,ID,"1.0.0",core_meta_ios_t1,Meta
+usr_8acf651b79bf4574,2026-03-01 00:00:00.000,Xiaomi 14,Android,13.0,High,US,"1.0.0",core_meta_android_t1,Meta
+usr_57350c1d7f6b4f48,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.4,High,CA,"1.0.0",core_meta_ios_t1,Meta
+usr_a4f22cf9b5cb4702,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,14.0,Low,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_911bc88889dd41a3,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,DE,"1.0.0",core_tiktok_android_scale,TikTok
+usr_35eab935f7f94869,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,AU,"1.0.0",core_applovin_ios_value,AppLovin
+usr_20cad0fed715462c,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.4,Mid,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_30ae7400735d44fd,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,US,"1.0.0",core_tiktok_android_scale,TikTok
+usr_567bd4cbc742445b,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_53b6d8a8351d4c3a,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.2,High,ID,"1.0.0",core_meta_ios_t1,Meta
+usr_b3c74fcab76042f4,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,GB,"1.0.0",core_meta_android_t1,Meta
+usr_3b06f89a1e074b70,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.2,High,VN,"1.0.0",core_applovin_ios_value,AppLovin
+usr_7710b994dfe0491a,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,18.0,High,PH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_ff5ac911cc464997,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_7321ece8615d4d39,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,14.0,Low,US,"1.0.0",core_meta_android_t1,Meta
+usr_bb1163d5d2134416,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.2,High,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_66f58bd6ec544b35,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_ae0a72eed859465d,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,KR,"1.0.0",core_meta_android_t1,Meta
+usr_b0fd9b7840a14505,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,13.0,High,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_0ec86df80b374e72,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,13.0,Low,US,"1.0.0",core_tiktok_android_scale,TikTok
+usr_ea7ffa98a3fc4405,2026-03-01 00:00:00.000,Vivo Y18,Android,14.0,Low,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_e4ebe4b03c3a43d3,2026-03-01 00:00:00.000,Vivo Y18,Android,14.0,Low,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_77ee029b0cf84545,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_eac541ec497a47f2,2026-03-01 00:00:00.000,Xiaomi 14,Android,13.0,High,US,"1.0.0",core_meta_android_t1,Meta
+usr_501edd57081544f7,2026-03-01 00:00:00.000,iPhone 13,iOS,17.5,Mid,FR,"1.0.0",core_meta_ios_t1,Meta
+usr_71c01e4ca3fa4227,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,CA,"1.0.0",core_uac_android_global,Google UAC
+usr_7d7d5e60749443ea,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_9f40b398433d4def,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,15.0,Mid,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_0b0ac93396a04ecc,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_cf218e55ef0c45d5,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,15.0,High,KR,"1.0.0",core_meta_android_t1,Meta
+usr_c602702450df49bc,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_c0c3762678564465,2026-03-01 00:00:00.000,POCO X6,Android,13.0,Mid,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_113d7bed6d774d94,2026-03-01 00:00:00.000,Xiaomi 14,Android,15.0,High,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_de24600fa1d04227,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,JP,"1.0.0",core_applovin_ios_value,AppLovin
+usr_cd930ff50e03402b,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,JP,"1.0.0",core_meta_android_t1,Meta
+usr_0683e56b6d9f4019,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,DE,"1.0.0",core_meta_android_t1,Meta
+usr_6568ee50518c4843,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.4,High,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_839a6c2307a84f6d,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,CA,"1.0.0",core_meta_android_t1,Meta
+usr_3e4e6005a23a47df,2026-03-01 00:00:00.000,Xiaomi 14,Android,14.0,High,DE,"1.0.0",core_meta_android_t1,Meta
+usr_20e6bce5b7c7429b,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.2,High,CA,"1.0.0",core_applovin_ios_value,AppLovin
+usr_f614f0331b44486b,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.2,High,TH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_fe09bdd92f734b8f,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_7d73d2e8c1284b7f,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,15.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_edd98481cb9b4f7f,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_4d67a1ac627c4ce4,2026-03-01 00:00:00.000,OnePlus 12,Android,13.0,High,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_479e9803c28b4259,2026-03-01 00:00:00.000,Realme Note 50,Android,15.0,Low,US,"1.0.0",core_uac_android_global,Google UAC
+usr_f15e8aac6508446b,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_5ec0c64263154786,2026-03-01 00:00:00.000,OnePlus 12,Android,13.0,High,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_9427f38f5b6849df,2026-03-01 00:00:00.000,Redmi 13C,Android,15.0,Low,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_b59fa75ecda64442,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,18.0,High,MX,"1.0.0",core_applovin_ios_value,AppLovin
+usr_c790c724d4154261,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.2,High,FR,"1.0.0",core_meta_ios_t1,Meta
+usr_c2c3ce2e7ddd4fc4,2026-03-01 00:00:00.000,iPhone 12,iOS,17.2,Mid,FR,"1.0.0",core_meta_ios_t1,Meta
+usr_0cc3e3621b6b489f,2026-03-01 00:00:00.000,Xiaomi 14,Android,14.0,High,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_5d83e1399455442a,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,TH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_0273ffa6f9d440fc,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,14.0,Low,CA,"1.0.0",core_tiktok_android_scale,TikTok
+usr_61c8ce9a81d94ace,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,FR,"1.0.0",core_meta_android_t1,Meta
+usr_fe9bc4c95e67406c,2026-03-01 00:00:00.000,Oppo Reno 12,Android,15.0,Mid,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_3b3df7d79ded4fa8,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,JP,"1.0.0",core_meta_android_t1,Meta
+usr_30fef23d205340cf,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_e15c455ac478419c,2026-03-01 00:00:00.000,OnePlus 12,Android,14.0,High,FR,"1.0.0",core_meta_android_t1,Meta
+usr_4f9555d8f2064899,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,KR,"1.0.0",core_meta_android_t1,Meta
+usr_c0f9bd8ae30742bd,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_064517d1ac01436f,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.4,High,VN,"1.0.0",core_applovin_ios_value,AppLovin
+usr_9f5cb6d1a4b64e4e,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.5,Mid,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_5f5824c3ee58490f,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,BR,"1.0.0",ct_vungle_01,Vungle
+usr_3a5ab376479c4d37,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_c195ae5732f14d36,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,TH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_fbb89e703db94290,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,15.0,High,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_d8fe3254d49b407b,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,13.0,Low,US,"1.0.0",core_meta_android_t1,Meta
+usr_36b5a65e298d44c7,2026-03-01 00:00:00.000,POCO X6,Android,13.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_02dd9a8f6237469f,2026-03-01 00:00:00.000,Vivo Y18,Android,14.0,Low,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_c2b38eacc1304629,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,18.0,High,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_111b88b9bb9c4c88,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,18.0,High,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_8655b44164114dbe,2026-03-01 00:00:00.000,iPhone 12,iOS,17.5,Mid,TH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_41099542e0e94886,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.2,Mid,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_8b87e95f3e8649f5,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,GB,"1.0.0",core_tiktok_android_scale,TikTok
+usr_d117d19b8fee4abd,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_d7c9dbf87cda4a52,2026-03-01 00:00:00.000,iPhone 13,iOS,17.5,Mid,FR,"1.0.0",core_meta_ios_t1,Meta
+usr_18d95f4129554767,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,TH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_2a63e18bb8414ab2,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.4,High,VN,"1.0.0",core_applovin_ios_value,AppLovin
+usr_d4b792e14fcb493e,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,15.0,High,US,"1.0.0",core_meta_android_t1,Meta
+usr_5379babc93644d44,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_aea42a9ccee44802,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,15.0,High,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_3fb02190e3f04b7c,2026-03-01 00:00:00.000,iPhone 12,iOS,18.0,Mid,TH,"1.0.0",core_meta_ios_t1,Meta
+usr_3d6d0308317b45c8,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,18.0,Mid,US,"1.0.0",core_meta_ios_t1,Meta
+usr_9430443832d74b65,2026-03-01 00:00:00.000,Xiaomi 14,Android,15.0,High,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_0eb3a7f3c8e74933,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_6f593e74afaf4d26,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.2,High,PH,"1.0.0",core_meta_ios_t1,Meta
+usr_59dd186053e94c95,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.5,High,PH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_9422d2184a5543cc,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_be0f5818586744b2,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.2,Mid,TH,"1.0.0",core_meta_ios_t1,Meta
+usr_57a146c907be4812,2026-03-01 00:00:00.000,iPhone 12,iOS,18.0,Mid,PH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_2b205ab198fc4373,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,CA,"1.0.0",core_applovin_ios_value,AppLovin
+usr_e40efce115d24cf2,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_4bd45a1173be44d7,2026-03-01 00:00:00.000,iPhone 12,iOS,17.4,Mid,FR,"1.0.0",core_meta_ios_t1,Meta
+usr_13de0a4a28f64b96,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.2,Mid,KR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_89791b5786b54f6b,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,GB,"1.0.0",core_meta_android_t1,Meta
+usr_7ddbcb3e9a894b91,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,VN,"1.0.0",core_applovin_ios_value,AppLovin
+usr_7ae26357f52441f9,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,15.0,High,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_001ae706e1214289,2026-03-01 00:00:00.000,Oppo Reno 12,Android,15.0,Mid,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_30ed237b06ed49d1,2026-03-01 00:00:00.000,Redmi 13C,Android,15.0,Low,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_8c5fe19d5cab4a16,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,14.0,High,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_9bd613bb7a4c43ea,2026-03-01 00:00:00.000,OnePlus 12,Android,15.0,High,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_dfae2984763f47f2,2026-03-01 00:00:00.000,iPhone 12,iOS,17.5,Mid,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_ff1d04379a804c96,2026-03-01 00:00:00.000,POCO X6,Android,13.0,Mid,TH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_3c8aa6fa97ef478a,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.2,Mid,TH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_14be2632b6424f09,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_edcf85aa7e02475e,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_2ed26522c9624e8d,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,18.0,High,TH,"1.0.0",core_meta_ios_t1,Meta
+usr_e58636cc533b4778,2026-03-01 00:00:00.000,iPhone 12,iOS,18.0,Mid,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_5cb3695974f84a1e,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,15.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_ca9c7829f45e45e5,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,14.0,Low,US,"1.0.0",core_meta_android_t1,Meta
+usr_840063e42e854011,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,18.0,Mid,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_e438f7bcdbd34f16,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,FR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_60756c73291f4e82,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,18.0,High,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_7ae1221dfb6a4402,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.4,High,TH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_68b13e1a2cfb4a57,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.2,High,ID,"1.0.0",core_applovin_ios_value,AppLovin
+usr_2ec3f98374d4464c,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,KR,"1.0.0",core_meta_android_t1,Meta
+usr_d5ceb8be11fb4296,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_8b32d6b73cc34416,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,18.0,Mid,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_d87503ced50e4406,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,TH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_7bdaa2f6e62e4b76,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_8368abbcc03046fe,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,TH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_8a922b1c72fc40cd,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.2,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_0292019c22cc4d15,2026-03-01 00:00:00.000,Samsung Galaxy S24,Android,14.0,High,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_9420d3e025b446c0,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.2,High,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_33eff47cb5824c3c,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_cfdb3aeada8c4ae2,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_36d6847a051f462b,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,15.0,Mid,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_8cdf7634d1b44fb2,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.5,Mid,KR,"1.0.0",core_meta_ios_t1,Meta
+usr_7abe7f148eed4fcf,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.2,High,ID,"1.0.0",core_applovin_ios_value,AppLovin
+usr_c0e0d8c9ab8b48d9,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_3663f69eb47941a3,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,KR,"1.0.0",core_meta_android_t1,Meta
+usr_c82aabb686a74848,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_69ca0c36dbb446ed,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_20148e99ec6041b0,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.2,High,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_ff64e5e08fa54c27,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,US,"1.0.0",core_meta_ios_t1,Meta
+usr_e718f610c26c4f68,2026-03-01 00:00:00.000,POCO X6,Android,13.0,Mid,FR,"1.0.0",core_meta_android_t1,Meta
+usr_39ab9fd5d32f49d5,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.2,High,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_cd613c0b849248ae,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,18.0,High,DE,"1.0.0",core_meta_ios_t1,Meta
+usr_c0e1f3981a6f429c,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,13.0,High,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_e6f3304a6a6f4030,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,18.0,Mid,PH,"1.0.0",core_meta_ios_t1,Meta
+usr_530fc5eb3f374834,2026-03-01 00:00:00.000,Realme Note 50,Android,14.0,Low,JP,"1.0.0",core_meta_android_t1,Meta
+usr_38590816b4464d1b,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_f9dd599cd3a44c8b,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,18.0,High,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_cdc70ce1be95497a,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_980acdeef35d4ddc,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.4,High,DE,"1.0.0",core_meta_ios_t1,Meta
+usr_e974a40f51b34752,2026-03-01 00:00:00.000,OnePlus 12,Android,14.0,High,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_6a249e0d71c74826,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_ac781239009847c6,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_3699a2da4f0c4a0f,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_aef0a1625da741f9,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,18.0,High,US,"1.0.0",core_meta_ios_t1,Meta
+usr_5ec296fee894427a,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,BR,"1.0.0",ct_vungle_01,Vungle
+usr_1820042fe2344e1c,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,14.0,Low,US,"1.0.0",core_tiktok_android_scale,TikTok
+usr_3a2abbd9f31b4402,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_e4a70ac7d7cc493d,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,FR,"1.0.0",core_meta_android_t1,Meta
+usr_2f318977f2cd4c36,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,18.0,Mid,MX,"1.0.0",core_applovin_ios_value,AppLovin
+usr_898ddaad9af44075,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.5,High,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_839adcfe51944152,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.4,High,US,"1.0.0",core_meta_ios_t1,Meta
+usr_9efcb8dfa6294365,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.5,High,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_9e66a9c0ad8449c7,2026-03-01 00:00:00.000,iPhone 12,iOS,17.4,Mid,TH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_8211c6e2fe1044a4,2026-03-01 00:00:00.000,Vivo Y18,Android,14.0,Low,JP,"1.0.0",core_meta_android_t1,Meta
+usr_40feacb1bc654cb0,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.2,High,US,"1.0.0",core_meta_ios_t1,Meta
+usr_28423282f0fa473f,2026-03-01 00:00:00.000,Realme Note 50,Android,13.0,Low,US,"1.0.0",core_uac_android_global,Google UAC
+usr_ed0baf69885d4a6d,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.2,High,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_a6013f1c655d4dc5,2026-03-01 00:00:00.000,iPhone 12,iOS,17.5,Mid,ID,"1.0.0",core_applovin_ios_value,AppLovin
+usr_f3de93a4e3f04c77,2026-03-01 00:00:00.000,Samsung Galaxy S24,Android,15.0,High,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_f7b798f2b3874316,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,KR,"1.0.0",core_meta_android_t1,Meta
+usr_ba61081b2bd24382,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_85cddcf303f94bd3,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_e8ba0b7439504334,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_9686cb8bdfc24e84,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_62d9cde735fa4d42,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,18.0,High,PH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_340a111145e94ecd,2026-03-01 00:00:00.000,iPhone 13,iOS,17.4,Mid,TH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_7c3d11076a6f4cab,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.2,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_998044be03004f50,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,15.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_d8d1c4fff1284924,2026-03-01 00:00:00.000,Redmi 13C,Android,15.0,Low,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_d3d3bb2ccf80456a,2026-03-01 00:00:00.000,Vivo Y18,Android,14.0,Low,CA,"1.0.0",core_meta_android_t1,Meta
+usr_91cd183e16914e72,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_7ca6b743efa34b63,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,15.0,Low,JP,"1.0.0",core_uac_android_global,Google UAC
+usr_2043bfa976c34537,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.4,High,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_93c2290431864e33,2026-03-01 00:00:00.000,Realme Note 50,Android,15.0,Low,US,"1.0.0",core_meta_android_t1,Meta
+usr_2df478a29926489e,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_3aabd9040a6d4ab3,2026-03-01 00:00:00.000,Xiaomi 14,Android,13.0,High,FR,"1.0.0",core_meta_android_t1,Meta
+usr_7b75ed22b7584d76,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,DE,"1.0.0",core_meta_android_t1,Meta
+usr_7c0af2cf3fe24e39,2026-03-01 00:00:00.000,Realme Note 50,Android,15.0,Low,GB,"1.0.0",core_tiktok_android_scale,TikTok
+usr_91a8a520bef54f7d,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_ed5e771a6a1a4ad4,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.4,High,JP,"1.0.0",core_applovin_ios_value,AppLovin
+usr_75b8dbae216f4d9a,2026-03-01 00:00:00.000,Redmi 13C,Android,15.0,Low,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_36ddbaf54937439c,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.4,High,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_2d009059f8024e22,2026-03-01 00:00:00.000,iPhone 12,iOS,17.5,Mid,DE,"1.0.0",core_meta_ios_t1,Meta
+usr_beb5e853984c4909,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,18.0,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_d3c759ae80ea4b76,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_1bb0123a05624fac,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,18.0,High,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_4ab8d7bf7c1243d1,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,15.0,High,JP,"1.0.0",core_meta_android_t1,Meta
+usr_23ebd56154a945a3,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.2,High,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_da985e367aaf493a,2026-03-01 00:00:00.000,iPhone 13,iOS,17.5,Mid,FR,"1.0.0",core_meta_ios_t1,Meta
+usr_4b9eb5fef05a4149,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_b63e4448816c46df,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_3ef2064fc2734ecd,2026-03-01 00:00:00.000,Oppo Reno 12,Android,15.0,Mid,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_a9473d305f664797,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,DE,"1.0.0",core_meta_ios_t1,Meta
+usr_292be32885184cfe,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.2,Mid,KR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_55819b0de98842a2,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_7b75f7a8de844a7f,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.2,Mid,US,"1.0.0",core_meta_ios_t1,Meta
+usr_e6a4f0bca86a43dd,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.5,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_d6c098d168a54bf2,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.2,High,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_f01d7cab0d934987,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,18.0,High,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_c4a0a73f0cf640fc,2026-03-01 00:00:00.000,Realme Note 50,Android,15.0,Low,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_25c08d2011de4082,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_9a177a9ab1364157,2026-03-01 00:00:00.000,iPhone 12,iOS,17.5,Mid,PH,"1.0.0",core_meta_ios_t1,Meta
+usr_df3cd75cbbb24f82,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_fa1d283670064353,2026-03-01 00:00:00.000,Redmi 13C,Android,15.0,Low,DE,"1.0.0",core_meta_android_t1,Meta
+usr_c81bfcf0d94b46ca,2026-03-01 00:00:00.000,iPhone 13,iOS,18.0,Mid,PH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_56d05f4cd0e049fb,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_2260efd3ba224f6a,2026-03-01 00:00:00.000,iPhone 12,iOS,18.0,Mid,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_7f725946829240bc,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,CA,"1.0.0",core_uac_android_global,Google UAC
+usr_226427b37e62496c,2026-03-01 00:00:00.000,Vivo Y18,Android,14.0,Low,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_c9b3ffac44cc4188,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,TW,"1.0.0",core_tiktok_android_scale,TikTok
+usr_a809d13edc1541ce,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_21d44a9b7a364f03,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,GB,"1.0.0",core_meta_android_t1,Meta
+usr_e415c878b7e64acb,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.2,Mid,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_47d7994566ad4d06,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_73fd1fa660d44292,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,DE,"1.0.0",core_meta_android_t1,Meta
+usr_658981a29f964bf5,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,KR,"1.0.0",core_meta_ios_t1,Meta
+usr_2452bc135e554c3c,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,14.0,High,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_692996b6151b4f42,2026-03-01 00:00:00.000,iPhone 12,iOS,17.4,Mid,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_52a19858d7d84ef0,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_9004bc6154af4934,2026-03-01 00:00:00.000,Vivo Y18,Android,15.0,Low,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_60aecbc5cff64bcf,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_c2998d31a1964424,2026-03-01 00:00:00.000,OnePlus 12,Android,13.0,High,KR,"1.0.0",core_meta_android_t1,Meta
+usr_bdba72219cd14f19,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.2,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_03daeb5a5f424ae5,2026-03-01 00:00:00.000,Xiaomi 14,Android,14.0,High,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_96970da24e95457e,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,TH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_7c0f0ad094284934,2026-03-01 00:00:00.000,OnePlus 12,Android,14.0,High,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_9c8df95ba9894419,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,15.0,High,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_d8e2bfc52dff493a,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,18.0,High,VN,"1.0.0",core_applovin_ios_value,AppLovin
+usr_fa29e8f7eb904fbf,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.2,High,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_1903bab5ef634ca3,2026-03-01 00:00:00.000,iPhone 12,iOS,17.5,Mid,US,"1.0.0",ct_liftoff_01,Liftoff
+usr_870379ae2e954ada,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,14.0,Low,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_84c0003b05594996,2026-03-01 00:00:00.000,iPhone 13,iOS,18.0,Mid,AU,"1.0.0",core_applovin_ios_value,AppLovin
+usr_6be8eeb78bd44510,2026-03-01 00:00:00.000,POCO X6,Android,13.0,Mid,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_5154178665314401,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_78cd85ce89764ff6,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,13.0,High,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_28aa273d619c47e3,2026-03-01 00:00:00.000,Oppo Reno 12,Android,15.0,Mid,FR,"1.0.0",core_meta_android_t1,Meta
+usr_81ce30a10a7c4ff7,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,GB,"1.0.0",core_tiktok_android_scale,TikTok
+usr_9d3049df2bcb42b7,2026-03-01 00:00:00.000,Vivo Y18,Android,15.0,Low,KR,"1.0.0",core_meta_android_t1,Meta
+usr_48e5e8be8a104511,2026-03-01 00:00:00.000,Vivo Y18,Android,15.0,Low,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_065f7addf59f48e6,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,15.0,High,KR,"1.0.0",core_meta_android_t1,Meta
+usr_2deb4446e50848a4,2026-03-01 00:00:00.000,Realme Note 50,Android,15.0,Low,KR,"1.0.0",core_uac_android_global,Google UAC
+usr_7823874995af4d88,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_ddac4c2e535e4b1e,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_44a387f351674e52,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.5,High,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_7770aa4323de4c0f,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,15.0,High,US,"1.0.0",core_meta_android_t1,Meta
+usr_5b2c9898d4664783,2026-03-01 00:00:00.000,Realme Note 50,Android,13.0,Low,US,"1.0.0",core_uac_android_global,Google UAC
+usr_2b1ed3ebcf794a83,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.2,Mid,CA,"1.0.0",core_applovin_ios_value,AppLovin
+usr_7b07ced082994351,2026-03-01 00:00:00.000,OnePlus 12,Android,15.0,High,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_5526bcb1b03c4619,2026-03-01 00:00:00.000,Realme Note 50,Android,13.0,Low,US,"1.0.0",core_tiktok_android_scale,TikTok
+usr_5ce4d88114b74195,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_472d067768c24c8e,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,18.0,High,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_cac832143aa84119,2026-03-01 00:00:00.000,Realme Note 50,Android,13.0,Low,US,"1.0.0",core_meta_android_t1,Meta
+usr_d7215c0ba4c94e6c,2026-03-01 00:00:00.000,OnePlus 12,Android,13.0,High,AU,"1.0.0",core_tiktok_android_scale,TikTok
+usr_ebb37c3cc77e4c71,2026-03-01 00:00:00.000,Redmi 13C,Android,15.0,Low,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_4f05a754b9aa412e,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,GB,"1.0.0",core_meta_android_t1,Meta
+usr_a95e249bce6b4203,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,14.0,Low,JP,"1.0.0",core_uac_android_global,Google UAC
+usr_c1c06e5bd16a4cbb,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_b9e87585a225433c,2026-03-01 00:00:00.000,OnePlus 12,Android,15.0,High,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_f3086e014d7f43ca,2026-03-01 00:00:00.000,OnePlus 12,Android,13.0,High,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_b15e3abb24854514,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.5,Mid,DE,"1.0.0",core_meta_ios_t1,Meta
+usr_3c0c26c2dfff4bec,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.2,Mid,PH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_1523550ed9ad4d10,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_505ff01a0c8c41e9,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_5f3829277dfd46d6,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.5,Mid,CA,"1.0.0",core_meta_ios_t1,Meta
+usr_e8c3a6edd29d489d,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_f33afd51ff5c4e51,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,18.0,High,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_2d9521a6ddd84710,2026-03-01 00:00:00.000,OnePlus 12,Android,13.0,High,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_0daf8abf935e4355,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.2,Mid,PH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_882cb26a1b4e4dd6,2026-03-01 00:00:00.000,Realme Note 50,Android,15.0,Low,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_a2fd0c3190eb4a01,2026-03-01 00:00:00.000,Samsung Galaxy S24,Android,15.0,High,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_5baaffc752524e7b,2026-03-01 00:00:00.000,OnePlus 12,Android,15.0,High,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_e865e9c482364447,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_5a2f4cfc654f4088,2026-03-01 00:00:00.000,Realme Note 50,Android,14.0,Low,KR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_6eae83220e684b43,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_64f4d3afe9154d54,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_678d768438c44397,2026-03-01 00:00:00.000,Oppo Reno 12,Android,15.0,Mid,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_32c5f45537c74f2b,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,18.0,High,US,"1.0.0",ct_liftoff_01,Liftoff
+usr_45d4e73f1ead42b1,2026-03-01 00:00:00.000,Vivo Y18,Android,15.0,Low,FR,"1.0.0",core_meta_android_t1,Meta
+usr_18b04b7872504f0a,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.2,Mid,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_6515715434414b71,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.4,High,ID,"1.0.0",core_meta_ios_t1,Meta
+usr_6814fc4b8ff34c51,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,15.0,Low,KR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_c8736ea8eea34a42,2026-03-01 00:00:00.000,Realme Note 50,Android,13.0,Low,MX,"1.0.0",core_uac_android_global,Google UAC
+usr_ae309ec628fa47f0,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.2,High,ID,"1.0.0",core_applovin_ios_value,AppLovin
+usr_0e22b28d9c094296,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.2,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_03f0ce2b27c14f94,2026-03-01 00:00:00.000,Samsung Galaxy S24,Android,13.0,High,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_291adc82ee464638,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_88a81542a74843d4,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,DE,"1.0.0",core_meta_android_t1,Meta
+usr_602541dd7b674476,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,MX,"1.0.0",core_uac_android_global,Google UAC
+usr_378c7c0278784f7d,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_b404bb5f27bf4d64,2026-03-01 00:00:00.000,iPhone 13,iOS,17.5,Mid,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_9f3c35ae5b4542d2,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,TH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_2fef230352bf42eb,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.2,High,TH,"1.0.0",core_meta_ios_t1,Meta
+usr_62de0e7b3de048f3,2026-03-01 00:00:00.000,iPhone 13,iOS,17.5,Mid,TH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_5184b6ef0368498a,2026-03-01 00:00:00.000,Xiaomi 14,Android,15.0,High,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_b17946c7d7b6420d,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_fd8e775573994a04,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.2,Mid,TH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_cf118e5b6178422f,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,14.0,High,US,"1.0.0",core_meta_android_t1,Meta
+usr_916979423d944d11,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,14.0,Low,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_bfe315e898be4ca0,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.5,High,TH,"1.0.0",core_meta_ios_t1,Meta
+usr_622ab4453d1d4283,2026-03-01 00:00:00.000,iPhone 13,iOS,17.2,Mid,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_04e78a315bee4f59,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,18.0,High,FR,"1.0.0",core_meta_ios_t1,Meta
+usr_543de8ba42aa4be3,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_cfc370154d204b61,2026-03-01 00:00:00.000,iPhone 12,iOS,17.2,Mid,US,"1.0.0",core_meta_ios_t1,Meta
+usr_a8dba827c0c64e93,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,18.0,Mid,CA,"1.0.0",core_applovin_ios_value,AppLovin
+usr_e73b7fc50fe34708,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,18.0,High,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_c63a60ff70234302,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,CA,"1.0.0",core_meta_android_t1,Meta
+usr_d65c09149a2247cb,2026-03-01 00:00:00.000,iPhone 13,iOS,17.4,Mid,PH,"1.0.0",core_meta_ios_t1,Meta
+usr_fe9a84af1a904d3d,2026-03-01 00:00:00.000,iPhone 12,iOS,18.0,Mid,US,"1.0.0",core_meta_ios_t1,Meta
+usr_97d6bfeea8d34446,2026-03-01 00:00:00.000,Vivo Y18,Android,14.0,Low,US,"1.0.0",core_meta_android_t1,Meta
+usr_a3f635d568d24519,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_3aba79803c274b70,2026-03-01 00:00:00.000,OnePlus 12,Android,14.0,High,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_c7032a8352044dd9,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,TH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_2125a675a98048da,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_8822c1c15a284a77,2026-03-01 00:00:00.000,POCO X6,Android,13.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_3fa0fb87e7a64e62,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,TH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_0d9fd74391da41ee,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_5355ad2c3333435a,2026-03-01 00:00:00.000,Vivo Y18,Android,15.0,Low,US,"1.0.0",core_uac_android_global,Google UAC
+usr_933dfbeb2e6b4619,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.5,High,TW,"1.0.0",core_applovin_ios_value,AppLovin
+usr_a2e1333f4904459c,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_4950e3efc8ca40eb,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.2,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_d582eb44ddfb43d4,2026-03-01 00:00:00.000,Realme Note 50,Android,13.0,Low,KR,"1.0.0",core_uac_android_global,Google UAC
+usr_81725bcd4cb046f8,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,18.0,High,JP,"1.0.0",core_applovin_ios_value,AppLovin
+usr_69c18ab17cfa4d38,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,15.0,Low,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_d6e84f91b9b04692,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.2,High,FR,"1.0.0",core_meta_ios_t1,Meta
+usr_0b31393ee7114ca6,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_01adb74f6cde4af8,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_f21797b782984b61,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,GB,"1.0.0",core_meta_android_t1,Meta
+usr_fb3544c1af764d81,2026-03-01 00:00:00.000,iPhone 13,iOS,17.2,Mid,CA,"1.0.0",ct_liftoff_01,Liftoff
+usr_c720152b8cc34fc2,2026-03-01 00:00:00.000,Xiaomi 14,Android,14.0,High,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_a33bf96ad3594d4d,2026-03-01 00:00:00.000,Realme Note 50,Android,13.0,Low,US,"1.0.0",core_uac_android_global,Google UAC
+usr_c152c203ecbb4e45,2026-03-01 00:00:00.000,Realme Note 50,Android,15.0,Low,CA,"1.0.0",core_tiktok_android_scale,TikTok
+usr_c479f3015ca34949,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.4,High,ID,"1.0.0",core_meta_ios_t1,Meta
+usr_ef00911f36b84a7e,2026-03-01 00:00:00.000,Samsung Galaxy S24,Android,15.0,High,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_26b3245af80648a8,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,18.0,High,ID,"1.0.0",core_applovin_ios_value,AppLovin
+usr_1374a85c7b2b4ea0,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.5,High,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_e68b22d08cfd4b05,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,AU,"1.0.0",core_meta_android_t1,Meta
+usr_1fb9440aff4a4111,2026-03-01 00:00:00.000,Oppo Reno 12,Android,15.0,Mid,CA,"1.0.0",core_uac_android_global,Google UAC
+usr_77bc7efbbcec422a,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_34f15d4903424101,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.2,High,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_1e3e39aa275f41e9,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,TW,"1.0.0",core_meta_android_t1,Meta
+usr_1e2bfd29e3e84cfe,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.5,Mid,ID,"1.0.0",core_meta_ios_t1,Meta
+usr_9496347024934a19,2026-03-01 00:00:00.000,Vivo Y18,Android,15.0,Low,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_aea0da2b29914e6f,2026-03-01 00:00:00.000,Redmi 13C,Android,15.0,Low,US,"1.0.0",core_meta_android_t1,Meta
+usr_e1a8be39815e4cc4,2026-03-01 00:00:00.000,POCO X6,Android,13.0,Mid,KR,"1.0.0",core_meta_android_t1,Meta
+usr_96f17865abb54ce1,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,KR,"1.0.0",core_meta_android_t1,Meta
+usr_4a53730904364976,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,14.0,Low,GB,"1.0.0",core_uac_android_global,Google UAC
+usr_18f1af16443e473d,2026-03-01 00:00:00.000,Vivo Y18,Android,15.0,Low,TH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_91b0550b87094f10,2026-03-01 00:00:00.000,POCO X6,Android,13.0,Mid,AU,"1.0.0",core_meta_android_t1,Meta
+usr_c5b8140bf70a412c,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.4,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_29b6859b68214692,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,DE,"1.0.0",core_meta_ios_t1,Meta
+usr_582914c116e644af,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.4,High,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_06e7628b131c4ba5,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.2,High,TH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_79feb122eda34c61,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_5f0768d0a2364de0,2026-03-01 00:00:00.000,Realme Note 50,Android,13.0,Low,US,"1.0.0",core_tiktok_android_scale,TikTok
+usr_afd964c5981441a0,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,15.0,Low,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_09043ad5fc744cec,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.5,High,PH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_5548d485f77247d1,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,ID,"1.0.0",core_applovin_ios_value,AppLovin
+usr_43285e8c09be49d9,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.4,High,PH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_de7f569b06d44e95,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.2,High,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_668ef1c433614061,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,18.0,High,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_eeb85d111567462f,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,CA,"1.0.0",core_meta_ios_t1,Meta
+usr_a3884635b6f44825,2026-03-01 00:00:00.000,POCO X6,Android,13.0,Mid,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_991b40bbee484068,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,18.0,Mid,FR,"1.0.0",core_meta_ios_t1,Meta
+usr_fb4e5e2829414a4b,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.2,Mid,KR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_a34d97e18f784afe,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_3287d715829b4a8e,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,13.0,Low,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_8b3b8242a126449d,2026-03-01 00:00:00.000,POCO X6,Android,13.0,Mid,JP,"1.0.0",core_meta_android_t1,Meta
+usr_4830111140254eb5,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,15.0,Low,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_a741af13d4054d26,2026-03-01 00:00:00.000,iPhone 13,iOS,18.0,Mid,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_ca69732accc94554,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,KR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_d832f5a6b3664341,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_a0670099ceee4474,2026-03-01 00:00:00.000,OnePlus 12,Android,15.0,High,US,"1.0.0",core_meta_android_t1,Meta
+usr_69618887c129492c,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_e12daa1f5a694ff6,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,18.0,High,TH,"1.0.0",core_meta_ios_t1,Meta
+usr_43d8f4594770462a,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,KR,"1.0.0",core_uac_android_global,Google UAC
+usr_cb96e5113b624ab7,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,FR,"1.0.0",core_meta_android_t1,Meta
+usr_940d0ca1055c44d9,2026-03-01 00:00:00.000,OnePlus 12,Android,15.0,High,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_17945f8846c143fd,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.2,High,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_c5cc136c9ece40c4,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_4f58cd4346ce4dce,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,TH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_d8a9b80628354ff0,2026-03-01 00:00:00.000,iPhone 12,iOS,17.5,Mid,ID,"1.0.0",core_meta_ios_t1,Meta
+usr_cf0999ab9585402e,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_820740d27d8d45a2,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,14.0,Low,GB,"1.0.0",core_uac_android_global,Google UAC
+usr_e3434a995a8d4ca5,2026-03-01 00:00:00.000,POCO X6,Android,13.0,Mid,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_8b042e550e1e4b21,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,18.0,High,PH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_c08bbe05bb804bc4,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_1c6c90e2836d4905,2026-03-01 00:00:00.000,Xiaomi 14,Android,14.0,High,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_571398df5dcc40ed,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,AU,"1.0.0",core_meta_ios_t1,Meta
+usr_a1abed19fd9d41c1,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.2,High,US,"1.0.0",ct_liftoff_01,Liftoff
+usr_b593d6b554f84d5f,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,15.0,Mid,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_67564cb26c6147d9,2026-03-01 00:00:00.000,Redmi 13C,Android,15.0,Low,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_095a166d83694751,2026-03-01 00:00:00.000,Xiaomi 14,Android,13.0,High,CA,"1.0.0",core_uac_android_global,Google UAC
+usr_076032c053ee47b7,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_4f0c65b913f4422a,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_97c247f378f34240,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_83ed6253132e4240,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.4,Mid,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_bab058975d9640b8,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_c50425b4abe24846,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_bb91b01acd8f496b,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,14.0,High,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_1ea6d2d2e5b5435b,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,18.0,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_cae6bb59bb8f4838,2026-03-01 00:00:00.000,Redmi 13C,Android,15.0,Low,TW,"1.0.0",core_meta_android_t1,Meta
+usr_3134e78c53c34a60,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.2,High,PH,"1.0.0",core_meta_ios_t1,Meta
+usr_28630e8eaeb74352,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_2a35fadb5a6244cf,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_eda7a98372a246d8,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,MX,"1.0.0",core_uac_android_global,Google UAC
+usr_9a748f0e45f74192,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_4c1dfe5829324aac,2026-03-01 00:00:00.000,iPhone 13,iOS,18.0,Mid,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_edc2d7e7013a4a5a,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.4,Mid,PH,"1.0.0",core_meta_ios_t1,Meta
+usr_5e2ab3cb71ee452f,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,14.0,Low,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_6836e447c9d546d0,2026-03-01 00:00:00.000,POCO X6,Android,13.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_86f5ca68271e4e93,2026-03-01 00:00:00.000,POCO X6,Android,13.0,Mid,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_85b6d70379324e08,2026-03-01 00:00:00.000,Realme Note 50,Android,14.0,Low,JP,"1.0.0",core_meta_android_t1,Meta
+usr_6fab81f3634b4861,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,CA,"1.0.0",core_tiktok_android_scale,TikTok
+usr_aee3d8ed23aa4248,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.2,High,US,"1.0.0",core_meta_ios_t1,Meta
+usr_e3bc39d00842404e,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,US,"1.0.0",core_tiktok_android_scale,TikTok
+usr_d432fc71e1024023,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.2,High,VN,"1.0.0",core_applovin_ios_value,AppLovin
+usr_dfdd51fc4b77458e,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.5,High,ID,"1.0.0",core_meta_ios_t1,Meta
+usr_d7b4e10eef184b21,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,FR,"1.0.0",core_meta_android_t1,Meta
+usr_6520039140164e14,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_08cee765daeb4c6c,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.2,Mid,PH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_142036c4223246c0,2026-03-01 00:00:00.000,Redmi 13C,Android,15.0,Low,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_fb05a3a59722416d,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.4,High,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_d5d2129f7a604787,2026-03-01 00:00:00.000,Redmi 13C,Android,15.0,Low,GB,"1.0.0",core_meta_android_t1,Meta
+usr_c30f5a0399e74064,2026-03-01 00:00:00.000,OnePlus 12,Android,13.0,High,US,"1.0.0",core_meta_android_t1,Meta
+usr_5c91e55fffe648cc,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_38eea708797f47d2,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,18.0,High,US,"1.0.0",core_meta_ios_t1,Meta
+usr_18ed554ec5524aaa,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_8a457df94f914bd9,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_7442812eb3724d3a,2026-03-01 00:00:00.000,iPhone 13,iOS,17.5,Mid,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_3508e5419cbc47a2,2026-03-01 00:00:00.000,Realme Note 50,Android,15.0,Low,US,"1.0.0",core_meta_android_t1,Meta
+usr_e84b53deb9374d5b,2026-03-01 00:00:00.000,Redmi 13C,Android,15.0,Low,GB,"1.0.0",core_uac_android_global,Google UAC
+usr_cd6c66ce90a54a71,2026-03-01 00:00:00.000,Oppo Reno 12,Android,15.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_6b25edbe0a9740be,2026-03-01 00:00:00.000,Xiaomi 14,Android,13.0,High,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_b82cc899d9f042f4,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.2,Mid,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_36ff213dbd5e4fbc,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,13.0,Low,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_a9c518c871a04419,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,JP,"1.0.0",core_meta_android_t1,Meta
+usr_a13d11596e9448b6,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_a9546ab3293848d6,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_f40862e99ce74575,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,15.0,Low,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_c297746a926949fb,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_c5010dfe6fb44b98,2026-03-01 00:00:00.000,Vivo Y18,Android,15.0,Low,TH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_b2eeb51a8bbe40bf,2026-03-01 00:00:00.000,Vivo Y18,Android,14.0,Low,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_dee470630ccf40c9,2026-03-01 00:00:00.000,Vivo Y18,Android,15.0,Low,US,"1.0.0",core_meta_android_t1,Meta
+usr_99bbace5848a449c,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.2,High,US,"1.0.0",ct_liftoff_01,Liftoff
+usr_da10480a2acd4696,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,14.0,Low,JP,"1.0.0",core_uac_android_global,Google UAC
+usr_ee697a1f25d1442d,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.5,High,KR,"1.0.0",core_meta_ios_t1,Meta
+usr_90b819f3d6f7454e,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_7de2f33cf71e4773,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,18.0,Mid,KR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_e6fcf24b749e44b8,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_c2158490bb884861,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,18.0,High,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_b006eebb98784cb6,2026-03-01 00:00:00.000,Realme Note 50,Android,15.0,Low,US,"1.0.0",core_tiktok_android_scale,TikTok
+usr_1170bd43f271470d,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_624f889398fb4d36,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,13.0,Low,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_0b69af951ea64624,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.5,Mid,JP,"1.0.0",core_meta_ios_t1,Meta
+usr_65f85bbea0d24647,2026-03-01 00:00:00.000,Xiaomi 14,Android,13.0,High,US,"1.0.0",core_meta_android_t1,Meta
+usr_bbeb1e71ffe4479e,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,US,"1.0.0",core_uac_android_global,Google UAC
+usr_45102a9ec5bd46a0,2026-03-01 00:00:00.000,iPhone 12,iOS,17.5,Mid,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_e6e19469ecbb4f9a,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,15.0,Mid,CA,"1.0.0",core_uac_android_global,Google UAC
+usr_8d16edb7b74a43a5,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_7462a07627894817,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,15.0,Mid,DE,"1.0.0",core_meta_android_t1,Meta
+usr_30507a30932c4682,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_016920b430554484,2026-03-01 00:00:00.000,iPhone 13,iOS,17.2,Mid,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_3c46f2b6bdd3432e,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,15.0,High,US,"1.0.0",core_meta_android_t1,Meta
+usr_94df2ebceadc452f,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,GB,"1.0.0",core_meta_android_t1,Meta
+usr_ae2e946c16744464,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,18.0,High,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_64d46d73531b4e41,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,TH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_c11dffdd6da54024,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_049d5c152b074035,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_caad77e8f87c4525,2026-03-01 00:00:00.000,iPhone 13,iOS,17.5,Mid,FR,"1.0.0",core_meta_ios_t1,Meta
+usr_1a465180219d46f1,2026-03-01 00:00:00.000,Redmi 13C,Android,15.0,Low,US,"1.0.0",core_meta_android_t1,Meta
+usr_3a0277b53bcf489b,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.5,High,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_fbc60ac57ba14e0f,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.4,High,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_79e80814e8b84368,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,KR,"1.0.0",core_meta_android_t1,Meta
+usr_5591b5e1d74d4250,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,18.0,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_e2c453be76ec4f59,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,13.0,Low,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_61883e9eebfd41a6,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,15.0,High,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_cc0f6ae190c14981,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,GB,"1.0.0",core_meta_android_t1,Meta
+usr_ceed30709a06448e,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,18.0,High,PH,"1.0.0",core_meta_ios_t1,Meta
+usr_5b9d423f7c924747,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_41625b4fc6484d8f,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_5392fecb8e1b49c8,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,13.0,Low,KR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_ace9d7dadb7945a1,2026-03-01 00:00:00.000,POCO X6,Android,13.0,Mid,KR,"1.0.0",core_meta_android_t1,Meta
+usr_d878b9181b4b48a6,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,DE,"1.0.0",core_meta_android_t1,Meta
+usr_0e354e4102be4743,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.2,Mid,JP,"1.0.0",core_meta_ios_t1,Meta
+usr_5cd562888a7e45ef,2026-03-01 00:00:00.000,POCO X6,Android,13.0,Mid,TW,"1.0.0",core_tiktok_android_scale,TikTok
+usr_2b80bdc159a44b35,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,15.0,Low,DE,"1.0.0",core_meta_android_t1,Meta
+usr_033c010652d54ceb,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_72d70938ccf84678,2026-03-01 00:00:00.000,OnePlus 12,Android,15.0,High,US,"1.0.0",core_meta_android_t1,Meta
+usr_5af2905811274541,2026-03-01 00:00:00.000,iPhone 13,iOS,17.2,Mid,US,"1.0.0",ct_liftoff_01,Liftoff
+usr_7c41147445bb4658,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.4,Mid,PH,"1.0.0",core_meta_ios_t1,Meta
+usr_bd104fc70e43471d,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.2,High,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_e4e09877545d46fe,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.5,Mid,PH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_2be56b5ee6434d66,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_f559713bd48d4a5a,2026-03-01 00:00:00.000,Xiaomi 14,Android,14.0,High,US,"1.0.0",core_meta_android_t1,Meta
+usr_500c4319bdc24dac,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_3d6d6f8565fd43c8,2026-03-01 00:00:00.000,iPhone 12,iOS,17.5,Mid,ID,"1.0.0",core_meta_ios_t1,Meta
+usr_a027867612bf43ff,2026-03-01 00:00:00.000,Realme Note 50,Android,15.0,Low,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_536f21267b8c482c,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,KR,"1.0.0",core_meta_android_t1,Meta
+usr_c4e641dc6b264ff2,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.2,Mid,KR,"1.0.0",core_meta_ios_t1,Meta
+usr_7c71eb5f64c44d46,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_135fa436c986498a,2026-03-01 00:00:00.000,Xiaomi 14,Android,13.0,High,US,"1.0.0",core_meta_android_t1,Meta
+usr_4834d5b8a9e74797,2026-03-01 00:00:00.000,Realme Note 50,Android,14.0,Low,US,"1.0.0",core_tiktok_android_scale,TikTok
+usr_e7b2cfba65134d35,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_a2ffed666161453d,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,FR,"1.0.0",core_meta_android_t1,Meta
+usr_e3b480f0e673416b,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,DE,"1.0.0",core_meta_android_t1,Meta
+usr_849ad26f39424895,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,18.0,High,US,"1.0.0",core_meta_ios_t1,Meta
+usr_2ad632b933e94268,2026-03-01 00:00:00.000,iPhone 12,iOS,17.4,Mid,JP,"1.0.0",core_applovin_ios_value,AppLovin
+usr_c3dab27e69da44f2,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_ad46531c7b5a42b7,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,PH,"1.0.0",core_meta_ios_t1,Meta
+usr_e490bc8c938c4392,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,14.0,Low,KR,"1.0.0",core_uac_android_global,Google UAC
+usr_3e20803b91de428d,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.5,Mid,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_a430d82fe2bd4151,2026-03-01 00:00:00.000,OnePlus 12,Android,13.0,High,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_9b1d0df733554741,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,KR,"1.0.0",core_uac_android_global,Google UAC
+usr_2df9dab454994fd0,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,FR,"1.0.0",core_meta_android_t1,Meta
+usr_5cafb73c5e53466e,2026-03-01 00:00:00.000,Realme Note 50,Android,15.0,Low,US,"1.0.0",core_tiktok_android_scale,TikTok
+usr_97f02434cf3c4387,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,KR,"1.0.0",core_meta_android_t1,Meta
+usr_4cccdc429acd4b57,2026-03-01 00:00:00.000,Realme Note 50,Android,15.0,Low,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_9576157c38c34277,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_4a987342718a410a,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.2,High,PH,"1.0.0",core_meta_ios_t1,Meta
+usr_7d1007c007154a6a,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,JP,"1.0.0",core_meta_android_t1,Meta
+usr_68ad2b9d970e4a06,2026-03-01 00:00:00.000,Oppo Reno 12,Android,15.0,Mid,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_98f03bfe7fe64985,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.5,High,TW,"1.0.0",core_meta_ios_t1,Meta
+usr_087a41a20e594f09,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.4,High,AU,"1.0.0",core_meta_ios_t1,Meta
+usr_9b7476cc24cf4a31,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_30b2030132b642da,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,VN,"1.0.0",core_applovin_ios_value,AppLovin
+usr_323a17cc22384474,2026-03-01 00:00:00.000,iPhone 13,iOS,17.5,Mid,ID,"1.0.0",core_applovin_ios_value,AppLovin
+usr_e23f0258999d4896,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,14.0,Low,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_0c6420bc13e342df,2026-03-01 00:00:00.000,iPhone 13,iOS,18.0,Mid,KR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_4d5893d7fe2942fc,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_7b389bb88ce64abd,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.4,Mid,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_252d7ceccf804032,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_41add365b63647af,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,13.0,Low,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_c03b344050294244,2026-03-01 00:00:00.000,OnePlus 12,Android,14.0,High,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_a9be76b923564639,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,CA,"1.0.0",core_tiktok_android_scale,TikTok
+usr_866a544505484e22,2026-03-01 00:00:00.000,Vivo Y18,Android,15.0,Low,AU,"1.0.0",core_tiktok_android_scale,TikTok
+usr_a2ee6ca231fc467b,2026-03-01 00:00:00.000,iPhone 12,iOS,17.5,Mid,AU,"1.0.0",core_meta_ios_t1,Meta
+usr_7c5137aa268e47d2,2026-03-01 00:00:00.000,Vivo Y18,Android,15.0,Low,CA,"1.0.0",core_meta_android_t1,Meta
+usr_938f685615d641d5,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,18.0,High,TH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_b51c4544de454a01,2026-03-01 00:00:00.000,Realme Note 50,Android,15.0,Low,AU,"1.0.0",core_meta_android_t1,Meta
+usr_3cf30f65ade5416f,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,18.0,High,DE,"1.0.0",core_meta_ios_t1,Meta
+usr_f28ccc8a571a4ea3,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.5,High,PH,"1.0.0",core_meta_ios_t1,Meta
+usr_8bd430fa399e439d,2026-03-01 00:00:00.000,OnePlus 12,Android,14.0,High,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_073e10acc3d64db2,2026-03-01 00:00:00.000,Vivo Y18,Android,14.0,Low,DE,"1.0.0",core_uac_android_global,Google UAC
+usr_489770be64fb401f,2026-03-01 00:00:00.000,OnePlus 12,Android,14.0,High,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_5bfb330e866242bd,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,14.0,High,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_51e1f198ddd34cee,2026-03-01 00:00:00.000,Xiaomi 14,Android,14.0,High,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_b12553b913c44fdb,2026-03-01 00:00:00.000,iPhone 13,iOS,17.5,Mid,PH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_a7a4e505d83c48de,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,18.0,Mid,TH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_4d4827604ec54af8,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.5,High,TH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_f571e1798180401f,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,GB,"1.0.0",core_uac_android_global,Google UAC
+usr_5ccf28b1ae41409d,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,KR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_7f86368f85e341e5,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_98dbb1c822474cee,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,15.0,Low,US,"1.0.0",core_tiktok_android_scale,TikTok
+usr_0bac162562e84e6b,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.4,High,ID,"1.0.0",core_applovin_ios_value,AppLovin
+usr_7847ad03499b49dc,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,DE,"1.0.0",core_meta_android_t1,Meta
+usr_d5c8de0c21bf428c,2026-03-01 00:00:00.000,Realme Note 50,Android,14.0,Low,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_8a5ce48138b64d01,2026-03-01 00:00:00.000,iPhone 13,iOS,17.2,Mid,PH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_e3c817a15fc049f9,2026-03-01 00:00:00.000,iPhone 12,iOS,17.2,Mid,MX,"1.0.0",core_applovin_ios_value,AppLovin
+usr_1624497c13cb4f25,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,TH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_2c6511a7a925426e,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_82cc9fbb10b64045,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,TH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_267e97297d5d45aa,2026-03-01 00:00:00.000,POCO X6,Android,13.0,Mid,JP,"1.0.0",core_meta_android_t1,Meta
+usr_f3e192d852d04e98,2026-03-01 00:00:00.000,Samsung Galaxy S24,Android,14.0,High,US,"1.0.0",core_meta_android_t1,Meta
+usr_7e5dd3f4dd4e49b0,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_4f57f2bb923f4b04,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,DE,"1.0.0",core_meta_ios_t1,Meta
+usr_8873fa44c90649cc,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.5,High,ID,"1.0.0",core_applovin_ios_value,AppLovin
+usr_2b3cc4cedea24051,2026-03-01 00:00:00.000,Oppo Reno 12,Android,15.0,Mid,JP,"1.0.0",core_meta_android_t1,Meta
+usr_2c2d593633794a49,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.2,High,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_dd85e7a321ae42ba,2026-03-01 00:00:00.000,Realme Note 50,Android,15.0,Low,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_18c09e13af014603,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_ab3af2b1fd21417a,2026-03-01 00:00:00.000,Vivo Y18,Android,14.0,Low,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_422e7c8d1c014b7a,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,18.0,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_a4058a0c5108410e,2026-03-01 00:00:00.000,iPhone 12,iOS,17.4,Mid,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_386f56ba404f43b2,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,US,"1.0.0",core_tiktok_android_scale,TikTok
+usr_2109ed2926be4422,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_2c099952cc2f4474,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,FR,"1.0.0",core_meta_android_t1,Meta
+usr_07969bdcbbd245a6,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,DE,"1.0.0",core_meta_android_t1,Meta
+usr_90a4ccd48a004a50,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,US,"1.0.0",core_meta_android_t1,Meta
+usr_95ac736a16034ebe,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,JP,"1.0.0",core_meta_android_t1,Meta
+usr_dfe1b918ea0d488a,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,CA,"1.0.0",core_uac_android_global,Google UAC
+usr_21a17758677047ec,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.5,High,KR,"1.0.0",core_meta_ios_t1,Meta
+usr_c8c6a92504674f9f,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,MX,"1.0.0",ct_vungle_01,Vungle
+usr_b5757c82bbe9480d,2026-03-01 00:00:00.000,Vivo Y18,Android,15.0,Low,AU,"1.0.0",core_uac_android_global,Google UAC
+usr_00bcfaa0bb1942e8,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,18.0,Mid,KR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_3fa4b2c7ee27461e,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.4,High,KR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_4228a04439e64c63,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,15.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_988e7b7d300e4a16,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.2,High,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_41612b258421411b,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_36e040be3aee486c,2026-03-01 00:00:00.000,iPhone 12,iOS,17.4,Mid,JP,"1.0.0",core_meta_ios_t1,Meta
+usr_f25fc4cb205547d6,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_403b222d0a4546a0,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_c586da780cc84203,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.2,Mid,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_758e7557f1944a11,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,18.0,Mid,US,"1.0.0",ct_liftoff_01,Liftoff
+usr_69c6969755444be9,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,15.0,High,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_63377ddc95184d35,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_ec2b57e363e248da,2026-03-01 00:00:00.000,iPhone 13,iOS,17.4,Mid,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_b04c943783434636,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,18.0,High,VN,"1.0.0",core_applovin_ios_value,AppLovin
+usr_91ed8ca827ad4ba2,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,15.0,Mid,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_31285f728b2342c6,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,18.0,High,KR,"1.0.0",core_meta_ios_t1,Meta
+usr_4321ae100ddc43a2,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.4,High,PH,"1.0.0",core_meta_ios_t1,Meta
+usr_d26fcd2ad99a4e62,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_3884610e8d154792,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,KR,"1.0.0",core_meta_android_t1,Meta
+usr_699ab26a1b5946c6,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,18.0,High,US,"1.0.0",core_meta_ios_t1,Meta
+usr_d7f0fd7c890b4ba3,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,KR,"1.0.0",core_meta_android_t1,Meta
+usr_fb6b7458bfdf4dfa,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,13.0,Low,JP,"1.0.0",core_uac_android_global,Google UAC
+usr_9a42a3e24b5a4639,2026-03-01 00:00:00.000,Oppo Reno 12,Android,15.0,Mid,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_b9020fa2db59489e,2026-03-01 00:00:00.000,iPhone 13,iOS,17.5,Mid,ID,"1.0.0",core_meta_ios_t1,Meta
+usr_9b4a261c4b754b29,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,18.0,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_1e0bbf340d47450e,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,GB,"1.0.0",core_meta_android_t1,Meta
+usr_42e5b3e1baa7430a,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.4,Mid,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_a2e57efbb7404861,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.2,High,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_2901bbc3ae924cc2,2026-03-01 00:00:00.000,Oppo Reno 12,Android,15.0,Mid,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_e0c27295a57f4489,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_4bdfeb6d8da54ab9,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,15.0,Low,KR,"1.0.0",core_meta_android_t1,Meta
+usr_dab61bbd6b41453e,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.4,High,PH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_3a88a918b07e448b,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,14.0,High,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_c7e9097ae6674f6f,2026-03-01 00:00:00.000,Xiaomi 14,Android,13.0,High,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_97538425e0144d38,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.4,Mid,ID,"1.0.0",core_meta_ios_t1,Meta
+usr_f079a59d8a104501,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.5,Mid,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_d7b87388b80a4ae7,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_9fc1973d18174c49,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,18.0,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_d6d8d547b3cd4dac,2026-03-01 00:00:00.000,Samsung Galaxy S24,Android,14.0,High,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_cb1f504f216c400b,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.5,Mid,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_cdb7a24b254e4c3d,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,DE,"1.0.0",core_meta_android_t1,Meta
+usr_62fec028904546a6,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_e272fef4f4834fbb,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,KR,"1.0.0",core_meta_android_t1,Meta
+usr_402e0d7826ec402e,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,18.0,High,DE,"1.0.0",core_meta_ios_t1,Meta
+usr_ed74e44e15c34618,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,18.0,Mid,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_69b5f7bab5514dc6,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,DE,"1.0.0",core_meta_android_t1,Meta
+usr_fbf50821e0fe4baf,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.5,High,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_2a6a85e2144e4431,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_093afc234ab5478d,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,JP,"1.0.0",core_tiktok_android_scale,TikTok
+usr_52a61747dfe6412a,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,13.0,Low,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_45ab0a50f43f429e,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,TH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_4f0713d1b69545d1,2026-03-01 00:00:00.000,Realme Note 50,Android,14.0,Low,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_097cf28868f046ae,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.4,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_bb47fa8c48cf427f,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,15.0,Low,KR,"1.0.0",core_meta_android_t1,Meta
+usr_fe8edfa4239540b2,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.4,Mid,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_fa195a20e7c94914,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,18.0,High,PH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_2bb5fadb36284c2a,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.5,Mid,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_46d26c26213d4043,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.5,High,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_2f0bef31829b41d0,2026-03-01 00:00:00.000,Vivo Y18,Android,14.0,Low,TW,"1.0.0",core_tiktok_android_scale,TikTok
+usr_1cd700e9ff1a4286,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_f75e022e4d0545cb,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.5,High,PH,"1.0.0",core_meta_ios_t1,Meta
+usr_297d638642094104,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,TW,"1.0.0",core_meta_android_t1,Meta
+usr_44abf772019040ce,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,TW,"1.0.0",core_uac_android_global,Google UAC
+usr_8301ab30273a4441,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.5,Mid,PH,"1.0.0",core_meta_ios_t1,Meta
+usr_9b4dbd4dbfc1491e,2026-03-01 00:00:00.000,Realme Note 50,Android,13.0,Low,GB,"1.0.0",core_meta_android_t1,Meta
+usr_160a23bffd2d4418,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_c8f93df3e991417d,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_f5b2896cf37a42fc,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,18.0,Mid,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_f6c5419cb34641b9,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.4,High,ID,"1.0.0",core_applovin_ios_value,AppLovin
+usr_258092d1098c408c,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,TH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_26e1c36958d140e6,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,15.0,Low,US,"1.0.0",core_tiktok_android_scale,TikTok
+usr_5f7f3b5f0c7a45f4,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,15.0,Mid,MX,"1.0.0",core_uac_android_global,Google UAC
+usr_f5221cb7bbb841e6,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,JP,"1.0.0",core_meta_android_t1,Meta
+usr_f656579e8c224050,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,US,"1.0.0",core_uac_android_global,Google UAC
+usr_f3d94e4d0d8344c5,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.4,High,TH,"1.0.0",core_meta_ios_t1,Meta
+usr_40a48c21f77b4e71,2026-03-01 00:00:00.000,OnePlus 12,Android,13.0,High,AU,"1.0.0",core_uac_android_global,Google UAC
+usr_7eb5977511c74266,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,18.0,High,VN,"1.0.0",core_applovin_ios_value,AppLovin
+usr_1c51eca3287d4276,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_fda6b831ef3f483e,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.5,Mid,KR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_59eb6118fe0844ad,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_785f42fa2b944860,2026-03-01 00:00:00.000,iPhone 13,iOS,17.4,Mid,ID,"1.0.0",core_meta_ios_t1,Meta
+usr_7b085a3670c74f93,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_5329c912433c4780,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,KR,"1.0.0",core_uac_android_global,Google UAC
+usr_d70650cda62e47b0,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_4837ab8c09d24528,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,TW,"1.0.0",core_uac_android_global,Google UAC
+usr_f734e75e270b4e63,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,15.0,Mid,AU,"1.0.0",core_tiktok_android_scale,TikTok
+usr_19fc3a0f4f184447,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_af44bf71593b478d,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,18.0,Mid,VN,"1.0.0",core_applovin_ios_value,AppLovin
+usr_63bd1d8e83dc4fed,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,15.0,Mid,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_47ac5b9ee5254e98,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,KR,"1.0.0",core_meta_android_t1,Meta
+usr_d6e7bf99ceb2447e,2026-03-01 00:00:00.000,OnePlus 12,Android,15.0,High,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_781ae010e1c145d5,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,15.0,Mid,AU,"1.0.0",core_meta_android_t1,Meta
+usr_681eb68bf92042ee,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,CA,"1.0.0",core_tiktok_android_scale,TikTok
+usr_7b5d8aecd8774997,2026-03-01 00:00:00.000,Vivo Y18,Android,14.0,Low,JP,"1.0.0",core_uac_android_global,Google UAC
+usr_b8758265bf224c13,2026-03-01 00:00:00.000,Realme Note 50,Android,15.0,Low,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_dadadae67c254f1e,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.4,High,PH,"1.0.0",core_meta_ios_t1,Meta
+usr_bde0e96432344986,2026-03-01 00:00:00.000,iPhone 12,iOS,18.0,Mid,KR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_dedc3984d9274b2a,2026-03-01 00:00:00.000,Xiaomi 14,Android,15.0,High,JP,"1.0.0",core_meta_android_t1,Meta
+usr_bf8e0898d2d5486f,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_c03cdf03fef64020,2026-03-01 00:00:00.000,Redmi 13C,Android,15.0,Low,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_266a03afe0334fd2,2026-03-01 00:00:00.000,POCO X6,Android,13.0,Mid,BR,"1.0.0",ct_vungle_01,Vungle
+usr_20b11879a40c40a7,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_5b07a03129564925,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,14.0,High,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_4b633ed2cbd34868,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,JP,"1.0.0",core_meta_android_t1,Meta
+usr_289313d460214620,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,18.0,Mid,ID,"1.0.0",core_applovin_ios_value,AppLovin
+usr_5d6b661b4d774496,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.2,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_445eb582a6bd4d69,2026-03-01 00:00:00.000,OnePlus 12,Android,13.0,High,KR,"1.0.0",core_meta_android_t1,Meta
+usr_8573da551e784806,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,14.0,Low,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_fe9ba459668e418e,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,18.0,High,KR,"1.0.0",core_meta_ios_t1,Meta
+usr_5a763486422c422e,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.2,High,PH,"1.0.0",core_meta_ios_t1,Meta
+usr_9e414b09bbae469b,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,18.0,High,VN,"1.0.0",core_applovin_ios_value,AppLovin
+usr_91a11a006b4b444b,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.2,Mid,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_c918f4549d024103,2026-03-01 00:00:00.000,iPhone 12,iOS,18.0,Mid,JP,"1.0.0",core_applovin_ios_value,AppLovin
+usr_2e6e1ff91ce248de,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_189fdf60ebb34330,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,TH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_cfb432fb201b49ff,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_b58afde4e3bd465d,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,18.0,High,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_059ecb28015f4550,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_22618cd9d68b40a5,2026-03-01 00:00:00.000,Realme Note 50,Android,14.0,Low,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_0391b6c86ea64457,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_718289bf21bb4943,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,GB,"1.0.0",core_meta_android_t1,Meta
+usr_c12933b772b343a6,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,14.0,Low,GB,"1.0.0",core_tiktok_android_scale,TikTok
+usr_dbb09ff4ada440e6,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_1ce3eb24c1904689,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_5da95e9d843a4c50,2026-03-01 00:00:00.000,OnePlus 12,Android,13.0,High,DE,"1.0.0",core_meta_android_t1,Meta
+usr_7f7b14cece004a3e,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,PH,"1.0.0",core_meta_ios_t1,Meta
+usr_cfe0ac66659b4e94,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.4,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_ee71c40d4c0b49b4,2026-03-01 00:00:00.000,Xiaomi 14,Android,14.0,High,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_e4e0f7b5beae4450,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.5,Mid,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_da0c172cf92140f9,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.4,Mid,TH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_727115af0685469b,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,18.0,Mid,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_60a7d38dffc64927,2026-03-01 00:00:00.000,iPhone 12,iOS,17.4,Mid,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_c85dedf6510c4a33,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,18.0,High,TW,"1.0.0",core_meta_ios_t1,Meta
+usr_0b5ff9adbf354ee6,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,18.0,High,AU,"1.0.0",core_applovin_ios_value,AppLovin
+usr_215187009fa44f5f,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,14.0,Low,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_99410b64391f4361,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_9bb1f5367bd442e7,2026-03-01 00:00:00.000,Realme Note 50,Android,15.0,Low,US,"1.0.0",core_uac_android_global,Google UAC
+usr_6e98d66c3a6d45bf,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,DE,"1.0.0",core_meta_android_t1,Meta
+usr_7b06d44faa7d47e5,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,15.0,High,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_14bbeef0964d4fa3,2026-03-01 00:00:00.000,iPhone SE 2022,iOS,17.2,Mid,MX,"1.0.0",core_applovin_ios_value,AppLovin
+usr_78859db81b22491a,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.2,Mid,PH,"1.0.0",core_meta_ios_t1,Meta
+usr_2a9feee72b304416,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.4,High,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_85a99534de4f49a8,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,15.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_c5250a43d41f4366,2026-03-01 00:00:00.000,Vivo Y18,Android,14.0,Low,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_6ad87fa39d5c4de1,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,FR,"1.0.0",core_meta_android_t1,Meta
+usr_5ae845fdcdc3404e,2026-03-01 00:00:00.000,POCO X6,Android,13.0,Mid,FR,"1.0.0",core_meta_android_t1,Meta
+usr_29be534637e043a7,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_1a74791e1548412d,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.4,High,CA,"1.0.0",core_meta_ios_t1,Meta
+usr_1a8c2f76d0b847b9,2026-03-01 00:00:00.000,Samsung Galaxy S24,Android,14.0,High,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_ec3da67fb1bc4170,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.2,High,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_7f2b443b1abd4aaa,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,JP,"1.0.0",core_uac_android_global,Google UAC
+usr_a1aba885a2a24b22,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,JP,"1.0.0",core_meta_android_t1,Meta
+usr_e29dc7076dd946a6,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,18.0,Mid,PH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_0e69521064e344c5,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,14.0,High,AU,"1.0.0",core_tiktok_android_scale,TikTok
+usr_20f7d36461524c22,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,15.0,Mid,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_96c1477a852a45ea,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.2,High,KR,"1.0.0",core_meta_ios_t1,Meta
+usr_8a3c4391d52242db,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,FR,"1.0.0",core_meta_ios_t1,Meta
+usr_48fe8e4475f841c5,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,KR,"1.0.0",core_meta_android_t1,Meta
+usr_b3805a3ef66f43aa,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.4,High,ID,"1.0.0",core_applovin_ios_value,AppLovin
+usr_ed3a0ece8bfc4aea,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_4b8deaaba71a4ce4,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,AU,"1.0.0",core_tiktok_android_scale,TikTok
+usr_8fe3ddc5730d4b6f,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_720fcc1196144a56,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_bbf98a95c7384d50,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,15.0,Mid,FR,"1.0.0",core_meta_android_t1,Meta
+usr_84b61f02ff694a4d,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_83226cfb87c7493a,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,BR,"1.0.0",ct_vungle_01,Vungle
+usr_8daf112365ff4ca6,2026-03-01 00:00:00.000,Oppo Reno 12,Android,15.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_e032eb478a2d4603,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_9e05577be113442e,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.2,High,JP,"1.0.0",core_meta_ios_t1,Meta
+usr_ff5f329fde094e7e,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,15.0,High,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_ec938c6f00b44e4d,2026-03-01 00:00:00.000,OnePlus 12,Android,15.0,High,KR,"1.0.0",core_meta_android_t1,Meta
+usr_55191826183c4f93,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,US,"1.0.0",core_tiktok_android_scale,TikTok
+usr_cb28aa1433f74d2e,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.2,Mid,PH,"1.0.0",core_meta_ios_t1,Meta
+usr_5bb098e2b2214d6c,2026-03-01 00:00:00.000,Xiaomi 14,Android,15.0,High,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_12fcf76568714534,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,18.0,High,JP,"1.0.0",core_meta_ios_t1,Meta
+usr_1c96fd733eb440bf,2026-03-01 00:00:00.000,iPhone 12,iOS,17.4,Mid,FR,"1.0.0",core_meta_ios_t1,Meta
+usr_f436e944f5534447,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,KR,"1.0.0",core_meta_android_t1,Meta
+usr_922eec8b7ab94b44,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.2,High,ID,"1.0.0",core_applovin_ios_value,AppLovin
+usr_d3147c46c33a4047,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,13.0,High,US,"1.0.0",core_meta_android_t1,Meta
+usr_75c3695521bf4743,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,JP,"1.0.0",core_meta_android_t1,Meta
+usr_899fd3bd9761450a,2026-03-01 00:00:00.000,Oppo Reno 12,Android,15.0,Mid,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_c144cc142cf548dc,2026-03-01 00:00:00.000,Samsung Galaxy S24,Android,15.0,High,CA,"1.0.0",core_tiktok_android_scale,TikTok
+usr_3f4f45c8319c4d7f,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,TH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_fef9f29c45c94006,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_fc0f7477e6e3406a,2026-03-01 00:00:00.000,Vivo Y18,Android,15.0,Low,KR,"1.0.0",core_meta_android_t1,Meta
+usr_ac59bede6c41478b,2026-03-01 00:00:00.000,Vivo Y18,Android,15.0,Low,US,"1.0.0",core_uac_android_global,Google UAC
+usr_7d94b4deac7a442d,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.5,High,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_79b6ee2de9444da1,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.2,Mid,DE,"1.0.0",core_meta_ios_t1,Meta
+usr_3bb1df401ffd4bca,2026-03-01 00:00:00.000,Oppo Reno 12,Android,15.0,Mid,GB,"1.0.0",core_meta_android_t1,Meta
+usr_fdc552addfae46e0,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,TW,"1.0.0",core_uac_android_global,Google UAC
+usr_894983c110b8469f,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.5,High,AU,"1.0.0",core_applovin_ios_value,AppLovin
+usr_297bbe0caa504f83,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,18.0,High,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_49ea69888e6e49ed,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_ffcfe6b31be8451b,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,JP,"1.0.0",core_meta_android_t1,Meta
+usr_8dcb7716eb8c4f96,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_6cd01051225041f4,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_63cc4bbf82654f7b,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_9bba3405321241c1,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.5,High,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_48f339a9c35f45e1,2026-03-01 00:00:00.000,iPhone 13,iOS,17.4,Mid,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_2f1685e550434b00,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_e76c2e53edaf4f70,2026-03-01 00:00:00.000,Redmi 13C,Android,15.0,Low,US,"1.0.0",core_uac_android_global,Google UAC
+usr_af42d97536d54a6f,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,TH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_e5c71d5c3b234b7b,2026-03-01 00:00:00.000,iPhone 12,iOS,18.0,Mid,DE,"1.0.0",core_meta_ios_t1,Meta
+usr_e2ca0d7c26fd48f3,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,18.0,Mid,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_6960c8afae3e4435,2026-03-01 00:00:00.000,iPhone 13,iOS,17.2,Mid,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_07bbe81e6012444c,2026-03-01 00:00:00.000,Realme Note 50,Android,15.0,Low,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_b6d39441f9114b79,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,TH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_8ad15b3979bb4706,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,DE,"1.0.0",core_meta_android_t1,Meta
+usr_40df2a60653a4e56,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,18.0,High,JP,"1.0.0",core_applovin_ios_value,AppLovin
+usr_eecaedbc0b3a4999,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.2,Mid,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_035da1fc4cf94f11,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,13.0,High,FR,"1.0.0",core_meta_android_t1,Meta
+usr_e2833447613a4e42,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.5,High,ID,"1.0.0",core_applovin_ios_value,AppLovin
+usr_d158003647b34233,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_52b3210f693b4b04,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,KR,"1.0.0",core_meta_android_t1,Meta
+usr_a3f232fb1be640d2,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_5c4e88362e6e45dc,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,AU,"1.0.0",core_uac_android_global,Google UAC
+usr_2bc5abf6b25a4d8c,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.4,High,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_c1dccbe859fe4e87,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_dbc0cf02f8054858,2026-03-01 00:00:00.000,Realme Note 50,Android,13.0,Low,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_a9276f0d71854986,2026-03-01 00:00:00.000,Realme Note 50,Android,13.0,Low,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_8582a1f756294e59,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.2,High,AU,"1.0.0",core_meta_ios_t1,Meta
+usr_9789e8bd31984128,2026-03-01 00:00:00.000,Realme Note 50,Android,15.0,Low,TH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_cbe103139d0540a9,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,FR,"1.0.0",core_meta_android_t1,Meta
+usr_6bf2c9db947741a0,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,13.0,Low,AU,"1.0.0",core_uac_android_global,Google UAC
+usr_9662a5cae9ed4891,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,KR,"1.0.0",core_meta_android_t1,Meta
+usr_a07f70a22506449f,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,13.0,High,TW,"1.0.0",core_tiktok_android_scale,TikTok
+usr_160f7909c89142bb,2026-03-01 00:00:00.000,POCO X6,Android,13.0,Mid,CA,"1.0.0",core_meta_android_t1,Meta
+usr_3646fe1cb6cd41f8,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,18.0,High,PH,"1.0.0",core_meta_ios_t1,Meta
+usr_d74d13f7a9a744b6,2026-03-01 00:00:00.000,iPhone 13,iOS,17.2,Mid,KR,"1.0.0",core_meta_ios_t1,Meta
+usr_3f228163b91d4844,2026-03-01 00:00:00.000,Xiaomi 14,Android,14.0,High,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_40b7ba4bc43f4e0e,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_03319679c3ce439e,2026-03-01 00:00:00.000,iPhone 12,iOS,17.2,Mid,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_71382bf5ca0a4585,2026-03-01 00:00:00.000,iPhone 13,iOS,17.4,Mid,FR,"1.0.0",core_meta_ios_t1,Meta
+usr_b5a969d6693e4a2b,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_139c39ffaadd425a,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,JP,"1.0.0",core_meta_android_t1,Meta
+usr_5afefcac4bd245d0,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,15.0,Low,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_cc7e2f6a9b5c450d,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,18.0,High,PH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_d4e3a8fbd54b4e24,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,US,"1.0.0",core_meta_ios_t1,Meta
+usr_d0bb8e56dd334c2c,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_3cce6553ab944d5c,2026-03-01 00:00:00.000,OnePlus 12,Android,15.0,High,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_c57806f8592043c5,2026-03-01 00:00:00.000,OnePlus 12,Android,13.0,High,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_24d055d7c31a4f6a,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,18.0,High,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_9bfd10fc8a1a4fee,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_b3bdfe9624aa4253,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.4,High,TH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_ab54ea047dfd4690,2026-03-01 00:00:00.000,Samsung Galaxy S24,Android,14.0,High,GB,"1.0.0",core_meta_android_t1,Meta
+usr_bb7c226ca1134a4a,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,FR,"1.0.0",core_meta_android_t1,Meta
+usr_08612bebb7634769,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,AU,"1.0.0",core_applovin_ios_value,AppLovin
+usr_47109dce2b94486a,2026-03-01 00:00:00.000,Xiaomi 14,Android,14.0,High,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_266d3d8050244384,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,13.0,Low,FR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_c15cb85f4cb749e9,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,14.0,Low,US,"1.0.0",core_tiktok_android_scale,TikTok
+usr_a735fe450ae843d8,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,18.0,High,PH,"1.0.0",core_meta_ios_t1,Meta
+usr_d6a0c592b6d34456,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_ab2bb62f5a2643f2,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,15.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_e63b8a083b174cf1,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_688f58bd7d91445d,2026-03-01 00:00:00.000,Samsung Galaxy S24,Android,15.0,High,US,"1.0.0",core_meta_android_t1,Meta
+usr_5d6e5c890038454a,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_4d9801186b23496f,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_ce5cce748ada4071,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.2,High,TH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_f44cd7e282ce422e,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,TH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_1ed9e59c1bef44ec,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,FR,"1.0.0",core_meta_android_t1,Meta
+usr_a5e76963dd174722,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,GB,"1.0.0",core_uac_android_global,Google UAC
+usr_4ae3e3d9e2184c20,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_a0bf59cf644d403d,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,US,"1.0.0",core_meta_android_t1,Meta
+usr_adf41bdba7f24964,2026-03-01 00:00:00.000,Realme Note 50,Android,13.0,Low,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_cb63b8df9c464fe8,2026-03-01 00:00:00.000,OnePlus 12,Android,15.0,High,US,"1.0.0",core_meta_android_t1,Meta
+usr_34fe5988a9684071,2026-03-01 00:00:00.000,Vivo Y18,Android,14.0,Low,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_25408b4679d34739,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.2,Mid,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_237bbd382fbf483e,2026-03-01 00:00:00.000,Redmi 13C,Android,14.0,Low,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_cb732fe8dbd94537,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.4,High,KR,"1.0.0",core_meta_ios_t1,Meta
+usr_3aae28473187480b,2026-03-01 00:00:00.000,Samsung Galaxy S24,Android,13.0,High,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_54393f7263034d9b,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,14.0,Low,KR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_35de5a93ec1441b8,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_be872adf1fe24b68,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,15.0,Mid,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_98168c4c09d348a3,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_63df8d9954ac4a82,2026-03-01 00:00:00.000,Vivo Y18,Android,15.0,Low,DE,"1.0.0",core_meta_android_t1,Meta
+usr_78d1168b3b9c43b2,2026-03-01 00:00:00.000,iPhone 13,iOS,17.5,Mid,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_22dd867960654c87,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,13.0,Low,MX,"1.0.0",core_uac_android_global,Google UAC
+usr_2981678e133a4b35,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,14.0,Mid,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_648fa4f6187d4831,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_a27ca1a5b3384832,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_3a0fe7054750419f,2026-03-01 00:00:00.000,iPhone 13 mini,iOS,17.4,Mid,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_f50d3e00e69e4314,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_1ae627933d634650,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,BR,"1.0.0",core_meta_ios_t1,Meta
+usr_d9084407f2f34fba,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.2,High,BR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_65b5449652c54d26,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_64b3e086c8e24d70,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.5,High,MX,"1.0.0",core_meta_ios_t1,Meta
+usr_6eea0501e4dc43b0,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,ID,"1.0.0",core_meta_ios_t1,Meta
+usr_7a999a6147874e09,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,14.0,Mid,FR,"1.0.0",core_meta_android_t1,Meta
+usr_1cda45fbfe2c4a6e,2026-03-01 00:00:00.000,Samsung Galaxy A55,Android,13.0,Mid,DE,"1.0.0",core_meta_android_t1,Meta
+usr_fade5bbd39ca45bb,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,13.0,Low,KR,"1.0.0",core_uac_android_global,Google UAC
+usr_2977261d9a9f40b7,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,TW,"1.0.0",core_meta_ios_t1,Meta
+usr_05fafed451424108,2026-03-01 00:00:00.000,Samsung Galaxy S24,Android,15.0,High,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_79441e77450143de,2026-03-01 00:00:00.000,Redmi 13C,Android,15.0,Low,ID,"1.0.0",core_uac_android_global,Google UAC
+usr_9d317add2aa54820,2026-03-01 00:00:00.000,Samsung Galaxy S24,Android,15.0,High,US,"1.0.0",core_meta_android_t1,Meta
+usr_cc4f93e0a2f84fff,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.4,High,CA,"1.0.0",ct_liftoff_01,Liftoff
+usr_8cd7ca18dace4cd3,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,GB,"1.0.0",core_meta_android_t1,Meta
+usr_c29b4d653dd14da8,2026-03-01 00:00:00.000,Vivo Y18,Android,15.0,Low,TH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_c26d546ea0774e49,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,DE,"1.0.0",core_meta_android_t1,Meta
+usr_0f63b075e2064c82,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,VN,"1.0.0",core_uac_android_global,Google UAC
+usr_8ab64fb4a9fa4ce7,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_6363463827324455,2026-03-01 00:00:00.000,Samsung Galaxy S24,Android,13.0,High,US,"1.0.0",core_meta_android_t1,Meta
+usr_68f8fb13818b4ffc,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_91fce200deef43fe,2026-03-01 00:00:00.000,Realme Note 50,Android,13.0,Low,MX,"1.0.0",ct_vungle_01,Vungle
+usr_b3440e28c9d74fe5,2026-03-01 00:00:00.000,Vivo Y18,Android,14.0,Low,TH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_d28cffe4eaa642f4,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.4,High,KR,"1.0.0",core_meta_ios_t1,Meta
+usr_27e2f5acf3c744b9,2026-03-01 00:00:00.000,POCO X6,Android,15.0,Mid,JP,"1.0.0",core_meta_android_t1,Meta
+usr_e23555d429964537,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.4,High,AU,"1.0.0",ct_liftoff_01,Liftoff
+usr_a1880420d8764598,2026-03-01 00:00:00.000,Realme Note 50,Android,13.0,Low,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_eb113cb1daeb413a,2026-03-01 00:00:00.000,iPhone 12,iOS,17.5,Mid,US,"1.0.0",core_meta_ios_t1,Meta
+usr_daf3877d96a34c14,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,15.0,Low,VN,"1.0.0",core_tiktok_android_scale,TikTok
+usr_de6e8661212e496b,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.2,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_216e2aedc8904498,2026-03-01 00:00:00.000,iPhone 12,iOS,17.2,Mid,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_301826072f5c4ef5,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.2,High,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_a17b8cc92458411c,2026-03-01 00:00:00.000,Redmi 13C,Android,13.0,Low,BR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_92687514d1a448ef,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.5,High,KR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_733366cc975e4c5a,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.5,High,US,"1.0.0",core_meta_ios_t1,Meta
+usr_0e5239a3cae94ab0,2026-03-01 00:00:00.000,Samsung Galaxy A15,Android,13.0,Low,FR,"1.0.0",core_tiktok_android_scale,TikTok
+usr_c882643fc4814d28,2026-03-01 00:00:00.000,Redmi 13C,Android,15.0,Low,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_a48401f9b45443a5,2026-03-01 00:00:00.000,iPhone 12,iOS,17.2,Mid,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_7a4e2139033a427d,2026-03-01 00:00:00.000,Realme Note 50,Android,13.0,Low,US,"1.0.0",core_tiktok_android_scale,TikTok
+usr_a1cb92eadbde4a0f,2026-03-01 00:00:00.000,Oppo Reno 12,Android,13.0,Mid,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_0f31d4db827a4b8a,2026-03-01 00:00:00.000,Oppo Reno 12,Android,15.0,Mid,BR,"1.0.0",ct_vungle_01,Vungle
+usr_560305a96d1741a9,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,18.0,High,CA,"1.0.0",ct_liftoff_01,Liftoff
+usr_ca154850d3e94787,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.5,High,JP,"1.0.0",core_applovin_ios_value,AppLovin
+usr_e8709424747c4b21,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.5,High,US,"1.0.0",core_meta_ios_t1,Meta
+usr_46ea80aa294048cf,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.2,High,DE,"1.0.0",core_meta_ios_t1,Meta
+usr_3f198b50e30243e4,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.5,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_95c5f334fe884bae,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,13.0,High,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_9dce503d3b9d432d,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,MX,"1.0.0",core_uac_android_global,Google UAC
+usr_12f9c95731794acc,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,KR,"1.0.0",core_meta_android_t1,Meta
+usr_c0cfe51b3cb540ab,2026-03-01 00:00:00.000,Samsung Galaxy S24,Android,14.0,High,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_889ec32b1153486e,2026-03-01 00:00:00.000,POCO X6,Android,14.0,Mid,KR,"1.0.0",core_meta_android_t1,Meta
+usr_655bbb66d2de4f08,2026-03-01 00:00:00.000,Vivo Y18,Android,14.0,Low,US,"1.0.0",core_tiktok_android_scale,TikTok
+usr_f1924e4f7dd5486a,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,18.0,High,ID,"1.0.0",core_applovin_ios_value,AppLovin
+usr_bc15a7e3888b40e1,2026-03-01 00:00:00.000,iPhone 13,iOS,17.5,Mid,VN,"1.0.0",core_meta_ios_t1,Meta
+usr_68cee3a5e0c44b65,2026-03-01 00:00:00.000,iPhone 15 Pro,iOS,17.5,High,US,"1.0.0",ct_liftoff_01,Liftoff
+usr_4672096c318d4200,2026-03-01 00:00:00.000,Vivo Y18,Android,15.0,Low,AU,"1.0.0",core_uac_android_global,Google UAC
+usr_a0067c24f5684e6c,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,13.0,Mid,BR,"1.0.0",core_uac_android_global,Google UAC
+usr_757e2f9dfc064164,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.2,High,KR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_eda4c062f92b41b3,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_64e35eb55ac3437c,2026-03-01 00:00:00.000,Oppo Reno 12,Android,14.0,Mid,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_6dd078cb1b7b46ae,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,US,"1.0.0",core_meta_ios_t1,Meta
+usr_ef79142f308440b5,2026-03-01 00:00:00.000,OnePlus 12,Android,15.0,High,US,"1.0.0",core_meta_android_t1,Meta
+usr_0408e1d70d5441cb,2026-03-01 00:00:00.000,iPhone 13,iOS,17.5,Mid,KR,"1.0.0",core_applovin_ios_value,AppLovin
+usr_c33ad3e787f14f25,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,PH,"1.0.0",core_applovin_ios_value,AppLovin
+usr_cba6434847e54b9e,2026-03-01 00:00:00.000,Oppo Reno 12,Android,15.0,Mid,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_759d1a08faf44b09,2026-03-01 00:00:00.000,Vivo Y18,Android,13.0,Low,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_4ca92ae5db894b25,2026-03-01 00:00:00.000,Redmi 13C,Android,15.0,Low,PH,"1.0.0",core_tiktok_android_scale,TikTok
+usr_ab4e2515404248d5,2026-03-01 00:00:00.000,iPhone 14 Pro Max,iOS,17.2,High,US,"1.0.0",core_applovin_ios_value,AppLovin
+usr_c4c7146e0e974eaa,2026-03-01 00:00:00.000,iPhone 15 Pro Max,iOS,17.4,High,US,"1.0.0",core_meta_ios_t1,Meta
+usr_105b6623dc5147ca,2026-03-01 00:00:00.000,POCO X6,Android,13.0,Mid,TH,"1.0.0",core_uac_android_global,Google UAC
+usr_740fdb3043904d32,2026-03-01 00:00:00.000,Xiaomi 14,Android,13.0,High,PH,"1.0.0",core_uac_android_global,Google UAC
+usr_8f69e13f00ed4f75,2026-03-01 00:00:00.000,iPhone 14 Pro,iOS,17.2,High,GB,"1.0.0",core_meta_ios_t1,Meta
+usr_d1f24a7b14ed4561,2026-03-01 00:00:00.000,Google Pixel 9 Pro,Android,15.0,High,FR,"1.0.0",core_meta_android_t1,Meta
+usr_79068a1793f14aa8,2026-03-01 00:00:00.000,OnePlus 12,Android,14.0,High,KR,"1.0.0",core_meta_android_t1,Meta
+usr_90cd68af08984361,2026-03-01 00:00:00.000,Redmi Note 13 Pro,Android,15.0,Mid,ID,"1.0.0",core_tiktok_android_scale,TikTok
+usr_085d9f947ba94651,2026-03-01 00:00:00.000,Vivo Y18,Android,15.0,Low,BR,"1.0.0",core_tiktok_android_scale,TikTok

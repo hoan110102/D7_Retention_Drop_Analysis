@@ -1,0 +1,1025 @@
+"spend_date","channel","campaign_id","platform","country","spend_usd","impressions","clicks","installs"
+2026-03-01 00:00:00.000,AppLovin,core_applovin_ios_value,ios,AU,70.71,4329,77,24
+2026-03-01 00:00:00.000,AppLovin,core_applovin_ios_value,ios,BR,124.67,45662,507,167
+2026-03-01 00:00:00.000,AppLovin,core_applovin_ios_value,ios,CA,110.5,7236,140,41
+2026-03-01 00:00:00.000,AppLovin,core_applovin_ios_value,ios,ID,87.04,24609,435,116
+2026-03-01 00:00:00.000,AppLovin,core_applovin_ios_value,ios,JP,139.96,10798,233,58
+2026-03-01 00:00:00.000,AppLovin,core_applovin_ios_value,ios,KR,265.29,15029,299,91
+2026-03-01 00:00:00.000,AppLovin,core_applovin_ios_value,ios,MX,18.78,4606,118,23
+2026-03-01 00:00:00.000,AppLovin,core_applovin_ios_value,ios,PH,107.24,33771,724,142
+2026-03-01 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TH,81.17,15103,396,110
+2026-03-01 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TW,17.37,5948,125,23
+2026-03-01 00:00:00.000,AppLovin,core_applovin_ios_value,ios,US,555.7,59828,1164,213
+2026-03-01 00:00:00.000,AppLovin,core_applovin_ios_value,ios,VN,79.34,13283,269,91
+2026-03-01 00:00:00.000,Google UAC,core_uac_android_global,android,AU,69.65,6484,169,38
+2026-03-01 00:00:00.000,Google UAC,core_uac_android_global,android,BR,120.95,53322,781,261
+2026-03-01 00:00:00.000,Google UAC,core_uac_android_global,android,CA,82.06,22657,227,48
+2026-03-01 00:00:00.000,Google UAC,core_uac_android_global,android,DE,26.82,4405,46,15
+2026-03-01 00:00:00.000,Google UAC,core_uac_android_global,android,FR,31.44,5649,57,18
+2026-03-01 00:00:00.000,Google UAC,core_uac_android_global,android,GB,27.84,7129,79,16
+2026-03-01 00:00:00.000,Google UAC,core_uac_android_global,android,ID,137.49,66941,969,252
+2026-03-01 00:00:00.000,Google UAC,core_uac_android_global,android,JP,47.43,6746,89,28
+2026-03-01 00:00:00.000,Google UAC,core_uac_android_global,android,KR,70.85,4169,112,37
+2026-03-01 00:00:00.000,Google UAC,core_uac_android_global,android,MX,33.41,10725,184,57
+2026-03-01 00:00:00.000,Google UAC,core_uac_android_global,android,PH,122.05,50264,1017,262
+2026-03-01 00:00:00.000,Google UAC,core_uac_android_global,android,TH,121.65,28198,749,213
+2026-03-01 00:00:00.000,Google UAC,core_uac_android_global,android,TW,16.89,10793,163,32
+2026-03-01 00:00:00.000,Google UAC,core_uac_android_global,android,US,139.08,19027,425,77
+2026-03-01 00:00:00.000,Google UAC,core_uac_android_global,android,VN,100.24,63939,831,184
+2026-03-01 00:00:00.000,Liftoff,ct_liftoff_01,ios,AU,43.46,5689,69,17
+2026-03-01 00:00:00.000,Liftoff,ct_liftoff_01,ios,CA,27.66,2708,53,10
+2026-03-01 00:00:00.000,Liftoff,ct_liftoff_01,ios,US,142.93,7623,200,48
+2026-03-01 00:00:00.000,Meta,core_meta_android_t1,android,AU,75.92,11945,205,41
+2026-03-01 00:00:00.000,Meta,core_meta_android_t1,android,CA,78.0,6151,138,35
+2026-03-01 00:00:00.000,Meta,core_meta_android_t1,android,DE,257.82,19356,541,113
+2026-03-01 00:00:00.000,Meta,core_meta_android_t1,android,FR,297.25,47197,474,136
+2026-03-01 00:00:00.000,Meta,core_meta_android_t1,android,GB,221.2,25039,559,108
+2026-03-01 00:00:00.000,Meta,core_meta_android_t1,android,JP,320.45,29090,589,152
+2026-03-01 00:00:00.000,Meta,core_meta_android_t1,android,KR,344.34,43348,720,173
+2026-03-01 00:00:00.000,Meta,core_meta_android_t1,android,TW,13.86,3090,79,21
+2026-03-01 00:00:00.000,Meta,core_meta_android_t1,android,US,1231.85,107429,2342,559
+2026-03-01 00:00:00.000,Meta,core_meta_ios_t1,ios,AU,72.47,5813,111,30
+2026-03-01 00:00:00.000,Meta,core_meta_ios_t1,ios,BR,110.2,28624,754,154
+2026-03-01 00:00:00.000,Meta,core_meta_ios_t1,ios,CA,84.9,5858,128,33
+2026-03-01 00:00:00.000,Meta,core_meta_ios_t1,ios,DE,251.4,11727,326,100
+2026-03-01 00:00:00.000,Meta,core_meta_ios_t1,ios,FR,269.27,18894,453,93
+2026-03-01 00:00:00.000,Meta,core_meta_ios_t1,ios,GB,307.43,19438,479,124
+2026-03-01 00:00:00.000,Meta,core_meta_ios_t1,ios,ID,107.35,23464,490,135
+2026-03-01 00:00:00.000,Meta,core_meta_ios_t1,ios,JP,138.3,9553,219,59
+2026-03-01 00:00:00.000,Meta,core_meta_ios_t1,ios,KR,215.3,24662,368,87
+2026-03-01 00:00:00.000,Meta,core_meta_ios_t1,ios,MX,10.33,3306,76,14
+2026-03-01 00:00:00.000,Meta,core_meta_ios_t1,ios,PH,126.39,36725,794,153
+2026-03-01 00:00:00.000,Meta,core_meta_ios_t1,ios,TH,88.98,29352,465,115
+2026-03-01 00:00:00.000,Meta,core_meta_ios_t1,ios,TW,21.4,5913,132,28
+2026-03-01 00:00:00.000,Meta,core_meta_ios_t1,ios,US,563.78,52989,749,191
+2026-03-01 00:00:00.000,Meta,core_meta_ios_t1,ios,VN,83.26,21888,537,100
+2026-03-01 00:00:00.000,TikTok,core_tiktok_android_scale,android,AU,70.08,4423,120,37
+2026-03-01 00:00:00.000,TikTok,core_tiktok_android_scale,android,BR,77.75,43105,464,154
+2026-03-01 00:00:00.000,TikTok,core_tiktok_android_scale,android,CA,68.14,9411,179,38
+2026-03-01 00:00:00.000,TikTok,core_tiktok_android_scale,android,DE,13.4,1352,23,7
+2026-03-01 00:00:00.000,TikTok,core_tiktok_android_scale,android,FR,42.47,8650,92,22
+2026-03-01 00:00:00.000,TikTok,core_tiktok_android_scale,android,GB,41.32,2851,69,22
+2026-03-01 00:00:00.000,TikTok,core_tiktok_android_scale,android,ID,103.09,51648,616,176
+2026-03-01 00:00:00.000,TikTok,core_tiktok_android_scale,android,JP,30.84,3661,63,18
+2026-03-01 00:00:00.000,TikTok,core_tiktok_android_scale,android,KR,54.38,9363,94,30
+2026-03-01 00:00:00.000,TikTok,core_tiktok_android_scale,android,PH,81.18,41506,564,146
+2026-03-01 00:00:00.000,TikTok,core_tiktok_android_scale,android,TH,61.61,39971,528,132
+2026-03-01 00:00:00.000,TikTok,core_tiktok_android_scale,android,TW,16.81,6980,125,32
+2026-03-01 00:00:00.000,TikTok,core_tiktok_android_scale,android,US,145.15,19026,284,79
+2026-03-01 00:00:00.000,TikTok,core_tiktok_android_scale,android,VN,73.01,34111,464,136
+2026-03-01 00:00:00.000,Vungle,ct_vungle_01,android,BR,35.65,17360,214,60
+2026-03-01 00:00:00.000,Vungle,ct_vungle_01,android,MX,6.66,4292,46,13
+2026-03-02 00:00:00.000,AppLovin,core_applovin_ios_value,ios,AU,59.61,8134,87,21
+2026-03-02 00:00:00.000,AppLovin,core_applovin_ios_value,ios,BR,116.83,35828,694,153
+2026-03-02 00:00:00.000,AppLovin,core_applovin_ios_value,ios,CA,121.44,11572,175,42
+2026-03-02 00:00:00.000,AppLovin,core_applovin_ios_value,ios,ID,118.16,27916,564,146
+2026-03-02 00:00:00.000,AppLovin,core_applovin_ios_value,ios,JP,146.19,12895,234,59
+2026-03-02 00:00:00.000,AppLovin,core_applovin_ios_value,ios,KR,194.76,11521,282,68
+2026-03-02 00:00:00.000,AppLovin,core_applovin_ios_value,ios,MX,16.16,7607,89,20
+2026-03-02 00:00:00.000,AppLovin,core_applovin_ios_value,ios,PH,84.0,33537,366,116
+2026-03-02 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TH,96.37,26837,488,111
+2026-03-02 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TW,22.87,11437,139,32
+2026-03-02 00:00:00.000,AppLovin,core_applovin_ios_value,ios,US,473.76,57740,873,161
+2026-03-02 00:00:00.000,AppLovin,core_applovin_ios_value,ios,VN,89.12,23159,311,100
+2026-03-02 00:00:00.000,Google UAC,core_uac_android_global,android,AU,46.38,10657,120,29
+2026-03-02 00:00:00.000,Google UAC,core_uac_android_global,android,BR,105.41,69863,949,228
+2026-03-02 00:00:00.000,Google UAC,core_uac_android_global,android,CA,41.99,5582,112,22
+2026-03-02 00:00:00.000,Google UAC,core_uac_android_global,android,DE,22.58,3405,70,15
+2026-03-02 00:00:00.000,Google UAC,core_uac_android_global,android,FR,32.32,3740,88,18
+2026-03-02 00:00:00.000,Google UAC,core_uac_android_global,android,GB,32.75,4445,78,17
+2026-03-02 00:00:00.000,Google UAC,core_uac_android_global,android,ID,116.42,38354,696,219
+2026-03-02 00:00:00.000,Google UAC,core_uac_android_global,android,JP,40.08,2685,72,21
+2026-03-02 00:00:00.000,Google UAC,core_uac_android_global,android,KR,25.89,3055,80,16
+2026-03-02 00:00:00.000,Google UAC,core_uac_android_global,android,MX,31.73,18769,290,56
+2026-03-02 00:00:00.000,Google UAC,core_uac_android_global,android,PH,86.2,72509,811,168
+2026-03-02 00:00:00.000,Google UAC,core_uac_android_global,android,TH,84.55,27313,527,143
+2026-03-02 00:00:00.000,Google UAC,core_uac_android_global,android,TW,13.92,2966,74,25
+2026-03-02 00:00:00.000,Google UAC,core_uac_android_global,android,US,121.69,12676,300,65
+2026-03-02 00:00:00.000,Google UAC,core_uac_android_global,android,VN,58.54,23577,430,120
+2026-03-02 00:00:00.000,Liftoff,ct_liftoff_01,ios,AU,30.78,2810,41,11
+2026-03-02 00:00:00.000,Liftoff,ct_liftoff_01,ios,CA,10.54,979,17,4
+2026-03-02 00:00:00.000,Liftoff,ct_liftoff_01,ios,US,111.13,9162,216,46
+2026-03-02 00:00:00.000,Meta,core_meta_android_t1,android,AU,72.02,5546,111,35
+2026-03-02 00:00:00.000,Meta,core_meta_android_t1,android,CA,59.97,4650,91,29
+2026-03-02 00:00:00.000,Meta,core_meta_android_t1,android,DE,211.78,35859,384,115
+2026-03-02 00:00:00.000,Meta,core_meta_android_t1,android,FR,229.76,37228,547,105
+2026-03-02 00:00:00.000,Meta,core_meta_android_t1,android,GB,277.93,15024,381,129
+2026-03-02 00:00:00.000,Meta,core_meta_android_t1,android,JP,274.88,20141,493,150
+2026-03-02 00:00:00.000,Meta,core_meta_android_t1,android,KR,372.76,51923,807,164
+2026-03-02 00:00:00.000,Meta,core_meta_android_t1,android,TW,15.49,2939,82,23
+2026-03-02 00:00:00.000,Meta,core_meta_android_t1,android,US,976.23,209716,2270,476
+2026-03-02 00:00:00.000,Meta,core_meta_ios_t1,ios,AU,92.42,13935,159,38
+2026-03-02 00:00:00.000,Meta,core_meta_ios_t1,ios,BR,90.0,15299,373,121
+2026-03-02 00:00:00.000,Meta,core_meta_ios_t1,ios,CA,90.47,10211,120,35
+2026-03-02 00:00:00.000,Meta,core_meta_ios_t1,ios,DE,201.7,10264,281,78
+2026-03-02 00:00:00.000,Meta,core_meta_ios_t1,ios,FR,231.86,18328,254,83
+2026-03-02 00:00:00.000,Meta,core_meta_ios_t1,ios,GB,237.18,14748,323,89
+2026-03-02 00:00:00.000,Meta,core_meta_ios_t1,ios,ID,109.92,32482,654,123
+2026-03-02 00:00:00.000,Meta,core_meta_ios_t1,ios,JP,123.57,12987,220,47
+2026-03-02 00:00:00.000,Meta,core_meta_ios_t1,ios,KR,193.1,15723,304,71
+2026-03-02 00:00:00.000,Meta,core_meta_ios_t1,ios,MX,25.01,3512,87,29
+2026-03-02 00:00:00.000,Meta,core_meta_ios_t1,ios,PH,110.76,22074,434,147
+2026-03-02 00:00:00.000,Meta,core_meta_ios_t1,ios,TH,71.34,33533,468,95
+2026-03-02 00:00:00.000,Meta,core_meta_ios_t1,ios,TW,21.25,2936,75,25
+2026-03-02 00:00:00.000,Meta,core_meta_ios_t1,ios,US,496.06,26791,557,175
+2026-03-02 00:00:00.000,Meta,core_meta_ios_t1,ios,VN,62.42,18179,273,87
+2026-03-02 00:00:00.000,Mintegral,ct_mtg_01,android,BR,22.1,7376,138,38
+2026-03-02 00:00:00.000,Mintegral,ct_mtg_01,android,ID,19.76,7794,124,33
+2026-03-02 00:00:00.000,Mintegral,ct_mtg_01,android,PH,16.66,3995,93,28
+2026-03-02 00:00:00.000,Moloco,ct_moloco_01,ios,DE,39.64,4921,66,17
+2026-03-02 00:00:00.000,Moloco,ct_moloco_01,ios,GB,32.88,2194,48,14
+2026-03-02 00:00:00.000,Moloco,ct_moloco_01,ios,US,74.14,6731,152,31
+2026-03-02 00:00:00.000,TikTok,core_tiktok_android_scale,android,AU,83.14,7721,196,54
+2026-03-02 00:00:00.000,TikTok,core_tiktok_android_scale,android,BR,60.96,62022,674,128
+2026-03-02 00:00:00.000,TikTok,core_tiktok_android_scale,android,CA,70.84,7454,144,39
+2026-03-02 00:00:00.000,TikTok,core_tiktok_android_scale,android,DE,25.92,5783,73,17
+2026-03-02 00:00:00.000,TikTok,core_tiktok_android_scale,android,FR,46.76,8810,97,25
+2026-03-02 00:00:00.000,TikTok,core_tiktok_android_scale,android,GB,32.86,4572,90,17
+2026-03-02 00:00:00.000,TikTok,core_tiktok_android_scale,android,ID,77.38,31180,629,146
+2026-03-02 00:00:00.000,TikTok,core_tiktok_android_scale,android,JP,15.97,1375,36,10
+2026-03-02 00:00:00.000,TikTok,core_tiktok_android_scale,android,KR,41.21,4956,92,25
+2026-03-02 00:00:00.000,TikTok,core_tiktok_android_scale,android,PH,68.39,21602,510,146
+2026-03-02 00:00:00.000,TikTok,core_tiktok_android_scale,android,TH,50.49,28853,396,104
+2026-03-02 00:00:00.000,TikTok,core_tiktok_android_scale,android,TW,11.47,8458,95,20
+2026-03-02 00:00:00.000,TikTok,core_tiktok_android_scale,android,US,163.71,19900,265,84
+2026-03-02 00:00:00.000,TikTok,core_tiktok_android_scale,android,VN,58.65,18315,389,104
+2026-03-02 00:00:00.000,TikTok,ct_tiktok_01,android,PH,16.11,10064,103,34
+2026-03-02 00:00:00.000,TikTok,ct_tiktok_01,android,TH,16.39,6948,136,31
+2026-03-02 00:00:00.000,TikTok,ct_tiktok_01,android,VN,13.19,6389,113,23
+2026-03-02 00:00:00.000,Vungle,ct_vungle_01,android,BR,18.1,9225,116,32
+2026-03-02 00:00:00.000,Vungle,ct_vungle_01,android,MX,6.88,2561,61,12
+2026-03-03 00:00:00.000,AppLovin,core_applovin_ios_value,ios,AU,66.72,5816,91,27
+2026-03-03 00:00:00.000,AppLovin,core_applovin_ios_value,ios,BR,90.13,25910,372,109
+2026-03-03 00:00:00.000,AppLovin,core_applovin_ios_value,ios,CA,122.23,6277,168,42
+2026-03-03 00:00:00.000,AppLovin,core_applovin_ios_value,ios,ID,92.5,32245,350,103
+2026-03-03 00:00:00.000,AppLovin,core_applovin_ios_value,ios,JP,144.88,15522,174,48
+2026-03-03 00:00:00.000,AppLovin,core_applovin_ios_value,ios,KR,135.5,7017,183,58
+2026-03-03 00:00:00.000,AppLovin,core_applovin_ios_value,ios,MX,21.94,5514,84,26
+2026-03-03 00:00:00.000,AppLovin,core_applovin_ios_value,ios,PH,82.69,26037,374,106
+2026-03-03 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TH,66.37,18699,373,93
+2026-03-03 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TW,16.64,3807,81,21
+2026-03-03 00:00:00.000,AppLovin,core_applovin_ios_value,ios,US,373.94,35451,497,158
+2026-03-03 00:00:00.000,AppLovin,core_applovin_ios_value,ios,VN,65.16,14225,297,79
+2026-03-03 00:00:00.000,Google UAC,core_uac_android_global,android,AU,82.55,9994,192,45
+2026-03-03 00:00:00.000,Google UAC,core_uac_android_global,android,BR,95.18,33706,938,174
+2026-03-03 00:00:00.000,Google UAC,core_uac_android_global,android,CA,59.67,14595,166,34
+2026-03-03 00:00:00.000,Google UAC,core_uac_android_global,android,DE,20.66,2323,58,11
+2026-03-03 00:00:00.000,Google UAC,core_uac_android_global,android,FR,34.6,3842,67,21
+2026-03-03 00:00:00.000,Google UAC,core_uac_android_global,android,GB,19.46,2867,39,11
+2026-03-03 00:00:00.000,Google UAC,core_uac_android_global,android,ID,118.4,27316,615,205
+2026-03-03 00:00:00.000,Google UAC,core_uac_android_global,android,JP,36.86,4867,79,20
+2026-03-03 00:00:00.000,Google UAC,core_uac_android_global,android,KR,25.94,2655,70,16
+2026-03-03 00:00:00.000,Google UAC,core_uac_android_global,android,MX,25.68,8226,145,46
+2026-03-03 00:00:00.000,Google UAC,core_uac_android_global,android,PH,90.05,44735,651,161
+2026-03-03 00:00:00.000,Google UAC,core_uac_android_global,android,TH,76.93,29987,421,138
+2026-03-03 00:00:00.000,Google UAC,core_uac_android_global,android,TW,13.55,3802,82,23
+2026-03-03 00:00:00.000,Google UAC,core_uac_android_global,android,US,117.75,8743,208,68
+2026-03-03 00:00:00.000,Google UAC,core_uac_android_global,android,VN,74.06,16523,438,131
+2026-03-03 00:00:00.000,Liftoff,ct_liftoff_01,ios,AU,17.63,2198,24,7
+2026-03-03 00:00:00.000,Liftoff,ct_liftoff_01,ios,CA,24.99,2937,44,10
+2026-03-03 00:00:00.000,Liftoff,ct_liftoff_01,ios,US,97.61,13678,160,33
+2026-03-03 00:00:00.000,Meta,core_meta_android_t1,android,AU,42.93,5022,74,19
+2026-03-03 00:00:00.000,Meta,core_meta_android_t1,android,CA,63.85,3940,106,33
+2026-03-03 00:00:00.000,Meta,core_meta_android_t1,android,DE,183.8,17296,403,92
+2026-03-03 00:00:00.000,Meta,core_meta_android_t1,android,FR,222.92,28792,482,98
+2026-03-03 00:00:00.000,Meta,core_meta_android_t1,android,GB,148.46,11586,215,67
+2026-03-03 00:00:00.000,Meta,core_meta_android_t1,android,JP,329.76,29709,502,144
+2026-03-03 00:00:00.000,Meta,core_meta_android_t1,android,KR,302.02,28812,637,152
+2026-03-03 00:00:00.000,Meta,core_meta_android_t1,android,TW,16.35,5288,107,24
+2026-03-03 00:00:00.000,Meta,core_meta_android_t1,android,US,776.35,46474,1271,370
+2026-03-03 00:00:00.000,Meta,core_meta_ios_t1,ios,AU,81.63,6736,115,29
+2026-03-03 00:00:00.000,Meta,core_meta_ios_t1,ios,BR,104.87,45808,588,125
+2026-03-03 00:00:00.000,Meta,core_meta_ios_t1,ios,CA,91.2,9502,159,33
+2026-03-03 00:00:00.000,Meta,core_meta_ios_t1,ios,DE,196.76,14213,343,75
+2026-03-03 00:00:00.000,Meta,core_meta_ios_t1,ios,FR,217.05,13383,300,82
+2026-03-03 00:00:00.000,Meta,core_meta_ios_t1,ios,GB,166.86,12773,319,66
+2026-03-03 00:00:00.000,Meta,core_meta_ios_t1,ios,ID,88.8,39991,492,98
+2026-03-03 00:00:00.000,Meta,core_meta_ios_t1,ios,JP,165.76,11289,208,59
+2026-03-03 00:00:00.000,Meta,core_meta_ios_t1,ios,KR,183.19,15089,243,62
+2026-03-03 00:00:00.000,Meta,core_meta_ios_t1,ios,MX,19.84,4422,121,24
+2026-03-03 00:00:00.000,Meta,core_meta_ios_t1,ios,PH,64.18,23355,289,88
+2026-03-03 00:00:00.000,Meta,core_meta_ios_t1,ios,TH,61.51,26022,447,86
+2026-03-03 00:00:00.000,Meta,core_meta_ios_t1,ios,TW,14.67,5605,57,17
+2026-03-03 00:00:00.000,Meta,core_meta_ios_t1,ios,US,372.58,46304,476,157
+2026-03-03 00:00:00.000,Meta,core_meta_ios_t1,ios,VN,68.85,18204,311,96
+2026-03-03 00:00:00.000,Mintegral,ct_mtg_01,android,BR,21.87,10698,146,37
+2026-03-03 00:00:00.000,Mintegral,ct_mtg_01,android,ID,23.97,14516,175,40
+2026-03-03 00:00:00.000,Mintegral,ct_mtg_01,android,PH,17.42,9429,131,29
+2026-03-03 00:00:00.000,Moloco,ct_moloco_01,ios,DE,33.08,2931,60,12
+2026-03-03 00:00:00.000,Moloco,ct_moloco_01,ios,GB,16.76,1005,20,6
+2026-03-03 00:00:00.000,Moloco,ct_moloco_01,ios,US,86.67,4451,90,29
+2026-03-03 00:00:00.000,TikTok,core_tiktok_android_scale,android,AU,61.51,5858,114,34
+2026-03-03 00:00:00.000,TikTok,core_tiktok_android_scale,android,BR,53.85,27728,523,109
+2026-03-03 00:00:00.000,TikTok,core_tiktok_android_scale,android,CA,48.03,4896,130,31
+2026-03-03 00:00:00.000,TikTok,core_tiktok_android_scale,android,DE,21.73,2083,56,14
+2026-03-03 00:00:00.000,TikTok,core_tiktok_android_scale,android,FR,23.33,3531,47,12
+2026-03-03 00:00:00.000,TikTok,core_tiktok_android_scale,android,GB,35.09,6868,70,20
+2026-03-03 00:00:00.000,TikTok,core_tiktok_android_scale,android,ID,59.51,49773,539,105
+2026-03-03 00:00:00.000,TikTok,core_tiktok_android_scale,android,JP,32.28,3815,52,17
+2026-03-03 00:00:00.000,TikTok,core_tiktok_android_scale,android,KR,40.76,6184,99,21
+2026-03-03 00:00:00.000,TikTok,core_tiktok_android_scale,android,PH,71.06,40460,449,134
+2026-03-03 00:00:00.000,TikTok,core_tiktok_android_scale,android,TH,44.42,20150,255,78
+2026-03-03 00:00:00.000,TikTok,core_tiktok_android_scale,android,TW,16.45,5204,104,29
+2026-03-03 00:00:00.000,TikTok,core_tiktok_android_scale,android,US,133.44,17584,220,73
+2026-03-03 00:00:00.000,TikTok,core_tiktok_android_scale,android,VN,53.26,12143,296,95
+2026-03-03 00:00:00.000,TikTok,ct_tiktok_01,android,PH,17.71,6363,163,38
+2026-03-03 00:00:00.000,TikTok,ct_tiktok_01,android,TH,16.73,3793,99,32
+2026-03-03 00:00:00.000,TikTok,ct_tiktok_01,android,VN,10.87,5587,73,21
+2026-03-03 00:00:00.000,Vungle,ct_vungle_01,android,BR,20.22,8710,166,36
+2026-03-03 00:00:00.000,Vungle,ct_vungle_01,android,MX,4.56,1389,31,9
+2026-03-03 00:00:00.000,ironSource,ct_ironsource_01,android,GB,48.77,11038,114,24
+2026-03-03 00:00:00.000,ironSource,ct_ironsource_01,android,US,154.16,13345,340,92
+2026-03-04 00:00:00.000,AppLovin,core_applovin_ios_value,ios,AU,47.23,6747,87,17
+2026-03-04 00:00:00.000,AppLovin,core_applovin_ios_value,ios,BR,94.0,18726,351,106
+2026-03-04 00:00:00.000,AppLovin,core_applovin_ios_value,ios,CA,58.28,5239,80,24
+2026-03-04 00:00:00.000,AppLovin,core_applovin_ios_value,ios,ID,106.76,39974,597,122
+2026-03-04 00:00:00.000,AppLovin,core_applovin_ios_value,ios,JP,120.06,6396,147,48
+2026-03-04 00:00:00.000,AppLovin,core_applovin_ios_value,ios,KR,141.91,13056,218,47
+2026-03-04 00:00:00.000,AppLovin,core_applovin_ios_value,ios,MX,19.06,6096,86,23
+2026-03-04 00:00:00.000,AppLovin,core_applovin_ios_value,ios,PH,71.92,13191,292,84
+2026-03-04 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TH,61.51,15791,261,77
+2026-03-04 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TW,15.57,2521,69,18
+2026-03-04 00:00:00.000,AppLovin,core_applovin_ios_value,ios,US,356.83,13631,379,119
+2026-03-04 00:00:00.000,AppLovin,core_applovin_ios_value,ios,VN,63.48,15496,408,81
+2026-03-04 00:00:00.000,Google UAC,core_uac_android_global,android,AU,53.34,6711,99,28
+2026-03-04 00:00:00.000,Google UAC,core_uac_android_global,android,BR,90.4,38820,919,179
+2026-03-04 00:00:00.000,Google UAC,core_uac_android_global,android,CA,46.86,4763,108,27
+2026-03-04 00:00:00.000,Google UAC,core_uac_android_global,android,DE,9.23,1220,31,6
+2026-03-04 00:00:00.000,Google UAC,core_uac_android_global,android,FR,29.02,2106,47,15
+2026-03-04 00:00:00.000,Google UAC,core_uac_android_global,android,GB,21.45,1919,43,12
+2026-03-04 00:00:00.000,Google UAC,core_uac_android_global,android,ID,80.37,20956,485,164
+2026-03-04 00:00:00.000,Google UAC,core_uac_android_global,android,JP,25.89,3846,74,16
+2026-03-04 00:00:00.000,Google UAC,core_uac_android_global,android,KR,36.55,7441,75,22
+2026-03-04 00:00:00.000,Google UAC,core_uac_android_global,android,MX,30.99,6465,177,58
+2026-03-04 00:00:00.000,Google UAC,core_uac_android_global,android,PH,75.87,36099,520,155
+2026-03-04 00:00:00.000,Google UAC,core_uac_android_global,android,TH,55.53,47143,525,111
+2026-03-04 00:00:00.000,Google UAC,core_uac_android_global,android,TW,8.45,2709,48,15
+2026-03-04 00:00:00.000,Google UAC,core_uac_android_global,android,US,90.57,10506,162,54
+2026-03-04 00:00:00.000,Google UAC,core_uac_android_global,android,VN,56.92,42377,594,118
+2026-03-04 00:00:00.000,Liftoff,ct_liftoff_01,ios,AU,20.81,1241,28,7
+2026-03-04 00:00:00.000,Liftoff,ct_liftoff_01,ios,CA,27.59,4953,55,10
+2026-03-04 00:00:00.000,Liftoff,ct_liftoff_01,ios,US,137.84,9546,168,49
+2026-03-04 00:00:00.000,Meta,core_meta_android_t1,android,AU,97.54,10342,146,42
+2026-03-04 00:00:00.000,Meta,core_meta_android_t1,android,CA,49.19,3279,87,22
+2026-03-04 00:00:00.000,Meta,core_meta_android_t1,android,DE,193.79,20958,396,88
+2026-03-04 00:00:00.000,Meta,core_meta_android_t1,android,FR,170.81,13350,368,85
+2026-03-04 00:00:00.000,Meta,core_meta_android_t1,android,GB,131.46,8625,228,58
+2026-03-04 00:00:00.000,Meta,core_meta_android_t1,android,JP,212.25,24423,349,98
+2026-03-04 00:00:00.000,Meta,core_meta_android_t1,android,KR,278.89,19018,408,135
+2026-03-04 00:00:00.000,Meta,core_meta_android_t1,android,TW,7.39,2683,51,13
+2026-03-04 00:00:00.000,Meta,core_meta_android_t1,android,US,717.61,67279,1616,309
+2026-03-04 00:00:00.000,Meta,core_meta_ios_t1,ios,AU,53.58,5844,64,20
+2026-03-04 00:00:00.000,Meta,core_meta_ios_t1,ios,BR,97.56,32100,583,126
+2026-03-04 00:00:00.000,Meta,core_meta_ios_t1,ios,CA,79.92,9677,159,33
+2026-03-04 00:00:00.000,Meta,core_meta_ios_t1,ios,DE,174.51,17595,355,64
+2026-03-04 00:00:00.000,Meta,core_meta_ios_t1,ios,FR,209.85,22195,330,78
+2026-03-04 00:00:00.000,Meta,core_meta_ios_t1,ios,GB,149.07,7652,176,59
+2026-03-04 00:00:00.000,Meta,core_meta_ios_t1,ios,ID,95.65,26805,373,120
+2026-03-04 00:00:00.000,Meta,core_meta_ios_t1,ios,JP,135.39,13888,241,47
+2026-03-04 00:00:00.000,Meta,core_meta_ios_t1,ios,KR,135.18,9056,208,51
+2026-03-04 00:00:00.000,Meta,core_meta_ios_t1,ios,MX,14.77,6862,72,17
+2026-03-04 00:00:00.000,Meta,core_meta_ios_t1,ios,PH,68.16,17332,280,88
+2026-03-04 00:00:00.000,Meta,core_meta_ios_t1,ios,TH,59.13,27513,365,79
+2026-03-04 00:00:00.000,Meta,core_meta_ios_t1,ios,TW,12.98,3561,69,18
+2026-03-04 00:00:00.000,Meta,core_meta_ios_t1,ios,US,319.0,31555,687,125
+2026-03-04 00:00:00.000,Meta,core_meta_ios_t1,ios,VN,53.91,27608,294,68
+2026-03-04 00:00:00.000,Mintegral,ct_mtg_01,android,BR,17.02,9806,149,32
+2026-03-04 00:00:00.000,Mintegral,ct_mtg_01,android,ID,19.25,5518,130,31
+2026-03-04 00:00:00.000,Mintegral,ct_mtg_01,android,PH,16.17,5114,125,30
+2026-03-04 00:00:00.000,Mintegral,ct_mtg_02,android,TH,9.18,5470,58,16
+2026-03-04 00:00:00.000,Mintegral,ct_mtg_02,android,VN,12.99,7454,84,22
+2026-03-04 00:00:00.000,Moloco,ct_moloco_01,ios,DE,23.62,1714,47,10
+2026-03-04 00:00:00.000,Moloco,ct_moloco_01,ios,GB,33.0,2520,62,12
+2026-03-04 00:00:00.000,Moloco,ct_moloco_01,ios,US,51.8,3286,65,21
+2026-03-04 00:00:00.000,TikTok,core_tiktok_android_scale,android,AU,68.85,6947,166,37
+2026-03-04 00:00:00.000,TikTok,core_tiktok_android_scale,android,BR,65.99,13868,381,113
+2026-03-04 00:00:00.000,TikTok,core_tiktok_android_scale,android,CA,39.45,2756,72,23
+2026-03-04 00:00:00.000,TikTok,core_tiktok_android_scale,android,DE,24.03,1658,43,13
+2026-03-04 00:00:00.000,TikTok,core_tiktok_android_scale,android,FR,19.01,2910,49,10
+2026-03-04 00:00:00.000,TikTok,core_tiktok_android_scale,android,GB,23.16,3047,51,14
+2026-03-04 00:00:00.000,TikTok,core_tiktok_android_scale,android,ID,76.28,20790,548,131
+2026-03-04 00:00:00.000,TikTok,core_tiktok_android_scale,android,JP,26.44,4464,49,14
+2026-03-04 00:00:00.000,TikTok,core_tiktok_android_scale,android,KR,25.82,5592,94,17
+2026-03-04 00:00:00.000,TikTok,core_tiktok_android_scale,android,PH,56.13,27391,353,101
+2026-03-04 00:00:00.000,TikTok,core_tiktok_android_scale,android,TH,23.67,7145,185,50
+2026-03-04 00:00:00.000,TikTok,core_tiktok_android_scale,android,TW,11.1,3728,69,23
+2026-03-04 00:00:00.000,TikTok,core_tiktok_android_scale,android,US,94.41,8431,198,56
+2026-03-04 00:00:00.000,TikTok,core_tiktok_android_scale,android,VN,47.88,15319,275,84
+2026-03-04 00:00:00.000,TikTok,ct_tiktok_01,android,PH,10.96,2541,58,19
+2026-03-04 00:00:00.000,TikTok,ct_tiktok_01,android,TH,12.8,4077,74,22
+2026-03-04 00:00:00.000,TikTok,ct_tiktok_01,android,VN,9.02,2585,59,19
+2026-03-04 00:00:00.000,ironSource,ct_ironsource_01,android,GB,37.81,6000,94,21
+2026-03-04 00:00:00.000,ironSource,ct_ironsource_01,android,US,129.61,19484,311,66
+2026-03-05 00:00:00.000,AppLovin,core_applovin_ios_value,ios,AU,43.62,4734,91,18
+2026-03-05 00:00:00.000,AppLovin,core_applovin_ios_value,ios,BR,64.45,11632,271,86
+2026-03-05 00:00:00.000,AppLovin,core_applovin_ios_value,ios,CA,66.45,7779,88,26
+2026-03-05 00:00:00.000,AppLovin,core_applovin_ios_value,ios,ID,82.21,17702,307,94
+2026-03-05 00:00:00.000,AppLovin,core_applovin_ios_value,ios,JP,75.33,4044,105,32
+2026-03-05 00:00:00.000,AppLovin,core_applovin_ios_value,ios,KR,116.25,9206,243,48
+2026-03-05 00:00:00.000,AppLovin,core_applovin_ios_value,ios,MX,12.01,2740,46,15
+2026-03-05 00:00:00.000,AppLovin,core_applovin_ios_value,ios,PH,62.86,15573,221,69
+2026-03-05 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TH,41.94,10126,164,52
+2026-03-05 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TW,14.75,3543,85,20
+2026-03-05 00:00:00.000,AppLovin,core_applovin_ios_value,ios,US,351.64,27575,514,141
+2026-03-05 00:00:00.000,AppLovin,core_applovin_ios_value,ios,VN,54.34,8909,211,59
+2026-03-05 00:00:00.000,Google UAC,core_uac_android_global,android,AU,58.29,7530,132,31
+2026-03-05 00:00:00.000,Google UAC,core_uac_android_global,android,BR,81.67,46033,667,143
+2026-03-05 00:00:00.000,Google UAC,core_uac_android_global,android,CA,32.35,4221,67,20
+2026-03-05 00:00:00.000,Google UAC,core_uac_android_global,android,DE,18.21,3337,47,11
+2026-03-05 00:00:00.000,Google UAC,core_uac_android_global,android,FR,18.62,3114,57,12
+2026-03-05 00:00:00.000,Google UAC,core_uac_android_global,android,GB,14.15,1086,26,8
+2026-03-05 00:00:00.000,Google UAC,core_uac_android_global,android,ID,67.93,21912,431,135
+2026-03-05 00:00:00.000,Google UAC,core_uac_android_global,android,JP,28.29,3986,69,18
+2026-03-05 00:00:00.000,Google UAC,core_uac_android_global,android,KR,38.44,6780,128,23
+2026-03-05 00:00:00.000,Google UAC,core_uac_android_global,android,MX,26.92,8707,235,47
+2026-03-05 00:00:00.000,Google UAC,core_uac_android_global,android,PH,62.63,22818,362,120
+2026-03-05 00:00:00.000,Google UAC,core_uac_android_global,android,TH,46.67,18775,332,88
+2026-03-05 00:00:00.000,Google UAC,core_uac_android_global,android,TW,10.06,3189,57,17
+2026-03-05 00:00:00.000,Google UAC,core_uac_android_global,android,US,91.72,7178,165,56
+2026-03-05 00:00:00.000,Google UAC,core_uac_android_global,android,VN,61.2,17975,377,106
+2026-03-05 00:00:00.000,Liftoff,ct_liftoff_02,ios,JP,14.61,1788,25,6
+2026-03-05 00:00:00.000,Liftoff,ct_liftoff_02,ios,KR,15.24,1175,25,6
+2026-03-05 00:00:00.000,Meta,core_meta_android_t1,android,AU,48.65,3016,66,21
+2026-03-05 00:00:00.000,Meta,core_meta_android_t1,android,CA,27.22,2732,75,14
+2026-03-05 00:00:00.000,Meta,core_meta_android_t1,android,DE,130.35,8739,220,70
+2026-03-05 00:00:00.000,Meta,core_meta_android_t1,android,FR,126.22,11752,214,66
+2026-03-05 00:00:00.000,Meta,core_meta_android_t1,android,GB,147.81,14901,303,69
+2026-03-05 00:00:00.000,Meta,core_meta_android_t1,android,JP,184.95,12883,305,99
+2026-03-05 00:00:00.000,Meta,core_meta_android_t1,android,KR,242.53,28211,673,127
+2026-03-05 00:00:00.000,Meta,core_meta_android_t1,android,TW,10.7,3922,67,18
+2026-03-05 00:00:00.000,Meta,core_meta_android_t1,android,US,513.32,73528,1118,269
+2026-03-05 00:00:00.000,Meta,core_meta_ios_t1,ios,AU,60.77,4487,97,21
+2026-03-05 00:00:00.000,Meta,core_meta_ios_t1,ios,BR,86.93,16544,317,106
+2026-03-05 00:00:00.000,Meta,core_meta_ios_t1,ios,CA,64.73,12176,131,27
+2026-03-05 00:00:00.000,Meta,core_meta_ios_t1,ios,DE,151.8,10418,198,56
+2026-03-05 00:00:00.000,Meta,core_meta_ios_t1,ios,FR,203.31,12570,341,76
+2026-03-05 00:00:00.000,Meta,core_meta_ios_t1,ios,GB,163.92,14149,263,56
+2026-03-05 00:00:00.000,Meta,core_meta_ios_t1,ios,ID,66.76,12001,288,76
+2026-03-05 00:00:00.000,Meta,core_meta_ios_t1,ios,JP,93.96,6449,174,34
+2026-03-05 00:00:00.000,Meta,core_meta_ios_t1,ios,KR,137.78,21374,241,57
+2026-03-05 00:00:00.000,Meta,core_meta_ios_t1,ios,MX,16.7,7066,89,19
+2026-03-05 00:00:00.000,Meta,core_meta_ios_t1,ios,PH,66.51,13232,286,76
+2026-03-05 00:00:00.000,Meta,core_meta_ios_t1,ios,TH,48.36,15917,268,57
+2026-03-05 00:00:00.000,Meta,core_meta_ios_t1,ios,TW,10.4,2041,46,14
+2026-03-05 00:00:00.000,Meta,core_meta_ios_t1,ios,US,379.5,41765,700,133
+2026-03-05 00:00:00.000,Meta,core_meta_ios_t1,ios,VN,58.86,15154,231,65
+2026-03-05 00:00:00.000,Mintegral,ct_mtg_01,android,BR,14.43,8114,94,27
+2026-03-05 00:00:00.000,Mintegral,ct_mtg_01,android,ID,12.78,3056,76,24
+2026-03-05 00:00:00.000,Mintegral,ct_mtg_01,android,PH,10.92,5431,70,21
+2026-03-05 00:00:00.000,Mintegral,ct_mtg_02,android,TH,9.93,2061,56,16
+2026-03-05 00:00:00.000,Mintegral,ct_mtg_02,android,VN,6.59,2120,41,12
+2026-03-05 00:00:00.000,Moloco,ct_moloco_01,ios,DE,39.16,2558,52,14
+2026-03-05 00:00:00.000,Moloco,ct_moloco_01,ios,GB,21.7,2221,26,8
+2026-03-05 00:00:00.000,Moloco,ct_moloco_01,ios,US,86.56,10494,108,29
+2026-03-05 00:00:00.000,TikTok,core_tiktok_android_scale,android,AU,35.39,6512,109,22
+2026-03-05 00:00:00.000,TikTok,core_tiktok_android_scale,android,BR,72.63,25419,648,122
+2026-03-05 00:00:00.000,TikTok,core_tiktok_android_scale,android,CA,43.87,2818,73,23
+2026-03-05 00:00:00.000,TikTok,core_tiktok_android_scale,android,DE,12.61,3055,39,8
+2026-03-05 00:00:00.000,TikTok,core_tiktok_android_scale,android,FR,28.02,2562,61,18
+2026-03-05 00:00:00.000,TikTok,core_tiktok_android_scale,android,GB,15.16,2314,39,8
+2026-03-05 00:00:00.000,TikTok,core_tiktok_android_scale,android,ID,54.06,15496,353,97
+2026-03-05 00:00:00.000,TikTok,core_tiktok_android_scale,android,JP,19.45,4482,61,12
+2026-03-05 00:00:00.000,TikTok,core_tiktok_android_scale,android,KR,45.84,4132,87,24
+2026-03-05 00:00:00.000,TikTok,core_tiktok_android_scale,android,PH,42.28,23780,320,90
+2026-03-05 00:00:00.000,TikTok,core_tiktok_android_scale,android,TH,25.83,11665,204,48
+2026-03-05 00:00:00.000,TikTok,core_tiktok_android_scale,android,TW,8.14,4642,63,15
+2026-03-05 00:00:00.000,TikTok,core_tiktok_android_scale,android,US,81.3,7367,154,49
+2026-03-05 00:00:00.000,TikTok,core_tiktok_android_scale,android,VN,38.51,20452,363,66
+2026-03-05 00:00:00.000,TikTok,ct_tiktok_01,android,PH,17.48,7717,144,31
+2026-03-05 00:00:00.000,TikTok,ct_tiktok_01,android,TH,9.62,2673,50,17
+2026-03-05 00:00:00.000,TikTok,ct_tiktok_01,android,VN,9.76,8919,95,18
+2026-03-05 00:00:00.000,ironSource,ct_ironsource_01,android,GB,28.93,3701,94,17
+2026-03-05 00:00:00.000,ironSource,ct_ironsource_01,android,US,111.4,10933,181,57
+2026-03-06 00:00:00.000,AppLovin,core_applovin_ios_value,ios,AU,50.67,5495,88,20
+2026-03-06 00:00:00.000,AppLovin,core_applovin_ios_value,ios,BR,50.98,9280,235,68
+2026-03-06 00:00:00.000,AppLovin,core_applovin_ios_value,ios,CA,66.22,6194,106,24
+2026-03-06 00:00:00.000,AppLovin,core_applovin_ios_value,ios,ID,83.24,35092,442,93
+2026-03-06 00:00:00.000,AppLovin,core_applovin_ios_value,ios,JP,80.44,6000,154,30
+2026-03-06 00:00:00.000,AppLovin,core_applovin_ios_value,ios,KR,94.34,4531,122,38
+2026-03-06 00:00:00.000,AppLovin,core_applovin_ios_value,ios,MX,8.13,1890,33,11
+2026-03-06 00:00:00.000,AppLovin,core_applovin_ios_value,ios,PH,41.82,8265,220,57
+2026-03-06 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TH,59.72,8832,228,68
+2026-03-06 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TW,14.54,4329,94,20
+2026-03-06 00:00:00.000,AppLovin,core_applovin_ios_value,ios,US,273.12,19802,368,114
+2026-03-06 00:00:00.000,AppLovin,core_applovin_ios_value,ios,VN,45.19,8758,198,55
+2026-03-06 00:00:00.000,AppLovin,ct_applovin_01,android,BR,17.05,5620,111,26
+2026-03-06 00:00:00.000,AppLovin,ct_applovin_01,android,US,99.25,17036,201,52
+2026-03-06 00:00:00.000,Google UAC,core_uac_android_global,android,AU,58.89,8647,127,31
+2026-03-06 00:00:00.000,Google UAC,core_uac_android_global,android,BR,71.76,36488,537,125
+2026-03-06 00:00:00.000,Google UAC,core_uac_android_global,android,CA,43.98,5192,111,23
+2026-03-06 00:00:00.000,Google UAC,core_uac_android_global,android,DE,23.07,3411,68,15
+2026-03-06 00:00:00.000,Google UAC,core_uac_android_global,android,FR,15.41,1939,34,9
+2026-03-06 00:00:00.000,Google UAC,core_uac_android_global,android,GB,25.55,2191,58,14
+2026-03-06 00:00:00.000,Google UAC,core_uac_android_global,android,ID,65.63,24509,415,133
+2026-03-06 00:00:00.000,Google UAC,core_uac_android_global,android,JP,17.17,1700,34,10
+2026-03-06 00:00:00.000,Google UAC,core_uac_android_global,android,KR,23.28,3546,53,12
+2026-03-06 00:00:00.000,Google UAC,core_uac_android_global,android,MX,23.35,11653,219,40
+2026-03-06 00:00:00.000,Google UAC,core_uac_android_global,android,PH,88.42,31072,445,151
+2026-03-06 00:00:00.000,Google UAC,core_uac_android_global,android,TH,52.39,34450,447,103
+2026-03-06 00:00:00.000,Google UAC,core_uac_android_global,android,TW,9.42,2117,52,17
+2026-03-06 00:00:00.000,Google UAC,core_uac_android_global,android,US,70.65,9683,153,42
+2026-03-06 00:00:00.000,Google UAC,core_uac_android_global,android,VN,40.65,17050,342,79
+2026-03-06 00:00:00.000,Liftoff,ct_liftoff_02,ios,JP,17.24,721,18,6
+2026-03-06 00:00:00.000,Liftoff,ct_liftoff_02,ios,KR,22.82,2121,28,8
+2026-03-06 00:00:00.000,Meta,core_meta_android_t1,android,AU,45.48,9345,112,21
+2026-03-06 00:00:00.000,Meta,core_meta_android_t1,android,CA,38.11,3727,64,17
+2026-03-06 00:00:00.000,Meta,core_meta_android_t1,android,DE,145.82,13009,341,71
+2026-03-06 00:00:00.000,Meta,core_meta_android_t1,android,FR,132.43,13136,283,68
+2026-03-06 00:00:00.000,Meta,core_meta_android_t1,android,GB,98.06,14467,158,52
+2026-03-06 00:00:00.000,Meta,core_meta_android_t1,android,JP,178.08,8437,236,77
+2026-03-06 00:00:00.000,Meta,core_meta_android_t1,android,KR,213.71,15698,407,91
+2026-03-06 00:00:00.000,Meta,core_meta_android_t1,android,TW,10.71,5072,81,15
+2026-03-06 00:00:00.000,Meta,core_meta_android_t1,android,US,428.37,52363,801,205
+2026-03-06 00:00:00.000,Meta,core_meta_ios_t1,ios,AU,50.81,3181,89,18
+2026-03-06 00:00:00.000,Meta,core_meta_ios_t1,ios,BR,58.53,15423,295,79
+2026-03-06 00:00:00.000,Meta,core_meta_ios_t1,ios,CA,42.48,3425,88,18
+2026-03-06 00:00:00.000,Meta,core_meta_ios_t1,ios,DE,130.35,24530,278,53
+2026-03-06 00:00:00.000,Meta,core_meta_ios_t1,ios,FR,135.89,20298,246,47
+2026-03-06 00:00:00.000,Meta,core_meta_ios_t1,ios,GB,93.66,8078,140,34
+2026-03-06 00:00:00.000,Meta,core_meta_ios_t1,ios,ID,57.91,9901,261,68
+2026-03-06 00:00:00.000,Meta,core_meta_ios_t1,ios,JP,59.17,6121,95,22
+2026-03-06 00:00:00.000,Meta,core_meta_ios_t1,ios,KR,78.18,8759,97,28
+2026-03-06 00:00:00.000,Meta,core_meta_ios_t1,ios,MX,16.99,2491,67,22
+2026-03-06 00:00:00.000,Meta,core_meta_ios_t1,ios,PH,60.48,12361,329,66
+2026-03-06 00:00:00.000,Meta,core_meta_ios_t1,ios,TH,38.25,7242,156,50
+2026-03-06 00:00:00.000,Meta,core_meta_ios_t1,ios,TW,12.71,5202,68,14
+2026-03-06 00:00:00.000,Meta,core_meta_ios_t1,ios,US,331.1,43809,478,124
+2026-03-06 00:00:00.000,Meta,core_meta_ios_t1,ios,VN,53.56,8871,209,67
+2026-03-06 00:00:00.000,Mintegral,ct_mtg_02,android,TH,8.41,1956,53,15
+2026-03-06 00:00:00.000,Mintegral,ct_mtg_02,android,VN,8.77,3481,80,15
+2026-03-06 00:00:00.000,Moloco,ct_moloco_01,ios,DE,15.44,1792,21,6
+2026-03-06 00:00:00.000,Moloco,ct_moloco_01,ios,GB,32.46,1912,51,11
+2026-03-06 00:00:00.000,Moloco,ct_moloco_01,ios,US,38.2,2716,62,15
+2026-03-06 00:00:00.000,TikTok,core_tiktok_android_scale,android,AU,18.33,2408,54,11
+2026-03-06 00:00:00.000,TikTok,core_tiktok_android_scale,android,BR,59.08,17861,350,111
+2026-03-06 00:00:00.000,TikTok,core_tiktok_android_scale,android,CA,38.56,4919,86,22
+2026-03-06 00:00:00.000,TikTok,core_tiktok_android_scale,android,DE,11.71,1470,25,7
+2026-03-06 00:00:00.000,TikTok,core_tiktok_android_scale,android,FR,14.97,1756,43,8
+2026-03-06 00:00:00.000,TikTok,core_tiktok_android_scale,android,GB,15.13,2163,28,8
+2026-03-06 00:00:00.000,TikTok,core_tiktok_android_scale,android,ID,51.95,14600,330,99
+2026-03-06 00:00:00.000,TikTok,core_tiktok_android_scale,android,JP,7.95,898,22,5
+2026-03-06 00:00:00.000,TikTok,core_tiktok_android_scale,android,KR,21.09,2341,62,14
+2026-03-06 00:00:00.000,TikTok,core_tiktok_android_scale,android,PH,40.52,14725,257,80
+2026-03-06 00:00:00.000,TikTok,core_tiktok_android_scale,android,TH,31.92,10192,223,62
+2026-03-06 00:00:00.000,TikTok,core_tiktok_android_scale,android,TW,10.0,2457,54,18
+2026-03-06 00:00:00.000,TikTok,core_tiktok_android_scale,android,US,66.92,8370,121,38
+2026-03-06 00:00:00.000,TikTok,core_tiktok_android_scale,android,VN,25.75,17529,206,54
+2026-03-06 00:00:00.000,ironSource,ct_ironsource_01,android,GB,25.48,2047,49,14
+2026-03-06 00:00:00.000,ironSource,ct_ironsource_01,android,US,82.34,6227,166,41
+2026-03-07 00:00:00.000,AppLovin,core_applovin_ios_value,ios,AU,68.64,3378,71,23
+2026-03-07 00:00:00.000,AppLovin,core_applovin_ios_value,ios,BR,65.08,9065,250,77
+2026-03-07 00:00:00.000,AppLovin,core_applovin_ios_value,ios,CA,36.5,2024,55,13
+2026-03-07 00:00:00.000,AppLovin,core_applovin_ios_value,ios,ID,52.27,19005,283,65
+2026-03-07 00:00:00.000,AppLovin,core_applovin_ios_value,ios,JP,72.18,6735,100,29
+2026-03-07 00:00:00.000,AppLovin,core_applovin_ios_value,ios,KR,83.81,7933,143,33
+2026-03-07 00:00:00.000,AppLovin,core_applovin_ios_value,ios,MX,9.49,2707,41,13
+2026-03-07 00:00:00.000,AppLovin,core_applovin_ios_value,ios,PH,56.82,7632,191,64
+2026-03-07 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TH,39.58,8133,139,47
+2026-03-07 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TW,11.0,2330,49,15
+2026-03-07 00:00:00.000,AppLovin,core_applovin_ios_value,ios,US,360.78,20495,368,121
+2026-03-07 00:00:00.000,AppLovin,core_applovin_ios_value,ios,VN,35.66,20401,210,39
+2026-03-07 00:00:00.000,AppLovin,ct_applovin_01,android,BR,13.09,3907,101,21
+2026-03-07 00:00:00.000,AppLovin,ct_applovin_01,android,US,86.83,15745,217,40
+2026-03-07 00:00:00.000,Google UAC,core_uac_android_global,android,AU,29.02,2209,55,16
+2026-03-07 00:00:00.000,Google UAC,core_uac_android_global,android,BR,49.99,14518,386,108
+2026-03-07 00:00:00.000,Google UAC,core_uac_android_global,android,CA,34.49,5415,66,22
+2026-03-07 00:00:00.000,Google UAC,core_uac_android_global,android,DE,12.72,1262,33,8
+2026-03-07 00:00:00.000,Google UAC,core_uac_android_global,android,FR,9.11,1301,25,5
+2026-03-07 00:00:00.000,Google UAC,core_uac_android_global,android,GB,17.55,1880,43,11
+2026-03-07 00:00:00.000,Google UAC,core_uac_android_global,android,ID,59.61,18679,355,114
+2026-03-07 00:00:00.000,Google UAC,core_uac_android_global,android,JP,23.09,1651,46,12
+2026-03-07 00:00:00.000,Google UAC,core_uac_android_global,android,KR,29.11,3128,66,18
+2026-03-07 00:00:00.000,Google UAC,core_uac_android_global,android,MX,15.42,6525,141,32
+2026-03-07 00:00:00.000,Google UAC,core_uac_android_global,android,PH,63.57,25816,374,117
+2026-03-07 00:00:00.000,Google UAC,core_uac_android_global,android,TH,36.28,18539,268,78
+2026-03-07 00:00:00.000,Google UAC,core_uac_android_global,android,TW,7.33,2095,57,15
+2026-03-07 00:00:00.000,Google UAC,core_uac_android_global,android,US,62.4,9942,149,40
+2026-03-07 00:00:00.000,Google UAC,core_uac_android_global,android,VN,46.47,21190,268,79
+2026-03-07 00:00:00.000,Liftoff,ct_liftoff_02,ios,JP,13.43,961,24,5
+2026-03-07 00:00:00.000,Liftoff,ct_liftoff_02,ios,KR,7.16,774,12,3
+2026-03-07 00:00:00.000,Meta,core_meta_android_t1,android,AU,47.02,4052,108,23
+2026-03-07 00:00:00.000,Meta,core_meta_android_t1,android,CA,44.36,3822,74,22
+2026-03-07 00:00:00.000,Meta,core_meta_android_t1,android,DE,82.12,5562,155,43
+2026-03-07 00:00:00.000,Meta,core_meta_android_t1,android,FR,86.8,8792,207,47
+2026-03-07 00:00:00.000,Meta,core_meta_android_t1,android,GB,129.01,20844,288,60
+2026-03-07 00:00:00.000,Meta,core_meta_android_t1,android,JP,147.45,10206,237,71
+2026-03-07 00:00:00.000,Meta,core_meta_android_t1,android,KR,158.61,17083,397,75
+2026-03-07 00:00:00.000,Meta,core_meta_android_t1,android,TW,5.89,1199,30,10
+2026-03-07 00:00:00.000,Meta,core_meta_android_t1,android,US,513.99,27862,744,218
+2026-03-07 00:00:00.000,Meta,core_meta_ios_t1,ios,AU,32.22,2942,55,12
+2026-03-07 00:00:00.000,Meta,core_meta_ios_t1,ios,BR,57.82,16540,237,79
+2026-03-07 00:00:00.000,Meta,core_meta_ios_t1,ios,CA,45.86,4137,85,19
+2026-03-07 00:00:00.000,Meta,core_meta_ios_t1,ios,DE,140.43,29590,301,60
+2026-03-07 00:00:00.000,Meta,core_meta_ios_t1,ios,FR,133.15,7131,170,47
+2026-03-07 00:00:00.000,Meta,core_meta_ios_t1,ios,GB,165.36,12049,296,60
+2026-03-07 00:00:00.000,Meta,core_meta_ios_t1,ios,ID,63.03,22004,321,72
+2026-03-07 00:00:00.000,Meta,core_meta_ios_t1,ios,JP,54.32,4320,62,21
+2026-03-07 00:00:00.000,Meta,core_meta_ios_t1,ios,KR,83.96,6665,133,28
+2026-03-07 00:00:00.000,Meta,core_meta_ios_t1,ios,MX,4.35,1471,23,6
+2026-03-07 00:00:00.000,Meta,core_meta_ios_t1,ios,PH,46.78,11105,161,54
+2026-03-07 00:00:00.000,Meta,core_meta_ios_t1,ios,TH,42.37,19598,245,51
+2026-03-07 00:00:00.000,Meta,core_meta_ios_t1,ios,TW,7.61,1412,35,9
+2026-03-07 00:00:00.000,Meta,core_meta_ios_t1,ios,US,303.69,22421,564,116
+2026-03-07 00:00:00.000,Meta,core_meta_ios_t1,ios,VN,49.4,15239,224,55
+2026-03-07 00:00:00.000,Mintegral,ct_mtg_02,android,TH,7.94,5590,59,16
+2026-03-07 00:00:00.000,Mintegral,ct_mtg_02,android,VN,9.99,2223,60,19
+2026-03-07 00:00:00.000,TikTok,core_tiktok_android_scale,android,AU,24.19,2046,56,15
+2026-03-07 00:00:00.000,TikTok,core_tiktok_android_scale,android,BR,49.32,10936,306,94
+2026-03-07 00:00:00.000,TikTok,core_tiktok_android_scale,android,CA,34.95,3499,70,23
+2026-03-07 00:00:00.000,TikTok,core_tiktok_android_scale,android,DE,14.19,1405,37,8
+2026-03-07 00:00:00.000,TikTok,core_tiktok_android_scale,android,FR,13.13,1051,23,7
+2026-03-07 00:00:00.000,TikTok,core_tiktok_android_scale,android,GB,8.71,1529,27,5
+2026-03-07 00:00:00.000,TikTok,core_tiktok_android_scale,android,ID,32.32,11044,291,57
+2026-03-07 00:00:00.000,TikTok,core_tiktok_android_scale,android,JP,24.6,3134,75,14
+2026-03-07 00:00:00.000,TikTok,core_tiktok_android_scale,android,KR,18.89,2022,51,11
+2026-03-07 00:00:00.000,TikTok,core_tiktok_android_scale,android,PH,49.22,18154,252,83
+2026-03-07 00:00:00.000,TikTok,core_tiktok_android_scale,android,TH,24.48,14228,171,53
+2026-03-07 00:00:00.000,TikTok,core_tiktok_android_scale,android,TW,7.68,2204,48,16
+2026-03-07 00:00:00.000,TikTok,core_tiktok_android_scale,android,US,65.37,13598,211,38
+2026-03-07 00:00:00.000,TikTok,core_tiktok_android_scale,android,VN,15.79,4185,109,33
+2026-03-07 00:00:00.000,ironSource,ct_ironsource_02,android,DE,13.18,1696,35,8
+2026-03-07 00:00:00.000,ironSource,ct_ironsource_02,android,FR,19.47,1712,33,10
+2026-03-08 00:00:00.000,AppLovin,core_applovin_ios_value,ios,AU,32.45,2138,56,12
+2026-03-08 00:00:00.000,AppLovin,core_applovin_ios_value,ios,BR,56.69,12353,321,69
+2026-03-08 00:00:00.000,AppLovin,core_applovin_ios_value,ios,CA,29.54,2053,47,11
+2026-03-08 00:00:00.000,AppLovin,core_applovin_ios_value,ios,ID,44.96,10780,167,56
+2026-03-08 00:00:00.000,AppLovin,core_applovin_ios_value,ios,JP,66.32,3604,71,22
+2026-03-08 00:00:00.000,AppLovin,core_applovin_ios_value,ios,KR,84.92,7931,165,35
+2026-03-08 00:00:00.000,AppLovin,core_applovin_ios_value,ios,MX,7.01,1228,24,8
+2026-03-08 00:00:00.000,AppLovin,core_applovin_ios_value,ios,PH,40.47,8858,197,49
+2026-03-08 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TH,34.79,5805,157,48
+2026-03-08 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TW,9.08,1467,40,11
+2026-03-08 00:00:00.000,AppLovin,core_applovin_ios_value,ios,US,344.11,12971,354,117
+2026-03-08 00:00:00.000,AppLovin,core_applovin_ios_value,ios,VN,38.46,6936,191,42
+2026-03-08 00:00:00.000,AppLovin,ct_applovin_01,android,BR,12.87,4586,89,19
+2026-03-08 00:00:00.000,AppLovin,ct_applovin_01,android,US,82.29,11695,211,44
+2026-03-08 00:00:00.000,Google UAC,core_uac_android_global,android,AU,19.49,2943,30,10
+2026-03-08 00:00:00.000,Google UAC,core_uac_android_global,android,BR,46.78,14662,340,98
+2026-03-08 00:00:00.000,Google UAC,core_uac_android_global,android,CA,46.58,3522,75,24
+2026-03-08 00:00:00.000,Google UAC,core_uac_android_global,android,DE,14.65,2504,46,9
+2026-03-08 00:00:00.000,Google UAC,core_uac_android_global,android,FR,18.93,1696,37,11
+2026-03-08 00:00:00.000,Google UAC,core_uac_android_global,android,GB,7.74,1313,18,4
+2026-03-08 00:00:00.000,Google UAC,core_uac_android_global,android,ID,44.11,15207,389,95
+2026-03-08 00:00:00.000,Google UAC,core_uac_android_global,android,JP,13.5,1239,28,7
+2026-03-08 00:00:00.000,Google UAC,core_uac_android_global,android,KR,21.08,3655,41,11
+2026-03-08 00:00:00.000,Google UAC,core_uac_android_global,android,MX,11.85,2971,78,24
+2026-03-08 00:00:00.000,Google UAC,core_uac_android_global,android,PH,43.23,20415,280,75
+2026-03-08 00:00:00.000,Google UAC,core_uac_android_global,android,TH,45.34,17257,438,98
+2026-03-08 00:00:00.000,Google UAC,core_uac_android_global,android,TW,6.11,1782,41,11
+2026-03-08 00:00:00.000,Google UAC,core_uac_android_global,android,US,49.53,7748,92,29
+2026-03-08 00:00:00.000,Google UAC,core_uac_android_global,android,VN,34.11,18164,280,70
+2026-03-08 00:00:00.000,Liftoff,ct_liftoff_02,ios,JP,11.76,1336,26,5
+2026-03-08 00:00:00.000,Liftoff,ct_liftoff_02,ios,KR,14.96,1592,17,5
+2026-03-08 00:00:00.000,Meta,core_meta_android_t1,android,AU,39.2,2672,67,17
+2026-03-08 00:00:00.000,Meta,core_meta_android_t1,android,CA,38.44,7493,78,17
+2026-03-08 00:00:00.000,Meta,core_meta_android_t1,android,DE,88.08,19863,250,47
+2026-03-08 00:00:00.000,Meta,core_meta_android_t1,android,FR,74.88,4804,110,36
+2026-03-08 00:00:00.000,Meta,core_meta_android_t1,android,GB,83.14,8596,147,39
+2026-03-08 00:00:00.000,Meta,core_meta_android_t1,android,JP,156.76,20877,314,76
+2026-03-08 00:00:00.000,Meta,core_meta_android_t1,android,KR,177.3,11918,266,87
+2026-03-08 00:00:00.000,Meta,core_meta_android_t1,android,TW,5.93,1555,35,9
+2026-03-08 00:00:00.000,Meta,core_meta_android_t1,android,US,471.62,50797,803,218
+2026-03-08 00:00:00.000,Meta,core_meta_ios_t1,ios,AU,45.1,4799,49,15
+2026-03-08 00:00:00.000,Meta,core_meta_ios_t1,ios,BR,48.76,24508,323,59
+2026-03-08 00:00:00.000,Meta,core_meta_ios_t1,ios,CA,48.06,2313,61,19
+2026-03-08 00:00:00.000,Meta,core_meta_ios_t1,ios,DE,109.99,5336,131,37
+2026-03-08 00:00:00.000,Meta,core_meta_ios_t1,ios,FR,99.09,8985,143,39
+2026-03-08 00:00:00.000,Meta,core_meta_ios_t1,ios,GB,109.55,7606,112,37
+2026-03-08 00:00:00.000,Meta,core_meta_ios_t1,ios,ID,50.74,16581,256,65
+2026-03-08 00:00:00.000,Meta,core_meta_ios_t1,ios,JP,93.69,5018,117,33
+2026-03-08 00:00:00.000,Meta,core_meta_ios_t1,ios,KR,85.13,5700,145,34
+2026-03-08 00:00:00.000,Meta,core_meta_ios_t1,ios,MX,6.65,1703,43,9
+2026-03-08 00:00:00.000,Meta,core_meta_ios_t1,ios,PH,44.51,18872,235,58
+2026-03-08 00:00:00.000,Meta,core_meta_ios_t1,ios,TH,26.92,9297,119,35
+2026-03-08 00:00:00.000,Meta,core_meta_ios_t1,ios,TW,6.4,1552,32,7
+2026-03-08 00:00:00.000,Meta,core_meta_ios_t1,ios,US,322.14,47406,511,121
+2026-03-08 00:00:00.000,Meta,core_meta_ios_t1,ios,VN,30.08,8309,131,40
+2026-03-08 00:00:00.000,TikTok,core_tiktok_android_scale,android,AU,15.64,1908,43,10
+2026-03-08 00:00:00.000,TikTok,core_tiktok_android_scale,android,BR,42.36,16810,339,78
+2026-03-08 00:00:00.000,TikTok,core_tiktok_android_scale,android,CA,20.16,2506,56,13
+2026-03-08 00:00:00.000,TikTok,core_tiktok_android_scale,android,DE,4.69,473,13,3
+2026-03-08 00:00:00.000,TikTok,core_tiktok_android_scale,android,FR,7.53,644,12,4
+2026-03-08 00:00:00.000,TikTok,core_tiktok_android_scale,android,GB,17.07,1551,43,10
+2026-03-08 00:00:00.000,TikTok,core_tiktok_android_scale,android,ID,34.12,14194,188,62
+2026-03-08 00:00:00.000,TikTok,core_tiktok_android_scale,android,JP,11.23,1312,31,6
+2026-03-08 00:00:00.000,TikTok,core_tiktok_android_scale,android,KR,16.45,2039,49,10
+2026-03-08 00:00:00.000,TikTok,core_tiktok_android_scale,android,PH,33.19,21114,340,67
+2026-03-08 00:00:00.000,TikTok,core_tiktok_android_scale,android,TH,27.34,14408,216,56
+2026-03-08 00:00:00.000,TikTok,core_tiktok_android_scale,android,TW,4.6,1795,34,8
+2026-03-08 00:00:00.000,TikTok,core_tiktok_android_scale,android,US,71.15,9453,199,39
+2026-03-08 00:00:00.000,TikTok,core_tiktok_android_scale,android,VN,21.04,15926,215,43
+2026-03-08 00:00:00.000,Vungle,ct_vungle_02,android,ID,12.11,9394,103,21
+2026-03-08 00:00:00.000,Vungle,ct_vungle_02,android,PH,9.0,3864,82,17
+2026-03-08 00:00:00.000,ironSource,ct_ironsource_02,android,DE,29.27,2866,48,15
+2026-03-08 00:00:00.000,ironSource,ct_ironsource_02,android,FR,17.94,2736,36,9
+2026-03-09 00:00:00.000,AppLovin,core_applovin_ios_value,ios,AU,28.48,2651,45,11
+2026-03-09 00:00:00.000,AppLovin,core_applovin_ios_value,ios,BR,44.73,7978,213,62
+2026-03-09 00:00:00.000,AppLovin,core_applovin_ios_value,ios,CA,25.14,2184,48,10
+2026-03-09 00:00:00.000,AppLovin,core_applovin_ios_value,ios,ID,38.85,10705,177,52
+2026-03-09 00:00:00.000,AppLovin,core_applovin_ios_value,ios,JP,59.97,4891,91,22
+2026-03-09 00:00:00.000,AppLovin,core_applovin_ios_value,ios,KR,85.42,5674,124,29
+2026-03-09 00:00:00.000,AppLovin,core_applovin_ios_value,ios,MX,9.86,4640,70,13
+2026-03-09 00:00:00.000,AppLovin,core_applovin_ios_value,ios,PH,44.97,13632,204,55
+2026-03-09 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TH,33.44,5589,136,38
+2026-03-09 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TW,5.83,2598,27,8
+2026-03-09 00:00:00.000,AppLovin,core_applovin_ios_value,ios,US,252.56,24953,257,86
+2026-03-09 00:00:00.000,AppLovin,core_applovin_ios_value,ios,VN,30.99,17648,207,41
+2026-03-09 00:00:00.000,AppLovin,ct_applovin_01,android,BR,12.22,3872,89,17
+2026-03-09 00:00:00.000,AppLovin,ct_applovin_01,android,US,67.59,7142,113,34
+2026-03-09 00:00:00.000,Google UAC,core_uac_android_global,android,AU,32.87,2993,75,18
+2026-03-09 00:00:00.000,Google UAC,core_uac_android_global,android,BR,53.55,34522,487,97
+2026-03-09 00:00:00.000,Google UAC,core_uac_android_global,android,CA,23.43,4471,75,14
+2026-03-09 00:00:00.000,Google UAC,core_uac_android_global,android,DE,7.77,808,12,4
+2026-03-09 00:00:00.000,Google UAC,core_uac_android_global,android,FR,7.51,844,15,4
+2026-03-09 00:00:00.000,Google UAC,core_uac_android_global,android,GB,11.29,1560,25,6
+2026-03-09 00:00:00.000,Google UAC,core_uac_android_global,android,ID,49.16,23863,371,86
+2026-03-09 00:00:00.000,Google UAC,core_uac_android_global,android,JP,11.34,955,24,7
+2026-03-09 00:00:00.000,Google UAC,core_uac_android_global,android,KR,21.06,1887,34,11
+2026-03-09 00:00:00.000,Google UAC,core_uac_android_global,android,MX,16.59,12655,129,28
+2026-03-09 00:00:00.000,Google UAC,core_uac_android_global,android,PH,47.67,19048,278,91
+2026-03-09 00:00:00.000,Google UAC,core_uac_android_global,android,TH,38.86,20663,324,66
+2026-03-09 00:00:00.000,Google UAC,core_uac_android_global,android,TW,6.24,1701,40,12
+2026-03-09 00:00:00.000,Google UAC,core_uac_android_global,android,US,60.8,9362,172,32
+2026-03-09 00:00:00.000,Google UAC,core_uac_android_global,android,VN,42.9,13829,324,88
+2026-03-09 00:00:00.000,Meta,core_meta_android_t1,android,AU,28.22,2707,49,12
+2026-03-09 00:00:00.000,Meta,core_meta_android_t1,android,CA,43.74,2810,61,19
+2026-03-09 00:00:00.000,Meta,core_meta_android_t1,android,DE,95.8,10828,152,46
+2026-03-09 00:00:00.000,Meta,core_meta_android_t1,android,FR,82.48,5391,132,44
+2026-03-09 00:00:00.000,Meta,core_meta_android_t1,android,GB,111.8,11558,182,48
+2026-03-09 00:00:00.000,Meta,core_meta_android_t1,android,JP,99.95,8862,223,46
+2026-03-09 00:00:00.000,Meta,core_meta_android_t1,android,KR,164.93,17894,244,83
+2026-03-09 00:00:00.000,Meta,core_meta_android_t1,android,TW,9.14,4354,78,16
+2026-03-09 00:00:00.000,Meta,core_meta_android_t1,android,US,336.72,29488,791,152
+2026-03-09 00:00:00.000,Meta,core_meta_ios_t1,ios,AU,61.43,3217,69,22
+2026-03-09 00:00:00.000,Meta,core_meta_ios_t1,ios,BR,48.03,13456,205,66
+2026-03-09 00:00:00.000,Meta,core_meta_ios_t1,ios,CA,51.96,6357,94,18
+2026-03-09 00:00:00.000,Meta,core_meta_ios_t1,ios,DE,87.67,5579,153,31
+2026-03-09 00:00:00.000,Meta,core_meta_ios_t1,ios,FR,57.47,5480,100,24
+2026-03-09 00:00:00.000,Meta,core_meta_ios_t1,ios,GB,128.38,8447,207,43
+2026-03-09 00:00:00.000,Meta,core_meta_ios_t1,ios,ID,56.54,10781,295,62
+2026-03-09 00:00:00.000,Meta,core_meta_ios_t1,ios,JP,66.06,4720,75,24
+2026-03-09 00:00:00.000,Meta,core_meta_ios_t1,ios,KR,80.67,4222,106,28
+2026-03-09 00:00:00.000,Meta,core_meta_ios_t1,ios,MX,8.25,3777,46,11
+2026-03-09 00:00:00.000,Meta,core_meta_ios_t1,ios,PH,46.44,11640,204,51
+2026-03-09 00:00:00.000,Meta,core_meta_ios_t1,ios,TH,32.14,14262,145,44
+2026-03-09 00:00:00.000,Meta,core_meta_ios_t1,ios,TW,5.43,1336,35,7
+2026-03-09 00:00:00.000,Meta,core_meta_ios_t1,ios,US,297.1,19772,489,106
+2026-03-09 00:00:00.000,Meta,core_meta_ios_t1,ios,VN,37.98,5632,132,44
+2026-03-09 00:00:00.000,Moloco,ct_moloco_02,ios,CA,5.07,365,10,2
+2026-03-09 00:00:00.000,Moloco,ct_moloco_02,ios,FR,20.35,1629,29,8
+2026-03-09 00:00:00.000,TikTok,core_tiktok_android_scale,android,AU,30.55,3596,81,16
+2026-03-09 00:00:00.000,TikTok,core_tiktok_android_scale,android,BR,41.32,27515,277,83
+2026-03-09 00:00:00.000,TikTok,core_tiktok_android_scale,android,CA,25.8,2310,56,15
+2026-03-09 00:00:00.000,TikTok,core_tiktok_android_scale,android,DE,12.61,979,27,8
+2026-03-09 00:00:00.000,TikTok,core_tiktok_android_scale,android,FR,14.01,1143,30,8
+2026-03-09 00:00:00.000,TikTok,core_tiktok_android_scale,android,GB,9.44,1424,27,6
+2026-03-09 00:00:00.000,TikTok,core_tiktok_android_scale,android,ID,30.25,16219,213,62
+2026-03-09 00:00:00.000,TikTok,core_tiktok_android_scale,android,JP,16.91,3352,45,11
+2026-03-09 00:00:00.000,TikTok,core_tiktok_android_scale,android,KR,14.88,1296,32,9
+2026-03-09 00:00:00.000,TikTok,core_tiktok_android_scale,android,PH,27.31,13141,292,54
+2026-03-09 00:00:00.000,TikTok,core_tiktok_android_scale,android,TH,28.56,10566,202,50
+2026-03-09 00:00:00.000,TikTok,core_tiktok_android_scale,android,TW,5.83,2036,49,10
+2026-03-09 00:00:00.000,TikTok,core_tiktok_android_scale,android,US,52.65,6500,141,28
+2026-03-09 00:00:00.000,TikTok,core_tiktok_android_scale,android,VN,24.08,7878,149,42
+2026-03-09 00:00:00.000,Vungle,ct_vungle_02,android,ID,8.74,3089,74,15
+2026-03-09 00:00:00.000,Vungle,ct_vungle_02,android,PH,5.42,1077,29,9
+2026-03-09 00:00:00.000,ironSource,ct_ironsource_02,android,DE,13.59,1064,27,8
+2026-03-09 00:00:00.000,ironSource,ct_ironsource_02,android,FR,15.68,1296,27,9
+2026-03-10 00:00:00.000,AppLovin,core_applovin_ios_value,ios,AU,40.38,2756,66,17
+2026-03-10 00:00:00.000,AppLovin,core_applovin_ios_value,ios,BR,58.12,27481,350,70
+2026-03-10 00:00:00.000,AppLovin,core_applovin_ios_value,ios,CA,37.42,2885,78,14
+2026-03-10 00:00:00.000,AppLovin,core_applovin_ios_value,ios,ID,44.46,9132,170,54
+2026-03-10 00:00:00.000,AppLovin,core_applovin_ios_value,ios,JP,51.02,7033,105,20
+2026-03-10 00:00:00.000,AppLovin,core_applovin_ios_value,ios,KR,89.43,13502,174,34
+2026-03-10 00:00:00.000,AppLovin,core_applovin_ios_value,ios,MX,5.31,2375,32,7
+2026-03-10 00:00:00.000,AppLovin,core_applovin_ios_value,ios,PH,31.51,12263,168,42
+2026-03-10 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TH,27.23,5437,119,35
+2026-03-10 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TW,6.37,1282,31,7
+2026-03-10 00:00:00.000,AppLovin,core_applovin_ios_value,ios,US,256.98,25602,420,102
+2026-03-10 00:00:00.000,AppLovin,core_applovin_ios_value,ios,VN,27.76,4681,110,35
+2026-03-10 00:00:00.000,Google UAC,core_uac_android_global,android,AU,19.35,3197,65,12
+2026-03-10 00:00:00.000,Google UAC,core_uac_android_global,android,BR,53.8,23560,301,99
+2026-03-10 00:00:00.000,Google UAC,core_uac_android_global,android,CA,24.11,2259,60,14
+2026-03-10 00:00:00.000,Google UAC,core_uac_android_global,android,DE,6.72,550,13,4
+2026-03-10 00:00:00.000,Google UAC,core_uac_android_global,android,FR,13.36,3177,39,8
+2026-03-10 00:00:00.000,Google UAC,core_uac_android_global,android,GB,14.83,1398,32,8
+2026-03-10 00:00:00.000,Google UAC,core_uac_android_global,android,ID,44.26,21297,268,80
+2026-03-10 00:00:00.000,Google UAC,core_uac_android_global,android,JP,9.58,1227,21,6
+2026-03-10 00:00:00.000,Google UAC,core_uac_android_global,android,KR,12.3,2424,33,7
+2026-03-10 00:00:00.000,Google UAC,core_uac_android_global,android,MX,9.46,3678,71,20
+2026-03-10 00:00:00.000,Google UAC,core_uac_android_global,android,PH,42.6,11518,263,77
+2026-03-10 00:00:00.000,Google UAC,core_uac_android_global,android,TH,45.94,22492,361,78
+2026-03-10 00:00:00.000,Google UAC,core_uac_android_global,android,TW,7.0,4156,50,12
+2026-03-10 00:00:00.000,Google UAC,core_uac_android_global,android,US,32.02,4212,69,21
+2026-03-10 00:00:00.000,Google UAC,core_uac_android_global,android,VN,35.64,16377,292,75
+2026-03-10 00:00:00.000,Meta,core_meta_android_t1,android,AU,49.68,5498,80,22
+2026-03-10 00:00:00.000,Meta,core_meta_android_t1,android,CA,25.13,3176,52,12
+2026-03-10 00:00:00.000,Meta,core_meta_android_t1,android,DE,78.43,10705,168,42
+2026-03-10 00:00:00.000,Meta,core_meta_android_t1,android,FR,79.11,4567,116,39
+2026-03-10 00:00:00.000,Meta,core_meta_android_t1,android,GB,82.4,7574,188,42
+2026-03-10 00:00:00.000,Meta,core_meta_android_t1,android,JP,122.12,10410,208,52
+2026-03-10 00:00:00.000,Meta,core_meta_android_t1,android,KR,135.11,23845,384,72
+2026-03-10 00:00:00.000,Meta,core_meta_android_t1,android,TW,6.46,2194,41,10
+2026-03-10 00:00:00.000,Meta,core_meta_android_t1,android,US,462.03,29583,775,231
+2026-03-10 00:00:00.000,Meta,core_meta_ios_t1,ios,AU,43.43,6267,84,16
+2026-03-10 00:00:00.000,Meta,core_meta_ios_t1,ios,BR,62.39,23744,343,71
+2026-03-10 00:00:00.000,Meta,core_meta_ios_t1,ios,CA,42.2,4219,60,15
+2026-03-10 00:00:00.000,Meta,core_meta_ios_t1,ios,DE,122.39,9109,133,43
+2026-03-10 00:00:00.000,Meta,core_meta_ios_t1,ios,FR,75.29,4332,82,26
+2026-03-10 00:00:00.000,Meta,core_meta_ios_t1,ios,GB,86.55,13801,175,34
+2026-03-10 00:00:00.000,Meta,core_meta_ios_t1,ios,ID,37.97,7564,149,48
+2026-03-10 00:00:00.000,Meta,core_meta_ios_t1,ios,JP,59.55,4229,74,24
+2026-03-10 00:00:00.000,Meta,core_meta_ios_t1,ios,KR,86.54,5943,122,33
+2026-03-10 00:00:00.000,Meta,core_meta_ios_t1,ios,MX,7.23,2051,33,8
+2026-03-10 00:00:00.000,Meta,core_meta_ios_t1,ios,PH,35.95,12061,163,44
+2026-03-10 00:00:00.000,Meta,core_meta_ios_t1,ios,TH,25.13,11824,156,33
+2026-03-10 00:00:00.000,Meta,core_meta_ios_t1,ios,TW,9.52,4076,51,11
+2026-03-10 00:00:00.000,Meta,core_meta_ios_t1,ios,US,197.93,17075,432,80
+2026-03-10 00:00:00.000,Meta,core_meta_ios_t1,ios,VN,36.07,11871,194,50
+2026-03-10 00:00:00.000,Moloco,ct_moloco_02,ios,CA,9.57,1080,19,4
+2026-03-10 00:00:00.000,Moloco,ct_moloco_02,ios,FR,32.31,2128,35,11
+2026-03-10 00:00:00.000,TikTok,core_tiktok_android_scale,android,AU,28.17,3267,66,16
+2026-03-10 00:00:00.000,TikTok,core_tiktok_android_scale,android,BR,45.99,22344,381,79
+2026-03-10 00:00:00.000,TikTok,core_tiktok_android_scale,android,CA,30.02,4948,56,17
+2026-03-10 00:00:00.000,TikTok,core_tiktok_android_scale,android,DE,12.14,1523,40,8
+2026-03-10 00:00:00.000,TikTok,core_tiktok_android_scale,android,FR,12.32,2267,43,8
+2026-03-10 00:00:00.000,TikTok,core_tiktok_android_scale,android,GB,7.11,2015,21,4
+2026-03-10 00:00:00.000,TikTok,core_tiktok_android_scale,android,ID,26.52,10782,260,53
+2026-03-10 00:00:00.000,TikTok,core_tiktok_android_scale,android,JP,17.12,1904,42,9
+2026-03-10 00:00:00.000,TikTok,core_tiktok_android_scale,android,KR,17.01,3094,41,11
+2026-03-10 00:00:00.000,TikTok,core_tiktok_android_scale,android,PH,26.32,16030,249,48
+2026-03-10 00:00:00.000,TikTok,core_tiktok_android_scale,android,TH,19.79,7193,152,40
+2026-03-10 00:00:00.000,TikTok,core_tiktok_android_scale,android,TW,4.55,1358,28,8
+2026-03-10 00:00:00.000,TikTok,core_tiktok_android_scale,android,US,43.98,10706,146,28
+2026-03-10 00:00:00.000,TikTok,core_tiktok_android_scale,android,VN,25.91,17882,258,51
+2026-03-10 00:00:00.000,Vungle,ct_vungle_02,android,ID,7.5,2776,50,14
+2026-03-10 00:00:00.000,Vungle,ct_vungle_02,android,PH,8.85,5812,64,15
+2026-03-10 00:00:00.000,ironSource,ct_ironsource_02,android,DE,11.45,1058,27,6
+2026-03-10 00:00:00.000,ironSource,ct_ironsource_02,android,FR,21.98,3473,44,11
+2026-03-11 00:00:00.000,AppLovin,core_applovin_ios_value,ios,AU,27.15,2619,54,10
+2026-03-11 00:00:00.000,AppLovin,core_applovin_ios_value,ios,BR,45.75,12213,224,54
+2026-03-11 00:00:00.000,AppLovin,core_applovin_ios_value,ios,CA,38.43,2475,55,13
+2026-03-11 00:00:00.000,AppLovin,core_applovin_ios_value,ios,ID,44.89,14211,314,60
+2026-03-11 00:00:00.000,AppLovin,core_applovin_ios_value,ios,JP,65.64,9117,108,22
+2026-03-11 00:00:00.000,AppLovin,core_applovin_ios_value,ios,KR,102.58,5828,137,37
+2026-03-11 00:00:00.000,AppLovin,core_applovin_ios_value,ios,MX,12.5,5638,73,16
+2026-03-11 00:00:00.000,AppLovin,core_applovin_ios_value,ios,PH,38.01,10162,173,51
+2026-03-11 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TH,34.28,5526,133,41
+2026-03-11 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TW,4.31,835,18,5
+2026-03-11 00:00:00.000,AppLovin,core_applovin_ios_value,ios,US,287.24,19196,377,109
+2026-03-11 00:00:00.000,AppLovin,core_applovin_ios_value,ios,VN,23.89,3941,105,30
+2026-03-11 00:00:00.000,Google UAC,core_uac_android_global,android,AU,20.04,1906,46,12
+2026-03-11 00:00:00.000,Google UAC,core_uac_android_global,android,BR,51.87,22377,405,89
+2026-03-11 00:00:00.000,Google UAC,core_uac_android_global,android,CA,12.44,1225,29,8
+2026-03-11 00:00:00.000,Google UAC,core_uac_android_global,android,DE,6.39,1671,19,4
+2026-03-11 00:00:00.000,Google UAC,core_uac_android_global,android,FR,12.76,1673,25,7
+2026-03-11 00:00:00.000,Google UAC,core_uac_android_global,android,GB,13.97,1210,33,9
+2026-03-11 00:00:00.000,Google UAC,core_uac_android_global,android,ID,27.38,9973,264,59
+2026-03-11 00:00:00.000,Google UAC,core_uac_android_global,android,JP,9.31,2052,25,6
+2026-03-11 00:00:00.000,Google UAC,core_uac_android_global,android,KR,25.28,2293,48,13
+2026-03-11 00:00:00.000,Google UAC,core_uac_android_global,android,MX,16.99,8199,140,31
+2026-03-11 00:00:00.000,Google UAC,core_uac_android_global,android,PH,42.26,11577,232,73
+2026-03-11 00:00:00.000,Google UAC,core_uac_android_global,android,TH,30.65,24393,285,63
+2026-03-11 00:00:00.000,Google UAC,core_uac_android_global,android,TW,4.86,2648,49,9
+2026-03-11 00:00:00.000,Google UAC,core_uac_android_global,android,US,37.88,4477,79,23
+2026-03-11 00:00:00.000,Google UAC,core_uac_android_global,android,VN,44.39,21904,344,88
+2026-03-11 00:00:00.000,Meta,core_meta_android_t1,android,AU,40.47,4321,98,19
+2026-03-11 00:00:00.000,Meta,core_meta_android_t1,android,CA,21.09,1591,37,11
+2026-03-11 00:00:00.000,Meta,core_meta_android_t1,android,DE,91.42,9864,162,43
+2026-03-11 00:00:00.000,Meta,core_meta_android_t1,android,FR,120.83,8051,174,57
+2026-03-11 00:00:00.000,Meta,core_meta_android_t1,android,GB,61.68,4170,91,30
+2026-03-11 00:00:00.000,Meta,core_meta_android_t1,android,JP,103.23,9841,244,52
+2026-03-11 00:00:00.000,Meta,core_meta_android_t1,android,KR,123.94,9245,205,65
+2026-03-11 00:00:00.000,Meta,core_meta_android_t1,android,TW,4.33,1130,27,7
+2026-03-11 00:00:00.000,Meta,core_meta_android_t1,android,US,470.22,41892,780,200
+2026-03-11 00:00:00.000,Meta,core_meta_ios_t1,ios,AU,36.12,1710,36,12
+2026-03-11 00:00:00.000,Meta,core_meta_ios_t1,ios,BR,47.79,18955,208,62
+2026-03-11 00:00:00.000,Meta,core_meta_ios_t1,ios,CA,44.5,3554,62,16
+2026-03-11 00:00:00.000,Meta,core_meta_ios_t1,ios,DE,100.35,6713,178,41
+2026-03-11 00:00:00.000,Meta,core_meta_ios_t1,ios,FR,79.18,11961,143,33
+2026-03-11 00:00:00.000,Meta,core_meta_ios_t1,ios,GB,78.79,7830,104,29
+2026-03-11 00:00:00.000,Meta,core_meta_ios_t1,ios,ID,52.82,20741,240,62
+2026-03-11 00:00:00.000,Meta,core_meta_ios_t1,ios,JP,61.01,4023,72,24
+2026-03-11 00:00:00.000,Meta,core_meta_ios_t1,ios,KR,62.8,3933,86,24
+2026-03-11 00:00:00.000,Meta,core_meta_ios_t1,ios,MX,6.98,2133,27,8
+2026-03-11 00:00:00.000,Meta,core_meta_ios_t1,ios,PH,31.97,7934,212,43
+2026-03-11 00:00:00.000,Meta,core_meta_ios_t1,ios,TH,41.42,14119,144,46
+2026-03-11 00:00:00.000,Meta,core_meta_ios_t1,ios,TW,2.9,954,12,4
+2026-03-11 00:00:00.000,Meta,core_meta_ios_t1,ios,US,196.09,12250,214,71
+2026-03-11 00:00:00.000,Meta,core_meta_ios_t1,ios,VN,29.33,10435,157,33
+2026-03-11 00:00:00.000,Moloco,ct_moloco_02,ios,CA,8.69,596,14,3
+2026-03-11 00:00:00.000,Moloco,ct_moloco_02,ios,FR,31.0,2121,49,11
+2026-03-11 00:00:00.000,TikTok,core_tiktok_android_scale,android,AU,35.8,4146,57,19
+2026-03-11 00:00:00.000,TikTok,core_tiktok_android_scale,android,BR,35.2,18059,364,76
+2026-03-11 00:00:00.000,TikTok,core_tiktok_android_scale,android,CA,27.43,4405,50,17
+2026-03-11 00:00:00.000,TikTok,core_tiktok_android_scale,android,DE,7.11,501,12,4
+2026-03-11 00:00:00.000,TikTok,core_tiktok_android_scale,android,FR,7.24,950,17,4
+2026-03-11 00:00:00.000,TikTok,core_tiktok_android_scale,android,GB,10.61,770,21,7
+2026-03-11 00:00:00.000,TikTok,core_tiktok_android_scale,android,ID,27.89,10955,208,52
+2026-03-11 00:00:00.000,TikTok,core_tiktok_android_scale,android,JP,16.73,3686,37,11
+2026-03-11 00:00:00.000,TikTok,core_tiktok_android_scale,android,KR,19.8,3653,47,11
+2026-03-11 00:00:00.000,TikTok,core_tiktok_android_scale,android,PH,34.03,8327,228,58
+2026-03-11 00:00:00.000,TikTok,core_tiktok_android_scale,android,TH,23.31,5514,151,50
+2026-03-11 00:00:00.000,TikTok,core_tiktok_android_scale,android,TW,5.11,1112,27,9
+2026-03-11 00:00:00.000,TikTok,core_tiktok_android_scale,android,US,58.17,10044,121,31
+2026-03-11 00:00:00.000,TikTok,core_tiktok_android_scale,android,VN,26.0,19116,226,44
+2026-03-11 00:00:00.000,Vungle,ct_vungle_02,android,ID,9.73,2213,59,17
+2026-03-11 00:00:00.000,Vungle,ct_vungle_02,android,PH,7.51,2402,55,14
+2026-03-12 00:00:00.000,AppLovin,core_applovin_ios_value,ios,AU,56.98,4235,92,20
+2026-03-12 00:00:00.000,AppLovin,core_applovin_ios_value,ios,BR,52.55,16681,341,66
+2026-03-12 00:00:00.000,AppLovin,core_applovin_ios_value,ios,CA,20.37,2035,38,8
+2026-03-12 00:00:00.000,AppLovin,core_applovin_ios_value,ios,ID,47.29,14608,266,62
+2026-03-12 00:00:00.000,AppLovin,core_applovin_ios_value,ios,JP,52.18,7633,92,20
+2026-03-12 00:00:00.000,AppLovin,core_applovin_ios_value,ios,KR,66.1,7527,151,28
+2026-03-12 00:00:00.000,AppLovin,core_applovin_ios_value,ios,MX,7.11,2495,37,9
+2026-03-12 00:00:00.000,AppLovin,core_applovin_ios_value,ios,PH,50.19,10739,280,59
+2026-03-12 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TH,31.22,6625,150,35
+2026-03-12 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TW,6.2,2717,29,8
+2026-03-12 00:00:00.000,AppLovin,core_applovin_ios_value,ios,US,223.49,15865,402,92
+2026-03-12 00:00:00.000,AppLovin,core_applovin_ios_value,ios,VN,41.77,8883,213,47
+2026-03-12 00:00:00.000,Google UAC,core_uac_android_global,android,AU,20.23,4654,49,12
+2026-03-12 00:00:00.000,Google UAC,core_uac_android_global,android,BR,52.08,20329,283,92
+2026-03-12 00:00:00.000,Google UAC,core_uac_android_global,android,CA,23.79,2507,47,13
+2026-03-12 00:00:00.000,Google UAC,core_uac_android_global,android,DE,5.84,537,11,3
+2026-03-12 00:00:00.000,Google UAC,core_uac_android_global,android,FR,4.75,1342,16,3
+2026-03-12 00:00:00.000,Google UAC,core_uac_android_global,android,GB,10.82,862,21,6
+2026-03-12 00:00:00.000,Google UAC,core_uac_android_global,android,ID,53.02,18663,366,98
+2026-03-12 00:00:00.000,Google UAC,core_uac_android_global,android,JP,12.5,1714,27,7
+2026-03-12 00:00:00.000,Google UAC,core_uac_android_global,android,KR,22.71,3854,59,12
+2026-03-12 00:00:00.000,Google UAC,core_uac_android_global,android,MX,16.29,6754,149,32
+2026-03-12 00:00:00.000,Google UAC,core_uac_android_global,android,PH,44.49,9111,255,80
+2026-03-12 00:00:00.000,Google UAC,core_uac_android_global,android,TH,30.3,23830,283,52
+2026-03-12 00:00:00.000,Google UAC,core_uac_android_global,android,TW,2.62,1394,25,5
+2026-03-12 00:00:00.000,Google UAC,core_uac_android_global,android,US,74.66,4865,136,46
+2026-03-12 00:00:00.000,Google UAC,core_uac_android_global,android,VN,35.57,7740,212,72
+2026-03-12 00:00:00.000,Meta,core_meta_android_t1,android,AU,23.11,1393,35,11
+2026-03-12 00:00:00.000,Meta,core_meta_android_t1,android,CA,27.8,2514,44,15
+2026-03-12 00:00:00.000,Meta,core_meta_android_t1,android,DE,65.99,6641,111,34
+2026-03-12 00:00:00.000,Meta,core_meta_android_t1,android,FR,86.61,7905,136,40
+2026-03-12 00:00:00.000,Meta,core_meta_android_t1,android,GB,93.53,10980,178,46
+2026-03-12 00:00:00.000,Meta,core_meta_android_t1,android,JP,96.57,16236,245,51
+2026-03-12 00:00:00.000,Meta,core_meta_android_t1,android,KR,114.94,18010,257,61
+2026-03-12 00:00:00.000,Meta,core_meta_android_t1,android,TW,2.77,847,19,4
+2026-03-12 00:00:00.000,Meta,core_meta_android_t1,android,US,394.86,50249,993,191
+2026-03-12 00:00:00.000,Meta,core_meta_ios_t1,ios,AU,36.36,6566,76,14
+2026-03-12 00:00:00.000,Meta,core_meta_ios_t1,ios,BR,46.01,10564,185,57
+2026-03-12 00:00:00.000,Meta,core_meta_ios_t1,ios,CA,37.94,2214,40,13
+2026-03-12 00:00:00.000,Meta,core_meta_ios_t1,ios,DE,113.53,6744,159,39
+2026-03-12 00:00:00.000,Meta,core_meta_ios_t1,ios,FR,86.93,4362,104,30
+2026-03-12 00:00:00.000,Meta,core_meta_ios_t1,ios,GB,102.98,15908,201,39
+2026-03-12 00:00:00.000,Meta,core_meta_ios_t1,ios,ID,30.77,5985,144,42
+2026-03-12 00:00:00.000,Meta,core_meta_ios_t1,ios,JP,67.99,6938,138,27
+2026-03-12 00:00:00.000,Meta,core_meta_ios_t1,ios,KR,73.06,5901,79,26
+2026-03-12 00:00:00.000,Meta,core_meta_ios_t1,ios,MX,9.21,2206,34,11
+2026-03-12 00:00:00.000,Meta,core_meta_ios_t1,ios,PH,29.63,5986,151,41
+2026-03-12 00:00:00.000,Meta,core_meta_ios_t1,ios,TH,32.2,5821,114,36
+2026-03-12 00:00:00.000,Meta,core_meta_ios_t1,ios,TW,6.94,3644,42,9
+2026-03-12 00:00:00.000,Meta,core_meta_ios_t1,ios,US,220.99,11267,261,84
+2026-03-12 00:00:00.000,Meta,core_meta_ios_t1,ios,VN,33.01,7743,192,41
+2026-03-12 00:00:00.000,Moloco,ct_moloco_02,ios,FR,23.51,3243,38,10
+2026-03-12 00:00:00.000,TikTok,core_tiktok_android_scale,android,AU,11.12,1207,19,6
+2026-03-12 00:00:00.000,TikTok,core_tiktok_android_scale,android,BR,25.33,11349,157,53
+2026-03-12 00:00:00.000,TikTok,core_tiktok_android_scale,android,CA,32.57,3030,58,17
+2026-03-12 00:00:00.000,TikTok,core_tiktok_android_scale,android,DE,8.3,1177,18,5
+2026-03-12 00:00:00.000,TikTok,core_tiktok_android_scale,android,FR,15.59,2147,32,10
+2026-03-12 00:00:00.000,TikTok,core_tiktok_android_scale,android,GB,13.86,2291,36,9
+2026-03-12 00:00:00.000,TikTok,core_tiktok_android_scale,android,ID,42.52,14164,292,76
+2026-03-12 00:00:00.000,TikTok,core_tiktok_android_scale,android,JP,18.34,2229,42,12
+2026-03-12 00:00:00.000,TikTok,core_tiktok_android_scale,android,KR,18.21,1511,41,12
+2026-03-12 00:00:00.000,TikTok,core_tiktok_android_scale,android,PH,27.18,11441,249,58
+2026-03-12 00:00:00.000,TikTok,core_tiktok_android_scale,android,TH,20.28,5174,140,43
+2026-03-12 00:00:00.000,TikTok,core_tiktok_android_scale,android,TW,5.38,2470,43,10
+2026-03-12 00:00:00.000,TikTok,core_tiktok_android_scale,android,US,41.25,5089,87,24
+2026-03-12 00:00:00.000,TikTok,core_tiktok_android_scale,android,VN,18.62,6286,155,36
+2026-03-13 00:00:00.000,AppLovin,core_applovin_ios_value,ios,AU,43.5,3458,48,16
+2026-03-13 00:00:00.000,AppLovin,core_applovin_ios_value,ios,BR,43.85,8953,242,49
+2026-03-13 00:00:00.000,AppLovin,core_applovin_ios_value,ios,CA,48.05,3599,62,18
+2026-03-13 00:00:00.000,AppLovin,core_applovin_ios_value,ios,ID,38.91,4983,136,44
+2026-03-13 00:00:00.000,AppLovin,core_applovin_ios_value,ios,JP,66.0,3349,71,23
+2026-03-13 00:00:00.000,AppLovin,core_applovin_ios_value,ios,KR,80.39,7212,129,31
+2026-03-13 00:00:00.000,AppLovin,core_applovin_ios_value,ios,MX,8.93,1663,45,10
+2026-03-13 00:00:00.000,AppLovin,core_applovin_ios_value,ios,PH,34.47,7295,162,44
+2026-03-13 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TH,35.87,7898,197,50
+2026-03-13 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TW,6.59,2313,33,9
+2026-03-13 00:00:00.000,AppLovin,core_applovin_ios_value,ios,US,247.03,23214,285,86
+2026-03-13 00:00:00.000,AppLovin,core_applovin_ios_value,ios,VN,39.73,9285,182,53
+2026-03-13 00:00:00.000,Google UAC,core_uac_android_global,android,AU,25.7,3287,45,15
+2026-03-13 00:00:00.000,Google UAC,core_uac_android_global,android,BR,43.27,13495,288,93
+2026-03-13 00:00:00.000,Google UAC,core_uac_android_global,android,CA,15.08,3197,35,8
+2026-03-13 00:00:00.000,Google UAC,core_uac_android_global,android,DE,10.77,799,22,6
+2026-03-13 00:00:00.000,Google UAC,core_uac_android_global,android,FR,13.52,1063,24,7
+2026-03-13 00:00:00.000,Google UAC,core_uac_android_global,android,GB,14.76,1837,31,8
+2026-03-13 00:00:00.000,Google UAC,core_uac_android_global,android,ID,48.68,13732,264,84
+2026-03-13 00:00:00.000,Google UAC,core_uac_android_global,android,JP,13.79,2553,28,8
+2026-03-13 00:00:00.000,Google UAC,core_uac_android_global,android,KR,18.15,1248,33,10
+2026-03-13 00:00:00.000,Google UAC,core_uac_android_global,android,MX,10.28,4540,105,20
+2026-03-13 00:00:00.000,Google UAC,core_uac_android_global,android,PH,42.53,23655,371,76
+2026-03-13 00:00:00.000,Google UAC,core_uac_android_global,android,TH,25.05,9503,251,54
+2026-03-13 00:00:00.000,Google UAC,core_uac_android_global,android,TW,4.6,1350,37,9
+2026-03-13 00:00:00.000,Google UAC,core_uac_android_global,android,US,60.2,3936,109,32
+2026-03-13 00:00:00.000,Google UAC,core_uac_android_global,android,VN,41.39,13838,215,73
+2026-03-13 00:00:00.000,Meta,core_meta_android_t1,android,AU,32.27,2555,53,14
+2026-03-13 00:00:00.000,Meta,core_meta_android_t1,android,CA,22.34,4037,61,12
+2026-03-13 00:00:00.000,Meta,core_meta_android_t1,android,DE,94.51,16430,226,51
+2026-03-13 00:00:00.000,Meta,core_meta_android_t1,android,FR,52.14,6790,88,27
+2026-03-13 00:00:00.000,Meta,core_meta_android_t1,android,GB,86.47,9760,178,39
+2026-03-13 00:00:00.000,Meta,core_meta_android_t1,android,JP,124.0,16693,229,56
+2026-03-13 00:00:00.000,Meta,core_meta_android_t1,android,KR,131.48,10155,240,60
+2026-03-13 00:00:00.000,Meta,core_meta_android_t1,android,TW,6.11,1841,49,9
+2026-03-13 00:00:00.000,Meta,core_meta_android_t1,android,US,380.93,45777,1074,203
+2026-03-13 00:00:00.000,Meta,core_meta_ios_t1,ios,AU,28.03,1297,34,11
+2026-03-13 00:00:00.000,Meta,core_meta_ios_t1,ios,BR,51.57,14871,197,65
+2026-03-13 00:00:00.000,Meta,core_meta_ios_t1,ios,CA,33.75,3376,66,13
+2026-03-13 00:00:00.000,Meta,core_meta_ios_t1,ios,DE,121.54,12903,182,47
+2026-03-13 00:00:00.000,Meta,core_meta_ios_t1,ios,FR,69.98,4393,120,29
+2026-03-13 00:00:00.000,Meta,core_meta_ios_t1,ios,GB,83.4,6529,170,33
+2026-03-13 00:00:00.000,Meta,core_meta_ios_t1,ios,ID,39.74,16826,197,55
+2026-03-13 00:00:00.000,Meta,core_meta_ios_t1,ios,JP,91.43,9495,151,33
+2026-03-13 00:00:00.000,Meta,core_meta_ios_t1,ios,KR,47.42,3243,86,16
+2026-03-13 00:00:00.000,Meta,core_meta_ios_t1,ios,MX,5.94,1783,31,8
+2026-03-13 00:00:00.000,Meta,core_meta_ios_t1,ios,PH,38.92,16457,192,48
+2026-03-13 00:00:00.000,Meta,core_meta_ios_t1,ios,TH,31.54,9202,150,42
+2026-03-13 00:00:00.000,Meta,core_meta_ios_t1,ios,TW,8.27,1679,46,10
+2026-03-13 00:00:00.000,Meta,core_meta_ios_t1,ios,US,238.35,14640,319,89
+2026-03-13 00:00:00.000,Meta,core_meta_ios_t1,ios,VN,31.88,15406,176,38
+2026-03-13 00:00:00.000,Moloco,ct_moloco_02,ios,CA,8.2,423,11,3
+2026-03-13 00:00:00.000,Moloco,ct_moloco_02,ios,FR,19.54,1430,27,8
+2026-03-13 00:00:00.000,TikTok,core_tiktok_android_scale,android,AU,17.74,4251,52,10
+2026-03-13 00:00:00.000,TikTok,core_tiktok_android_scale,android,BR,35.52,9968,255,64
+2026-03-13 00:00:00.000,TikTok,core_tiktok_android_scale,android,CA,20.64,1322,37,12
+2026-03-13 00:00:00.000,TikTok,core_tiktok_android_scale,android,DE,15.95,3393,39,10
+2026-03-13 00:00:00.000,TikTok,core_tiktok_android_scale,android,FR,5.49,901,15,3
+2026-03-13 00:00:00.000,TikTok,core_tiktok_android_scale,android,GB,9.19,655,16,5
+2026-03-13 00:00:00.000,TikTok,core_tiktok_android_scale,android,ID,26.47,18260,227,51
+2026-03-13 00:00:00.000,TikTok,core_tiktok_android_scale,android,JP,13.6,2627,42,8
+2026-03-13 00:00:00.000,TikTok,core_tiktok_android_scale,android,KR,12.15,1785,30,7
+2026-03-13 00:00:00.000,TikTok,core_tiktok_android_scale,android,PH,23.55,10393,267,51
+2026-03-13 00:00:00.000,TikTok,core_tiktok_android_scale,android,TH,21.8,7045,125,37
+2026-03-13 00:00:00.000,TikTok,core_tiktok_android_scale,android,TW,4.73,1227,31,10
+2026-03-13 00:00:00.000,TikTok,core_tiktok_android_scale,android,US,42.3,4886,93,25
+2026-03-13 00:00:00.000,TikTok,core_tiktok_android_scale,android,VN,23.47,6842,190,40
+2026-03-14 00:00:00.000,AppLovin,core_applovin_ios_value,ios,AU,40.51,4642,49,14
+2026-03-14 00:00:00.000,AppLovin,core_applovin_ios_value,ios,BR,47.57,7921,171,56
+2026-03-14 00:00:00.000,AppLovin,core_applovin_ios_value,ios,CA,27.02,1974,37,9
+2026-03-14 00:00:00.000,AppLovin,core_applovin_ios_value,ios,ID,40.24,19721,215,47
+2026-03-14 00:00:00.000,AppLovin,core_applovin_ios_value,ios,JP,27.48,2148,50,10
+2026-03-14 00:00:00.000,AppLovin,core_applovin_ios_value,ios,KR,73.93,12475,153,31
+2026-03-14 00:00:00.000,AppLovin,core_applovin_ios_value,ios,MX,10.51,3519,50,14
+2026-03-14 00:00:00.000,AppLovin,core_applovin_ios_value,ios,PH,40.92,17113,240,53
+2026-03-14 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TH,34.9,6578,165,39
+2026-03-14 00:00:00.000,AppLovin,core_applovin_ios_value,ios,TW,6.38,2355,37,7
+2026-03-14 00:00:00.000,AppLovin,core_applovin_ios_value,ios,US,251.37,19162,407,84
+2026-03-14 00:00:00.000,AppLovin,core_applovin_ios_value,ios,VN,27.76,8525,114,36
+2026-03-14 00:00:00.000,Google UAC,core_uac_android_global,android,AU,24.62,1641,43,14
+2026-03-14 00:00:00.000,Google UAC,core_uac_android_global,android,BR,52.81,19819,398,93
+2026-03-14 00:00:00.000,Google UAC,core_uac_android_global,android,CA,11.08,1283,27,7
+2026-03-14 00:00:00.000,Google UAC,core_uac_android_global,android,DE,9.05,1010,23,5
+2026-03-14 00:00:00.000,Google UAC,core_uac_android_global,android,FR,3.53,530,6,2
+2026-03-14 00:00:00.000,Google UAC,core_uac_android_global,android,GB,7.54,2019,22,4
+2026-03-14 00:00:00.000,Google UAC,core_uac_android_global,android,ID,37.73,30895,327,80
+2026-03-14 00:00:00.000,Google UAC,core_uac_android_global,android,JP,16.05,1096,29,9
+2026-03-14 00:00:00.000,Google UAC,core_uac_android_global,android,KR,8.52,798,16,5
+2026-03-14 00:00:00.000,Google UAC,core_uac_android_global,android,MX,17.23,7917,90,30
+2026-03-14 00:00:00.000,Google UAC,core_uac_android_global,android,PH,40.62,11563,239,77
+2026-03-14 00:00:00.000,Google UAC,core_uac_android_global,android,TH,28.92,13052,176,57
+2026-03-14 00:00:00.000,Google UAC,core_uac_android_global,android,TW,4.33,1826,33,8
+2026-03-14 00:00:00.000,Google UAC,core_uac_android_global,android,US,44.03,2882,80,23
+2026-03-14 00:00:00.000,Google UAC,core_uac_android_global,android,VN,31.71,9890,190,55
+2026-03-14 00:00:00.000,Meta,core_meta_android_t1,android,AU,25.1,4070,60,11
+2026-03-14 00:00:00.000,Meta,core_meta_android_t1,android,CA,48.74,3947,72,22
+2026-03-14 00:00:00.000,Meta,core_meta_android_t1,android,DE,82.98,6111,137,39
+2026-03-14 00:00:00.000,Meta,core_meta_android_t1,android,FR,76.23,11751,136,34
+2026-03-14 00:00:00.000,Meta,core_meta_android_t1,android,GB,103.03,9202,170,51
+2026-03-14 00:00:00.000,Meta,core_meta_android_t1,android,JP,114.06,16143,277,54
+2026-03-14 00:00:00.000,Meta,core_meta_android_t1,android,KR,130.41,19094,251,65
+2026-03-14 00:00:00.000,Meta,core_meta_android_t1,android,TW,1.75,542,15,3
+2026-03-14 00:00:00.000,Meta,core_meta_android_t1,android,US,473.4,27040,637,216
+2026-03-14 00:00:00.000,Meta,core_meta_ios_t1,ios,AU,24.27,2416,27,9
+2026-03-14 00:00:00.000,Meta,core_meta_ios_t1,ios,BR,38.05,8447,186,48
+2026-03-14 00:00:00.000,Meta,core_meta_ios_t1,ios,CA,30.57,3142,56,13
+2026-03-14 00:00:00.000,Meta,core_meta_ios_t1,ios,DE,102.82,10868,232,43
+2026-03-14 00:00:00.000,Meta,core_meta_ios_t1,ios,FR,91.92,9188,130,37
+2026-03-14 00:00:00.000,Meta,core_meta_ios_t1,ios,GB,115.6,8756,129,39
+2026-03-14 00:00:00.000,Meta,core_meta_ios_t1,ios,ID,45.27,10312,192,52
+2026-03-14 00:00:00.000,Meta,core_meta_ios_t1,ios,JP,80.89,13268,141,31
+2026-03-14 00:00:00.000,Meta,core_meta_ios_t1,ios,KR,88.28,6578,105,30
+2026-03-14 00:00:00.000,Meta,core_meta_ios_t1,ios,MX,9.13,2426,58,11
+2026-03-14 00:00:00.000,Meta,core_meta_ios_t1,ios,PH,38.34,11816,266,51
+2026-03-14 00:00:00.000,Meta,core_meta_ios_t1,ios,TH,29.19,13785,140,35
+2026-03-14 00:00:00.000,Meta,core_meta_ios_t1,ios,TW,3.53,591,14,4
+2026-03-14 00:00:00.000,Meta,core_meta_ios_t1,ios,US,222.52,15661,382,81
+2026-03-14 00:00:00.000,Meta,core_meta_ios_t1,ios,VN,30.3,7631,142,37
+2026-03-14 00:00:00.000,TikTok,core_tiktok_android_scale,android,AU,24.85,6393,64,14
+2026-03-14 00:00:00.000,TikTok,core_tiktok_android_scale,android,BR,42.13,9609,257,79
+2026-03-14 00:00:00.000,TikTok,core_tiktok_android_scale,android,CA,14.97,2586,39,9
+2026-03-14 00:00:00.000,TikTok,core_tiktok_android_scale,android,DE,14.22,1964,46,9
+2026-03-14 00:00:00.000,TikTok,core_tiktok_android_scale,android,FR,6.03,735,15,4
+2026-03-14 00:00:00.000,TikTok,core_tiktok_android_scale,android,GB,7.73,1077,12,4
+2026-03-14 00:00:00.000,TikTok,core_tiktok_android_scale,android,ID,25.03,7189,157,53
+2026-03-14 00:00:00.000,TikTok,core_tiktok_android_scale,android,JP,10.16,2487,30,6
+2026-03-14 00:00:00.000,TikTok,core_tiktok_android_scale,android,KR,18.09,4981,66,12
+2026-03-14 00:00:00.000,TikTok,core_tiktok_android_scale,android,PH,26.71,9413,132,45
+2026-03-14 00:00:00.000,TikTok,core_tiktok_android_scale,android,TH,22.0,6489,152,38
+2026-03-14 00:00:00.000,TikTok,core_tiktok_android_scale,android,TW,6.5,2744,50,11
+2026-03-14 00:00:00.000,TikTok,core_tiktok_android_scale,android,US,62.09,9196,146,33
+2026-03-14 00:00:00.000,TikTok,core_tiktok_android_scale,android,VN,21.47,11783,162,43
