@@ -17,9 +17,10 @@ Dự án tập trung bóc tách dữ liệu hành vi, phân khúc người chơi
 ```text
 d7_retention_drop_analysis/
 │
-├── chart_visualized/                       # Lưu trữ các biểu đồ phân tích
+├── chart_visualized/                      # Lưu trữ các biểu đồ phân tích
 ├── sql/
 │   └── sql_ad_hoc_query.sql               # Tổng hợp toàn bộ mã nguồn SQL truy vấn dữ liệu từ DB
+├── data/                                  # Dữ liệu mẫu
 ├── notebooks/
 │   └── visualize.ipynb                    # Jupyter Notebook kết nối DuckDB, xử lý dữ liệu và vẽ biểu đồ
 ├── reports/
